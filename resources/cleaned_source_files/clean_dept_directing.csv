@@ -1,0 +1,3230 @@
+movie_id,department,gender,job,name
+5,Directing,1.0,Director,Allison Anders
+14,Directing,1.0,Script Supervisor,Ana Maria Quintana
+20,Directing,1.0,Director,Isabel Coixet
+22,Directing,1.0,Second Assistant Director,Susan J. Hellmann
+38,Directing,1.0,Script Supervisor,Mary Cybulski
+65,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+69,Directing,1.0,Script Supervisor,Sheila Waldron
+74,Directing,1.0,Script Supervisor,Ana Maria Quintana
+82,Directing,1.0,Script Supervisor,Pamela Alch
+90,Directing,1.0,Script Supervisor,Betty Goldberg
+95,Directing,1.0,Script Supervisor,Karen Golden
+96,Directing,1.0,Script Supervisor,Betty A. Griffin
+102,Directing,1.0,Director,Susanne Bier
+103,Directing,1.0,Script Supervisor,Kay Chapin
+112,Directing,1.0,Director,Lone Scherfig
+118,Directing,1.0,Script Supervisor,Nikki Clapp
+132,Directing,1.0,Director,Charlotte Zwerin
+137,Directing,1.0,Script Supervisor,Judi Townsend
+148,Directing,1.0,Director,Isabel Coixet
+153,Directing,1.0,Director,Sofia Coppola
+153,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+156,Directing,1.0,Director,Lone Scherfig
+161,Directing,1.0,Script Supervisor,Annie Welles
+163,Directing,1.0,Script Supervisor,Annie Welles
+167,Directing,1.0,Script Supervisor,Karen Golden
+176,Directing,1.0,Script Supervisor,Jillian Giacomini
+179,Directing,1.0,Script Supervisor,Dianne Dreyer
+180,Directing,1.0,Script Supervisor,Ana Maria Quintana
+187,Directing,1.0,Script Supervisor,Monika Petrillo
+189,Directing,1.0,Script Supervisor,Monika Petrillo
+205,Directing,1.0,Script Supervisor,Lisa Vick
+231,Directing,1.0,Script Supervisor,Mary Cybulski
+260,Directing,1.0,Script Supervisor,Alma Reville
+281,Directing,1.0,Director,Kathryn Bigelow
+285,Directing,1.0,Script Supervisor,Pamela Alch
+285,Directing,1.0,Script Supervisor,Sharron Reynolds
+285,Directing,1.0,Script Supervisor,Karen Golden
+287,Directing,1.0,Script Supervisor,Karen Golden
+294,Directing,1.0,Director,Donna Deitch
+297,Directing,1.0,Script Supervisor,Lisa Katcher
+298,Directing,1.0,Script Supervisor,Annie Welles
+312,Directing,1.0,Director,Caroline Link
+314,Directing,1.0,Script Supervisor,Cristina Weigmann
+317,Directing,1.0,Director,Jasmila Zbanic
+329,Directing,1.0,Script Supervisor,Ana Maria Quintana
+330,Directing,1.0,Script Supervisor,Ana Maria Quintana
+333,Directing,1.0,Director,Deepa Mehta
+402,Directing,1.0,Script Supervisor,Trudy Ramirez
+423,Directing,1.0,Assistant Director,Weronika Migon
+453,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+455,Directing,1.0,Director,Gurinder Chadha
+462,Directing,1.0,Script Supervisor,Annie Welles
+465,Directing,1.0,Director,Catherine Breillat
+480,Directing,1.0,Director,Mira Nair
+499,Directing,1.0,Director,Agnès Varda
+500,Directing,1.0,First Assistant Director,Jamie Beardsley
+504,Directing,1.0,Director,Patty Jenkins
+513,Directing,1.0,Director,Deepa Mehta
+534,Directing,1.0,Script Supervisor,Trudy Ramirez
+535,Directing,1.0,Script Supervisor,Joanie Blum
+540,Directing,1.0,Director,Angela Robinson
+540,Directing,1.0,Script Supervisor,Diana Valentine
+558,Directing,1.0,Script Supervisor,Trudy Ramirez
+559,Directing,1.0,Script Supervisor,Trudy Ramirez
+568,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+570,Directing,1.0,Director,Catherine Breillat
+575,Directing,1.0,Assistant Director,Isabel Kleefeld
+578,Directing,1.0,Script Supervisor,Charlsie Bryant
+586,Directing,1.0,Script Supervisor,Julie Pitkanen
+594,Directing,1.0,Script Supervisor,Jessica Lichtner
+594,Directing,1.0,Script Supervisor,Ana Maria Quintana
+602,Directing,1.0,Script Supervisor,Annie Welles
+603,Directing,1.0,Director,Lilly Wachowski
+603,Directing,1.0,Director,Lana Wachowski
+604,Directing,1.0,Director,Lilly Wachowski
+604,Directing,1.0,Director,Lana Wachowski
+605,Directing,1.0,Director,Lilly Wachowski
+605,Directing,1.0,Director,Lana Wachowski
+607,Directing,1.0,Script Supervisor,Mary Bailey
+608,Directing,1.0,Script Supervisor,Mary Bailey
+618,Directing,1.0,Assistant Director,Christy Cabanne
+619,Directing,1.0,Script Supervisor,Karen Golden
+621,Directing,1.0,Script Supervisor,Joyce King
+623,Directing,1.0,Continuity,Diana Dill
+624,Directing,1.0,Script Supervisor,Joyce King
+634,Directing,1.0,Director,Sharon Maguire
+640,Directing,1.0,Script Supervisor,Ana Maria Quintana
+644,Directing,1.0,Script Supervisor,Ana Maria Quintana
+652,Directing,1.0,Script Supervisor,Anna Worley
+655,Directing,1.0,Script Supervisor,Helen Caldwell
+655,Directing,1.0,Assistant Director,Claire Denis
+664,Directing,1.0,Script Supervisor,Trudy Ramirez
+676,Directing,1.0,Script Supervisor,Karen Golden
+677,Directing,1.0,Director,Leni Riefenstahl
+685,Directing,1.0,Director,Leni Riefenstahl
+686,Directing,1.0,Script Supervisor,Luca Kouimelis
+687,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+698,Directing,1.0,Assistant Director,Barbara Broccoli
+700,Directing,1.0,Assistant Director,Barbara Broccoli
+703,Directing,1.0,Script Supervisor,Kay Chapin
+707,Directing,1.0,Assistant Director,Barbara Broccoli
+713,Directing,1.0,Director,Jane Campion
+752,Directing,1.0,Script Supervisor,Julie Brown
+754,Directing,1.0,Script Supervisor,Cate Hardman
+767,Directing,1.0,Script Supervisor,Anna Worley
+773,Directing,1.0,Script Supervisor,Suzanne C. Swindle
+773,Directing,1.0,Director,Valerie Faris
+799,Directing,1.0,Director,Caroline Link
+808,Directing,1.0,Layout,Denise Nolan Cascino
+808,Directing,1.0,Director,Vicky Jenson
+840,Directing,1.0,Script Supervisor,Charlsie Bryant
+847,Directing,1.0,Script Supervisor,Sally Jones
+855,Directing,1.0,Script Supervisor,Sally Jones
+857,Directing,1.0,Script Supervisor,Ana Maria Quintana
+858,Directing,1.0,Script Supervisor,Mary A. Kelly
+923,Directing,1.0,Assistant Director,Christine Forrest
+936,Directing,1.0,Script Supervisor,Betty A. Griffin
+942,Directing,1.0,Script Supervisor,Nancy Hansen
+949,Directing,1.0,Script Supervisor,Cate Hardman
+951,Directing,1.0,Script Supervisor,Julie Pitkanen
+954,Directing,1.0,Script Supervisor,Diana Dill
+1049,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+1058,Directing,1.0,Script Supervisor,Julie Pitkanen
+1073,Directing,1.0,Script Supervisor,Patricia A. Fullerton
+1088,Directing,1.0,Director,Niki Caro
+1089,Directing,1.0,Director,Kathryn Bigelow
+1091,Directing,1.0,Script Supervisor,Christine Wilson
+1213,Directing,1.0,Script Supervisor,Dianne Dreyer
+1245,Directing,1.0,Script Supervisor,Diana Dill
+1248,Directing,1.0,Script Supervisor,Laura Goulding
+1262,Directing,1.0,Other,Alyson Latz
+1359,Directing,1.0,Script Supervisor,Dawn Sorokolit
+1359,Directing,1.0,Director,Mary Harron
+1360,Directing,1.0,Director,Julie Taymor
+1366,Directing,1.0,Script Supervisor,Bonnie Prendergast
+1382,Directing,1.0,Director,Miranda July
+1418,Directing,1.0,Director,Icíar Bollaín
+1421,Directing,1.0,Assistant Director,Suzanne Schiffman
+1443,Directing,1.0,Director,Sofia Coppola
+1480,Directing,1.0,Script Supervisor,Betty A. Griffin
+1492,Directing,1.0,Script Supervisor,Luca Kouimelis
+1493,Directing,1.0,Script Supervisor,Pam Fuller
+1495,Directing,1.0,Script Supervisor,Anna Worley
+1535,Directing,1.0,Script Supervisor,Anna Worley
+1541,Directing,1.0,Script Supervisor,Luca Kouimelis
+1551,Directing,1.0,Script Supervisor,Pamela Alch
+1573,Directing,1.0,Script Supervisor,Annette Haywood-Carter
+1580,Directing,1.0,Script Supervisor,Charlsie Bryant
+1581,Directing,1.0,Director,Nancy Meyers
+1583,Directing,1.0,Assistant Director,Isabel Kleefeld
+1584,Directing,1.0,Script Supervisor,Julie Oppenheimer
+1590,Directing,1.0,Director,Agnieszka Holland
+1591,Directing,1.0,Director,Caroline Link
+1596,Directing,1.0,Director,Michelle MacLaren
+1597,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+1600,Directing,1.0,Script Supervisor,Christine Raffa-Catonné
+1626,Directing,1.0,Script Supervisor,Suzanne Schiffman
+1627,Directing,1.0,Assistant Director,Suzanne Schiffman
+1631,Directing,1.0,Director,Catherine Breillat
+1635,Directing,1.0,Script Supervisor,Karen Golden
+1639,Directing,1.0,Script Supervisor,Trudy Ramirez
+1641,Directing,1.0,Director,Bronwen Hughes
+1641,Directing,1.0,Script Supervisor,Cate Hardman
+1646,Directing,1.0,Script Supervisor,Brenda Lopez
+1647,Directing,1.0,Second Assistant Director,Penny Charter
+1647,Directing,1.0,Script Supervisor,Samantha Armstrong
+1660,Directing,1.0,Assistant Director,Suzanne Schiffman
+1675,Directing,1.0,Assistant Director,Suzanne Schiffman
+1677,Directing,1.0,Script Supervisor,Pamela Alch
+1715,Directing,1.0,Script Supervisor,Jane Goldsmith
+1717,Directing,1.0,Script Supervisor,Jane Goldsmith
+1726,Directing,1.0,Script Supervisor,Cristina Weigmann
+1731,Directing,1.0,Director,Sandra Nettelbeck
+1738,Directing,1.0,Script Supervisor,Luca Kouimelis
+1817,Directing,1.0,Script Supervisor,Sharron Reynolds
+1824,Directing,1.0,Script Supervisor,Nancy Karlin
+1829,Directing,1.0,Assistant Director,Suzanne Schiffman
+1832,Directing,1.0,Script Supervisor,Carol Banker
+1836,Directing,1.0,Director,Marina de Van
+1843,Directing,1.0,Director,Ondi Timoner
+1844,Directing,1.0,Script Supervisor,Lisa Vick
+1845,Directing,1.0,Director,Julie Delpy
+1853,Directing,1.0,Director,Jessica Yu
+1877,Directing,1.0,Script Supervisor,Petra Jorgensen
+1887,Directing,1.0,Director,Sofia Coppola
+1890,Directing,1.0,Director,Randa Haines
+1900,Directing,1.0,Script Supervisor,Annie Welles
+1903,Directing,1.0,Script Supervisor,Dianne Dreyer
+1903,Directing,1.0,Script Supervisor,Ana Maria Quintana
+1914,Directing,1.0,Director,Ute Wieland
+1919,Directing,1.0,Director,Sarah Polley
+1926,Directing,1.0,Director,Mira Nair
+1950,Directing,1.0,Script Supervisor,Julie Pitkanen
+1955,Directing,1.0,Script Supervisor,Ceri Evans
+1957,Directing,1.0,Script Supervisor,Benita Brazier
+1959,Directing,1.0,Director,Beeban Kidron
+1965,Directing,1.0,Script Supervisor,Dru Anne Carlson
+1966,Directing,1.0,Script Supervisor,Julie Brown
+1991,Directing,1.0,Script Supervisor,Pam Fuller
+1995,Directing,1.0,Script Supervisor,Lisa Vick
+2001,Directing,1.0,Script Supervisor,Rebecca Fulton
+2001,Directing,1.0,Script Supervisor,Veronica Lupu
+2002,Directing,1.0,Director,Catherine Breillat
+2003,Directing,1.0,Director,Catherine Breillat
+2010,Directing,1.0,Director,Naomi Kawase
+2011,Directing,1.0,Director,Marjane Satrapi
+2034,Directing,1.0,Script Supervisor,Nicole Cummins
+2043,Directing,1.0,Script Supervisor,Christine Wilson
+2044,Directing,1.0,Script Supervisor,Sherry Gallarneau
+2046,Directing,1.0,Script Supervisor,Karen Golden
+2049,Directing,1.0,Director,Doris Dörrie
+2074,Directing,1.0,Script Supervisor,Julie Oppenheimer
+2084,Directing,1.0,Script Supervisor,Lisa Vick
+2105,Directing,1.0,Script Supervisor,Annie Welles
+2107,Directing,1.0,Script Supervisor,Pamela Alch
+2116,Directing,1.0,First Assistant Director,Melanie Grefe
+2118,Directing,1.0,Script Supervisor,Sharron Reynolds
+2152,Directing,1.0,Director,Cecilia Peck
+2152,Directing,1.0,Director,Barbara Kopple
+2157,Directing,1.0,Script Supervisor,Nikki Clapp
+2165,Directing,1.0,Director,Kari Skogland
+2197,Directing,1.0,Director,Marion Hänsel
+2251,Directing,1.0,Script Supervisor,Dianne Dreyer
+2266,Directing,1.0,Director,Isabel Coixet
+2266,Directing,1.0,Director,Gurinder Chadha
+2266,Directing,1.0,Director,Daniela Thomas
+2268,Directing,1.0,Script Supervisor,Nikki Clapp
+2275,Directing,1.0,Script Supervisor,Patti Dalzell
+2280,Directing,1.0,Director,Penny Marshall
+2288,Directing,1.0,Script Supervisor,Mary Bailey
+2289,Directing,1.0,Script Supervisor,Dianne Dreyer
+2294,Directing,1.0,Script Supervisor,Hilary Momberger
+2309,Directing,1.0,Script Supervisor,Anna Worley
+2310,Directing,1.0,Script Supervisor,Luca Kouimelis
+2355,Directing,1.0,Script Supervisor,Nancy Karlin
+2442,Directing,1.0,Assistant Director,Julia Done
+2447,Directing,1.0,Director,Catherine Hardwicke
+2454,Directing,1.0,Script Supervisor,Alexa Alden
+2493,Directing,1.0,Script Supervisor,Ceri Evans
+2539,Directing,1.0,Script Supervisor,Sharron Reynolds
+2608,Directing,1.0,Director,Amy Holden Jones
+2613,Directing,1.0,Script Supervisor,Mary A. Kelly
+2621,Directing,1.0,Director,Bonnie Hunt
+2623,Directing,1.0,Script Supervisor,Mary Ann Newfield
+2637,Directing,1.0,Script Supervisor,Patricia A. Fullerton
+2655,Directing,1.0,Script Supervisor,Luca Kouimelis
+2666,Directing,1.0,Script Supervisor,Sophie Fabbri-Jackson
+2675,Directing,1.0,Script Supervisor,Dianne Dreyer
+2749,Directing,1.0,Script Supervisor,Chiemi Karasawa
+2749,Directing,1.0,Script Supervisor,Trudy Ramirez
+2755,Directing,1.0,Script Supervisor,Rebecca Robertson
+2756,Directing,1.0,Script Supervisor,Sharron Reynolds
+2762,Directing,1.0,Script Supervisor,Alma Reville
+2768,Directing,1.0,Script Supervisor,Cynnie Troup
+2770,Directing,1.0,Script Supervisor,Sherry Gallarneau
+2771,Directing,1.0,Director,Shari Springer Berman
+2832,Directing,1.0,Script Supervisor,Sheila Waldron
+2891,Directing,1.0,Director,Jane Campion
+2898,Directing,1.0,Other,Susan Perlman
+2976,Directing,1.0,Second Assistant Director,Joanna Moore
+2998,Directing,1.0,Script Supervisor,Bonnie Prendergast
+3021,Directing,1.0,Script Supervisor,Tricia Ronten
+3021,Directing,1.0,Script Supervisor,Catherine Allinson
+3050,Directing,1.0,Director,Betty Thomas
+3059,Directing,1.0,Second Assistant Director,Christy Cabanne
+3121,Directing,1.0,Script Supervisor,Joyce King
+3134,Directing,1.0,Director,Coralie
+3396,Directing,1.0,Director,Sarah Price
+3525,Directing,1.0,Script Supervisor,Mary Bailey
+3542,Directing,1.0,Director,Pascale Ferran
+3549,Directing,1.0,Director,Susanne Bier
+3600,Directing,1.0,Script Supervisor,Pamela Alch
+3640,Directing,1.0,Director,Sandra Nettelbeck
+3698,Directing,1.0,Director,Michele Lupo
+3875,Directing,1.0,Director,Susanne Bier
+3877,Directing,1.0,Director,Susanne Bier
+3966,Directing,1.0,Director,Abby Berlin
+3981,Directing,1.0,Director,Nancy Meyers
+4105,Directing,1.0,Script Supervisor,Luca Kouimelis
+4133,Directing,1.0,Script Supervisor,Pamela Alch
+4140,Directing,1.0,Director,Lucy Walker
+4180,Directing,1.0,Director,Coline Serreau
+4232,Directing,1.0,Script Supervisor,Annie Welles
+4234,Directing,1.0,Script Supervisor,Sheila Waldron
+4365,Directing,1.0,Director,Tina Hirsch
+4413,Directing,1.0,Script Supervisor,Mary Cybulski
+4442,Directing,1.0,Script Supervisor,Nikki Clapp
+4464,Directing,1.0,Script Supervisor,Julie Pitkanen
+4475,Directing,1.0,Director,Rebecca Miller
+4482,Directing,1.0,Director,Josiane Balasko
+4547,Directing,1.0,Script Supervisor,Sharron Reynolds
+4553,Directing,1.0,Script Supervisor,Glòria Blanes
+4592,Directing,1.0,Script Supervisor,Sharon Cingle
+4658,Directing,1.0,Director,Sarah Robertson
+4683,Directing,1.0,Assistant Director,Suzanne Schiffman
+4688,Directing,1.0,Director,Julie Taymor
+4723,Directing,1.0,Script Supervisor,Maxine Bergen
+4747,Directing,1.0,Director,Marguerite Duras
+4762,Directing,1.0,Director,Margarethe von Trotta
+4771,Directing,1.0,Script Supervisor,Sheila Waldron
+4780,Directing,1.0,Script Supervisor,Hannah Scheel
+4832,Directing,1.0,Director,Nadia Conners
+4839,Directing,1.0,Director,Maria Schrader
+4882,Directing,1.0,Script Supervisor,Joreta C. Cherry
+4913,Directing,1.0,Script Supervisor,Veronica Lupu
+4922,Directing,1.0,Script Supervisor,Sharron Reynolds
+4934,Directing,1.0,Script Supervisor,Doris DeHerdt
+4951,Directing,1.0,Script Supervisor,Nancy Karlin
+4955,Directing,1.0,Director,Eva Ebner
+4967,Directing,1.0,Script Supervisor,Deirdre Horgan
+4982,Directing,1.0,Script Supervisor,Mary A. Kelly
+5123,Directing,1.0,Director,Kirsten Sheridan
+5123,Directing,1.0,Script Supervisor,Jessica Lichtner
+5137,Directing,1.0,Script Supervisor,Sally Jones
+5176,Directing,1.0,Script Supervisor,Mamie Mitchell
+5176,Directing,1.0,Script Supervisor,Sheila Waldron
+5237,Directing,1.0,Script Supervisor,Antoinette van Speyk
+5255,Directing,1.0,Script Supervisor,Luca Kouimelis
+5289,Directing,1.0,Script Supervisor,Jeannine Dupuy
+5375,Directing,1.0,Script Supervisor,Lisa Vick
+5622,Directing,1.0,Script Supervisor,Norma Giacchero
+5718,Directing,1.0,Script Supervisor,Rebecca Robertson
+5871,Directing,1.0,Script Supervisor,Milena Mihaylova
+5915,Directing,1.0,Script Supervisor,Luca Kouimelis
+5951,Directing,1.0,Director,Robin Swicord
+5966,Directing,1.0,Script Supervisor,Annie Welles
+5966,Directing,1.0,Second Assistant Director,Lisa Bloch-Tobey
+6016,Directing,1.0,Script Supervisor,Diana Dill
+6068,Directing,1.0,Script Supervisor,Judith Saunders
+6073,Directing,1.0,Script Supervisor,Cate Hardman
+6163,Directing,1.0,Script Supervisor,Tanya Mazur
+6187,Directing,1.0,Director,Anne Fontaine
+6317,Directing,1.0,Director,Margarethe von Trotta
+6360,Directing,1.0,Director,Valeria Bruni Tedeschi
+6443,Directing,1.0,Director,Maren Ade
+6461,Directing,1.0,Director,Doris Dörrie
+6466,Directing,1.0,Second Assistant Director,Ivana Siska
+6519,Directing,1.0,Script Supervisor,Rebecca Fulton
+6535,Directing,1.0,Director,Kasi Lemmons
+6557,Directing,1.0,Director,Anne Fletcher
+6623,Directing,1.0,Director,Mimi Leder
+6644,Directing,1.0,Script Supervisor,Charlsie Bryant
+6947,Directing,1.0,Script Supervisor,Dianne Dreyer
+6961,Directing,1.0,Director,Clare Kilner
+6963,Directing,1.0,Script Supervisor,Dru Anne Carlson
+6964,Directing,1.0,Director,Nancy Meyers
+6967,Directing,1.0,Director,Hermine Huntgeburth
+6972,Directing,1.0,Script Supervisor,Sophie Fabbri-Jackson
+7191,Directing,1.0,Script Supervisor,Dawn Gilliam
+7220,Directing,1.0,Script Supervisor,Deirdre Horgan
+7299,Directing,1.0,Script Supervisor,Pamela Alch
+7299,Directing,1.0,Script Supervisor,Tess Malone
+7303,Directing,1.0,Script Supervisor,Mary Cybulski
+7340,Directing,1.0,Script Supervisor,Hannah Scheel
+7341,Directing,1.0,Director,Katt Shea
+7445,Directing,1.0,Script Supervisor,Jan Rudolph
+7451,Directing,1.0,Script Supervisor,Jules Stewart
+7459,Directing,1.0,Director,Lana Wachowski
+7459,Directing,1.0,Director,Lilly Wachowski
+7484,Directing,1.0,Director,Jill Culton
+7504,Directing,1.0,Director,Deepa Mehta
+7509,Directing,1.0,Director,Deepa Mehta
+7510,Directing,1.0,Script Supervisor,Diana Valentine
+7547,Directing,1.0,Director,Joey Lauren Adams
+7840,Directing,1.0,Script Supervisor,Lisa Vick
+7857,Directing,1.0,Script Supervisor,Norma Giacchero
+7916,Directing,1.0,Script Supervisor,Joecy Shepherd
+7973,Directing,1.0,Director,Nadine Labaki
+7978,Directing,1.0,Script Supervisor,Lisa Vick
+7983,Directing,1.0,Director,Leni Riefenstahl
+8008,Directing,1.0,Director,Alison Murray
+8053,Directing,1.0,Script Supervisor,Pam Fuller
+8060,Directing,1.0,Script Supervisor,Christine Wilson
+8070,Directing,1.0,Assistant Director,Suzanne Schiffman
+8078,Directing,1.0,Script Supervisor,Shannon Kenny
+8079,Directing,1.0,Director,Farah Khan
+8080,Directing,1.0,Script Supervisor,Judi Townsend
+8130,Directing,1.0,Director,Susan Seidelman
+8202,Directing,1.0,Director,Karyn Kusama
+8247,Directing,1.0,Script Supervisor,Samantha Armstrong
+8289,Directing,1.0,Script Supervisor,Mary Holdsworth
+8292,Directing,1.0,Script Supervisor,Samantha Armstrong
+8316,Directing,1.0,Director,Julie Delpy
+8321,Directing,1.0,Script Supervisor,Rowena Ladbury
+8333,Directing,1.0,Script Supervisor,Nancy Hopton
+8337,Directing,1.0,Script Supervisor,Sandy King
+8357,Directing,1.0,Director,Betsy Chasse
+8359,Directing,1.0,Director,Patricia Rozema
+8373,Directing,1.0,Script Supervisor,Karen Golden
+8391,Directing,1.0,Director,Patricia Rozema
+8427,Directing,1.0,Director,Betty Thomas
+8456,Directing,1.0,Script Supervisor,Melinda Taksen
+8556,Directing,1.0,Director,Doris Dörrie
+8617,Directing,1.0,Script Supervisor,Patricia A. Fullerton
+8619,Directing,1.0,Script Supervisor,Brenda Lopez
+8643,Directing,1.0,Script Supervisor,Christine Wilson
+8643,Directing,1.0,Script Supervisor,Gabi Endicott
+8643,Directing,1.0,Script Supervisor,Lara Fox
+8656,Directing,1.0,Director,Mimi Leder
+8665,Directing,1.0,Director,Kathryn Bigelow
+8669,Directing,1.0,Script Supervisor,Susan Marucci
+8698,Directing,1.0,Script Supervisor,Catherine Allinson
+8831,Directing,1.0,Script Supervisor,Christine Wilson
+8839,Directing,1.0,Script Supervisor,Annette Haywood-Carter
+8839,Directing,1.0,Script Supervisor,Ana Maria Quintana
+8843,Directing,1.0,Script Supervisor,Judi Townsend
+8852,Directing,1.0,Script Supervisor,Sandy King
+8866,Directing,1.0,Script Supervisor,Tricia Ronten
+8870,Directing,1.0,Script Supervisor,Sophie Fabbri-Jackson
+8888,Directing,1.0,Director,Caroline Link
+8902,Directing,1.0,Director,Daniela Thomas
+8913,Directing,1.0,Director,Mary Lambert
+8915,Directing,1.0,Script Supervisor,Susan Marucci
+8915,Directing,1.0,Director,Mira Nair
+8922,Directing,1.0,Script Supervisor,Patricia A. Fullerton
+8942,Directing,1.0,Director,Kelly Reichardt
+8961,Directing,1.0,Script Supervisor,Jane Goldsmith
+8966,Directing,1.0,Director,Catherine Hardwicke
+8967,Directing,1.0,Script Supervisor,Rebecca Fulton
+8975,Directing,1.0,Script Supervisor,Alexa Alden
+8985,Directing,1.0,Director,Aisling Walsh
+8985,Directing,1.0,Director,Francesca Comencini
+8985,Directing,1.0,Director,Barbara Albert
+8985,Directing,1.0,Director,Ágnes Hranitzky
+8988,Directing,1.0,Script Supervisor,Sherry Gallarneau
+8996,Directing,1.0,Director,Agnieszka Holland
+8998,Directing,1.0,Director,Nicole Holofcener
+9005,Directing,1.0,Script Supervisor,Amy Sobin
+9008,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+9008,Directing,1.0,Script Supervisor,Julie Pitkanen
+9021,Directing,1.0,Script Supervisor,Cristina Weigmann
+9023,Directing,1.0,Director,Lorna Cook
+9027,Directing,1.0,Director,Daisy von Scherler Mayer
+9032,Directing,1.0,Script Supervisor,Lisa Katcher
+9037,Directing,1.0,Director,Patricia Birch
+9042,Directing,1.0,Script Supervisor,Sophie Fabbri-Jackson
+9066,Directing,1.0,Director,Betty Thomas
+9067,Directing,1.0,Director,Rachel Talalay
+9089,Directing,1.0,Script Supervisor,Dianne Dreyer
+9089,Directing,1.0,Director,Jodie Foster
+9090,Directing,1.0,Director,Beeban Kidron
+9090,Directing,1.0,Script Supervisor,Mary Cybulski
+9092,Directing,1.0,Script Supervisor,Sally Jones
+9101,Directing,1.0,Script Supervisor,Lainie Miller
+9257,Directing,1.0,Script Supervisor,Benita Brazier
+9263,Directing,1.0,Director,Lesli Linka Glatter
+9264,Directing,1.0,Director,Katt Shea
+9266,Directing,1.0,Script Supervisor,Brenda Lopez
+9277,Directing,1.0,Script Supervisor,Charlsie Bryant
+9283,Directing,1.0,Script Supervisor,Wendy Lee Roberts
+9291,Directing,1.0,Script Supervisor,Nancy Karlin
+9293,Directing,1.0,Director,Betty Thomas
+9300,Directing,1.0,Director,Sally Potter
+9303,Directing,1.0,Director,Lilly Wachowski
+9303,Directing,1.0,Director,Lana Wachowski
+9304,Directing,1.0,Script Supervisor,Judi Townsend
+9310,Directing,1.0,Script Supervisor,Mary Anne Seward
+9312,Directing,1.0,Script Supervisor,Jules Stewart
+9315,Directing,1.0,Script Supervisor,Judi Townsend
+9341,Directing,1.0,Script Supervisor,Christine Wilson
+9349,Directing,1.0,Script Supervisor,Dea Cantu
+9356,Directing,1.0,Director,Amy Heckerling
+9364,Directing,1.0,Director,Andrea Arnold
+9378,Directing,1.0,Assistant Director,Ashley Bell
+9384,Directing,1.0,Script Supervisor,Tricia Ronten
+9388,Directing,1.0,Script Supervisor,Mary Anne Seward
+9398,Directing,1.0,Assistant Director,Amy Sayres
+9398,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+9403,Directing,1.0,Director,Betty Thomas
+9407,Directing,1.0,Script Supervisor,Luca Kouimelis
+9414,Directing,1.0,Script Supervisor,Sally Jones
+9422,Directing,1.0,Script Supervisor,Jane Goldsmith
+9423,Directing,1.0,Script Supervisor,Deirdre Horgan
+9424,Directing,1.0,Script Supervisor,Cristina Weigmann
+9426,Directing,1.0,Script Supervisor,Gillian Richardson
+9431,Directing,1.0,Script Supervisor,Lara Fox
+9433,Directing,1.0,Script Supervisor,Christine Wilson
+9441,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+9459,Directing,1.0,Assistant Director,Thelma Schoonmaker
+9475,Directing,1.0,Assistant Director,Amy Sayres
+9480,Directing,1.0,Script Supervisor,Rebecca Robertson
+9489,Directing,1.0,Script Supervisor,Dianne Dreyer
+9490,Directing,1.0,Director,Tamra Davis
+9491,Directing,1.0,Director,Kathryn Bigelow
+9494,Directing,1.0,Director,Amy Heckerling
+9504,Directing,1.0,Script Supervisor,Dianne Dreyer
+9509,Directing,1.0,Script Supervisor,Julie Pitkanen
+9510,Directing,1.0,Assistant Director,Basia Baumann
+9514,Directing,1.0,Assistant Director,Christiane Rittner
+9526,Directing,1.0,Script Supervisor,Dru Anne Carlson
+9532,Directing,1.0,Script Supervisor,Lara Fox
+9541,Directing,1.0,Script Supervisor,Carol Banker
+9544,Directing,1.0,Script Supervisor,Catherine Allinson
+9544,Directing,1.0,Script Supervisor,Sheila McNaught
+9548,Directing,1.0,Script Supervisor,Nancy Hansen
+9557,Directing,1.0,Script Supervisor,Petra Jorgensen
+9560,Directing,1.0,Script Supervisor,Ingrid Urich-Sass
+9567,Directing,1.0,Script Supervisor,Mary Anne Seward
+9570,Directing,1.0,Script Supervisor,Sandy Nelson
+9583,Directing,1.0,Director,Callie Khouri
+9587,Directing,1.0,Script Supervisor,Christine Wilson
+9587,Directing,1.0,Director,Gillian Armstrong
+9599,Directing,1.0,Script Supervisor,Helen Caldwell
+9603,Directing,1.0,Director,Amy Heckerling
+9619,Directing,1.0,Script Supervisor,Judi Townsend
+9620,Directing,1.0,Script Supervisor,Cate Hardman
+9631,Directing,1.0,Script Supervisor,Sharron Reynolds
+9644,Directing,1.0,Script Supervisor,Sydney Conrad Shapiro
+9645,Directing,1.0,Second Assistant Director,Jennifer Leacey
+9653,Directing,1.0,Director,Leontine Sagan
+9654,Directing,1.0,Script Supervisor,Rebecca Robertson
+9663,Directing,1.0,Script Supervisor,Sandy King
+9664,Directing,1.0,Script Supervisor,Sally Jones
+9672,Directing,1.0,Script Supervisor,Pam Fuller
+9675,Directing,1.0,Script Supervisor,Rebecca Robertson
+9692,Directing,1.0,Director,Nicole Kassell
+9693,Directing,1.0,Script Supervisor,Ceri Evans
+9697,Directing,1.0,Script Supervisor,Mary Cybulski
+9701,Directing,1.0,Director,Niki Caro
+9714,Directing,1.0,Script Supervisor,Dru Anne Carlson
+9716,Directing,1.0,Script Supervisor,Kay Chapin
+9724,Directing,1.0,Director,Gurinder Chadha
+9726,Directing,1.0,Script Supervisor,Nikki Clapp
+9729,Directing,1.0,Script Supervisor,Diana Dill
+9740,Directing,1.0,Script Supervisor,Luca Kouimelis
+9741,Directing,1.0,Script Supervisor,Dianne Dreyer
+9759,Directing,1.0,Script Supervisor,Brenda Lopez
+9762,Directing,1.0,Script Supervisor,Cristina Weigmann
+9762,Directing,1.0,Director,Anne Fletcher
+9772,Directing,1.0,Script Supervisor,Dianne Dreyer
+9787,Directing,1.0,Director,Catherine Hardwicke
+9799,Directing,1.0,Script Supervisor,Deirdre Horgan
+9801,Directing,1.0,Director,Beeban Kidron
+9802,Directing,1.0,Script Supervisor,Karen Golden
+9804,Directing,1.0,Script Supervisor,Ana Maria Quintana
+9813,Directing,1.0,Director,Jamie Babbit
+9819,Directing,1.0,First Assistant Director,Ellen H. Schwartz
+9820,Directing,1.0,Director,Nancy Meyers
+9833,Directing,1.0,Script Supervisor,Sally Jones
+9835,Directing,1.0,Script Supervisor,Trudy Ramirez
+9836,Directing,1.0,Co-Director,Judy Morris
+9837,Directing,1.0,Director,Brenda Chapman
+9839,Directing,1.0,Script Supervisor,Nikki Clapp
+9844,Directing,1.0,Script Supervisor,Rebecca Robertson
+9899,Directing,1.0,Director,Susan Stroman
+9902,Directing,1.0,Second Assistant Director,Catherine Gourdier
+9903,Directing,1.0,Script Supervisor,Mary A. Kelly
+9914,Directing,1.0,Script Supervisor,Cornelia Stefan
+9923,Directing,1.0,Script Supervisor,Julie Pitkanen
+9940,Directing,1.0,Director,Toni Naples
+9944,Directing,1.0,Script Supervisor,Dianne Dreyer
+9946,Directing,1.0,Script Supervisor,Tricia Ronten
+9981,Directing,1.0,Script Supervisor,Nancy Karlin
+10004,Directing,1.0,Script Supervisor,Joanie Blum
+10012,Directing,1.0,Script Supervisor,Shannon Kenny
+10051,Directing,1.0,Director,Danièle Thompson
+10054,Directing,1.0,Script Supervisor,Gina Grande
+10057,Directing,1.0,Script Supervisor,Sally Jones
+10075,Directing,1.0,Script Supervisor,Lisa Vick
+10075,Directing,1.0,Director,Katja von Garnier
+10093,Directing,1.0,Script Supervisor,Gina Grande
+10096,Directing,1.0,Script Supervisor,Sharron Reynolds
+10111,Directing,1.0,Director,Debbie Isitt
+10115,Directing,1.0,Director,Jessica Bendinger
+10118,Directing,1.0,Director,Martha Coolidge
+10130,Directing,1.0,Script Supervisor,Mary Holdsworth
+10146,Directing,1.0,Director,Doris Dörrie
+10153,Directing,1.0,Script Supervisor,Heather Harris
+10153,Directing,1.0,Script Supervisor,Julie Pitkanen
+10183,Directing,1.0,Director,Courtney Hunt
+10188,Directing,1.0,Director,Sanaa Hamri
+10201,Directing,1.0,Script Supervisor,Sheila Waldron
+10206,Directing,1.0,Director,Fran Rubel Kuzui
+10212,Directing,1.0,Director,Antonia Bird
+10215,Directing,1.0,Script Supervisor,Ceri Evans
+10268,Directing,1.0,Director,Isabelle Mergault
+10292,Directing,1.0,Director,Mary Lambert
+10292,Directing,1.0,Script Supervisor,Suzanne Bingham
+10294,Directing,1.0,Script Supervisor,Patricia A. Fullerton
+10320,Directing,1.0,Script Supervisor,Trudy Ramirez
+10330,Directing,1.0,Script Supervisor,Pamela Alch
+10337,Directing,1.0,Script Supervisor,Julie Pitkanen
+10371,Directing,1.0,Script Supervisor,Lori Doherty
+10384,Directing,1.0,Script Supervisor,Sherry Gallarneau
+10384,Directing,1.0,Script Supervisor,Tricia Ronten
+10385,Directing,1.0,Director,Diane Keaton
+10388,Directing,1.0,Script Supervisor,Annie Welles
+10395,Directing,1.0,Script Supervisor,Mary Bailey
+10396,Directing,1.0,Script Supervisor,Mary A. Kelly
+10399,Directing,1.0,Director,Patricia Rozema
+10400,Directing,1.0,Script Supervisor,Samantha Armstrong
+10423,Directing,1.0,Script Supervisor,Deirdre Horgan
+10428,Directing,1.0,Script Supervisor,Diana Dill
+10435,Directing,1.0,Script Supervisor,Nikki Clapp
+10443,Directing,1.0,Script Supervisor,Julie Pitkanen
+10445,Directing,1.0,Script Supervisor,Nikki Clapp
+10464,Directing,1.0,Director,Jessie Nelson
+10468,Directing,1.0,Director,Betty Thomas
+10474,Directing,1.0,Script Supervisor,Lisa Katcher
+10476,Directing,1.0,Script Supervisor,Ilene Pickus
+10478,Directing,1.0,Script Supervisor,Karen Golden
+10488,Directing,1.0,Director,Jennifer Flackett
+10520,Directing,1.0,Director,Jamie Babbit
+10524,Directing,1.0,Director,Sophie Marceau
+10543,Directing,1.0,Script Supervisor,Christine Wilson
+10547,Directing,1.0,Script Supervisor,Dea Cantu
+10547,Directing,1.0,Script Supervisor,Rebecca Fulton
+10555,Directing,1.0,Director,Vicky Jenson
+10559,Directing,1.0,Script Supervisor,Samantha Armstrong
+10590,Directing,1.0,Script Supervisor,Cate Hardman
+10609,Directing,1.0,Script Supervisor,Nikki Clapp
+10632,Directing,1.0,Script Supervisor,Julie Pitkanen
+10636,Directing,1.0,Director,Maria von Heland
+10641,Directing,1.0,Director,Joan Chen
+10642,Directing,1.0,Director,Amy Heckerling
+10647,Directing,1.0,Director,Mimi Leder
+10657,Directing,1.0,Script Supervisor,Christine Wilson
+10691,Directing,1.0,Script Supervisor,Monica Ochoa
+10697,Directing,1.0,Director,Agnès Jaoui
+10708,Directing,1.0,Script Supervisor,Nancy Karlin
+10729,Directing,1.0,Script Supervisor,Kay Chapin
+10733,Directing,1.0,Script Supervisor,Gina Grande
+10735,Directing,1.0,Director,Dennie Gordon
+10739,Directing,1.0,Script Supervisor,Kay Chapin
+10740,Directing,1.0,Script Supervisor,Jessica Lichtner
+10744,Directing,1.0,Script Supervisor,Rebecca Poulos
+10758,Directing,1.0,Director,Adrienne Shelly
+10762,Directing,1.0,Script Supervisor,Julie Pitkanen
+10770,Directing,1.0,Director,Michele Lupo
+10771,Directing,1.0,Script Supervisor,Susan Marucci
+10782,Directing,1.0,Script Supervisor,Ilene Pickus
+10796,Directing,1.0,Script Supervisor,Lina Shanklin
+10804,Directing,1.0,Script Supervisor,Diana Dill
+10806,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+10808,Directing,1.0,Script Supervisor,Nancy Karlin
+10818,Directing,1.0,Director,Céline Sciamma
+10833,Directing,1.0,Script Supervisor,Sharron Reynolds
+10861,Directing,1.0,Script Supervisor,Lara Fox
+10868,Directing,1.0,Script Supervisor,Lara Fox
+10877,Directing,1.0,Script Supervisor,Susan Marucci
+10900,Directing,1.0,Director,Jennifer Chambers Lynch
+10906,Directing,1.0,Director,Mary Lambert
+10909,Directing,1.0,Script Supervisor,Jane Goldsmith
+10909,Directing,1.0,Script Supervisor,Lynn Harris
+10921,Directing,1.0,Director,Janet Greek
+10934,Directing,1.0,Director,Audrey Wells
+10944,Directing,1.0,Director,Jane Campion
+10944,Directing,1.0,Script Supervisor,Mary Cybulski
+10945,Directing,1.0,Director,Penny Marshall
+10950,Directing,1.0,First Assistant Director,Lisa Demaine
+10950,Directing,1.0,Director,Jessie Nelson
+10955,Directing,1.0,Director,Liliana Cavani
+10956,Directing,1.0,Director,Dennie Gordon
+10985,Directing,1.0,Script Supervisor,Gina Grande
+11005,Directing,1.0,Director,Penny Marshall
+11016,Directing,1.0,Script Supervisor,Jean Baker
+11017,Directing,1.0,Director,Tamra Davis
+11023,Directing,1.0,Director,Catherine Hardwicke
+11025,Directing,1.0,Director,Dennie Gordon
+11030,Directing,1.0,Script Supervisor,Kay Chapin
+11035,Directing,1.0,Script Supervisor,Norma Giacchero
+11036,Directing,1.0,Script Supervisor,Melinda Taksen
+11039,Directing,1.0,Director,Michele Lupo
+11088,Directing,1.0,Script Supervisor,Mary Cybulski
+11091,Directing,1.0,Director,Penny Marshall
+11128,Directing,1.0,Script Supervisor,Deirdre Horgan
+11132,Directing,1.0,Director,Sara Sugarman
+11137,Directing,1.0,Director,Martha Coolidge
+11144,Directing,1.0,Director,Michele Lupo
+11148,Directing,1.0,Director,Lucía Puenzo
+11156,Directing,1.0,Director,Anne Fontaine
+11157,Directing,1.0,Script Supervisor,Mary A. Kelly
+11157,Directing,1.0,Director,Susan Seidelman
+11163,Directing,1.0,Continuity,Norma Giacchero
+11169,Directing,1.0,Script Supervisor,Judi Townsend
+11172,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+11184,Directing,1.0,Script Supervisor,Mary Cybulski
+11206,Directing,1.0,Script Supervisor,Doris DeHerdt
+11217,Directing,1.0,Script Supervisor,Rebecca Fulton
+11232,Directing,1.0,Script Supervisor,Sheila Waldron
+11236,Directing,1.0,Director,Agnieszka Holland
+11258,Directing,1.0,Script Supervisor,Mary Anne Seward
+11260,Directing,1.0,Script Supervisor,Sherry Gallarneau
+11284,Directing,1.0,Director,Rachel Talalay
+11287,Directing,1.0,Director,Penny Marshall
+11293,Directing,1.0,Script Supervisor,Karen Hale Wookey
+11338,Directing,1.0,Script Supervisor,Pamela Alch
+11348,Directing,1.0,Script Supervisor,Glòria Blanes
+11351,Directing,1.0,Script Supervisor,Patricia A. Fullerton
+11370,Directing,1.0,Script Supervisor,Sheila McNaught
+11371,Directing,1.0,Script Supervisor,Rebecca Robertson
+11377,Directing,1.0,Script Supervisor,Mary Anne Seward
+11384,Directing,1.0,Script Supervisor,Dianne Dreyer
+11397,Directing,1.0,Script Supervisor,Heather Harris
+11399,Directing,1.0,Director,Agnès Jaoui
+11417,Directing,1.0,Script Supervisor,Puck de Leeuw
+11417,Directing,1.0,Assistant Director,Myrna van Gilst
+11418,Directing,1.0,Director,Amy Heckerling
+11431,Directing,1.0,Script Supervisor,Samantha Armstrong
+11448,Directing,1.0,Script Supervisor,Kay Chapin
+11451,Directing,1.0,Script Supervisor,Jane Goldsmith
+11451,Directing,1.0,Director,Angela Robinson
+11459,Directing,1.0,Script Supervisor,Pamela Alch
+11460,Directing,1.0,Script Supervisor,Sheila Waldron
+11465,Directing,1.0,Script Supervisor,Benita Brazier
+11465,Directing,1.0,Script Supervisor,Sally Jones
+11499,Directing,1.0,Script Supervisor,Sherry Gallarneau
+11511,Directing,1.0,Script Supervisor,Dawn Gilliam
+11521,Directing,1.0,Script Supervisor,Mary Cybulski
+11521,Directing,1.0,Director,Jodie Foster
+11526,Directing,1.0,Director,Katja von Garnier
+11562,Directing,1.0,Script Supervisor,Kay Chapin
+11566,Directing,1.0,Script Supervisor,Karen Hale Wookey
+11596,Directing,1.0,Script Supervisor,Gretchen Oehler
+11603,Directing,1.0,Assistant Director,Amy Lynn
+11614,Directing,1.0,Director,Michele Lupo
+11615,Directing,1.0,Script Supervisor,Gina Grande
+11622,Directing,1.0,Script Supervisor,Trudy Ramirez
+11631,Directing,1.0,Director,Phyllida Lloyd
+11632,Directing,1.0,Director,Mira Nair
+11638,Directing,1.0,Script Supervisor,Rebecca Robertson
+11671,Directing,1.0,Director,Isabel Coixet
+11679,Directing,1.0,Script Supervisor,Luca Kouimelis
+11699,Directing,1.0,Script Supervisor,Amy Sanderson
+11705,Directing,1.0,Director,Andrea Arnold
+11752,Directing,1.0,Director,Ute Wieland
+11808,Directing,1.0,Script Supervisor,Dru Anne Carlson
+11814,Directing,1.0,Script Supervisor,Luca Kouimelis
+11820,Directing,1.0,Script Supervisor,Lisa Katcher
+11835,Directing,1.0,Script Supervisor,Melinda Taksen
+11848,Directing,1.0,Director,Joy Batchelor
+11858,Directing,1.0,Director,Penny Marshall
+11860,Directing,1.0,Script Supervisor,Mary A. Kelly
+11861,Directing,1.0,Director,Jocelyn Moorhouse
+11879,Directing,1.0,Director,Kathryn Bigelow
+11880,Directing,1.0,Script Supervisor,Sheila McNaught
+11907,Directing,1.0,Director,Doris Dörrie
+11936,Directing,1.0,Script Supervisor,Norma Giacchero
+11969,Directing,1.0,Script Supervisor,Mary Wright
+11973,Directing,1.0,Script Supervisor,Deirdre Horgan
+12085,Directing,1.0,Director,Callie Khouri
+12088,Directing,1.0,Script Supervisor,Sophie Fabbri-Jackson
+12090,Directing,1.0,Script Supervisor,Diane Durant
+12096,Directing,1.0,Script Supervisor,Diane Durant
+12100,Directing,1.0,Script Supervisor,Cate Hardman
+12102,Directing,1.0,Script Supervisor,Renata Stoia
+12133,Directing,1.0,Script Supervisor,Cate Hardman
+12153,Directing,1.0,Script Supervisor,Christine Wilson
+12162,Directing,1.0,Director,Kathryn Bigelow
+12192,Directing,1.0,Script Supervisor,Cheryl Starbuck
+12193,Directing,1.0,Script Supervisor,Trudy Ramirez
+12271,Directing,1.0,Script Supervisor,Jillian Amburgey
+12271,Directing,1.0,Script Supervisor,Melinda Taksen
+12435,Directing,1.0,Director,Shari Springer Berman
+12475,Directing,1.0,Script Supervisor,Dea Cantu
+12476,Directing,1.0,Script Supervisor,Annie Welles
+12499,Directing,1.0,Script Supervisor,Judith Saunders
+12509,Directing,1.0,Script Supervisor,Peggy Sutton
+12524,Directing,1.0,Director,Julie Taymor
+12526,Directing,1.0,Script Supervisor,Jillian Amburgey
+12572,Directing,1.0,Director,Mira Nair
+12572,Directing,1.0,Director,Natalie Portman
+12578,Directing,1.0,Director,Maximiliane Mainka
+12579,Directing,1.0,Assistant Director,Suzanne Schiffman
+12606,Directing,1.0,Director,Arlene Sanford
+12620,Directing,1.0,Script Supervisor,Judi Townsend
+12626,Directing,1.0,Script Supervisor,Mary Bailey
+12629,Directing,1.0,Script Supervisor,Elizabeth S. Barton
+12657,Directing,1.0,Script Supervisor,Jules Stewart
+12658,Directing,1.0,Script Supervisor,Mary A. Kelly
+12660,Directing,1.0,Director,Gillian Armstrong
+12662,Directing,1.0,Script Supervisor,Betty A. Griffin
+12685,Directing,1.0,Assistant Director,Čejen Černić
+12689,Directing,1.0,Director,Gurinder Chadha
+12690,Directing,1.0,Script Supervisor,Joanna Kennedy
+12702,Directing,1.0,Director,Kristine Peterson
+12704,Directing,1.0,Director,Elaine May
+12723,Directing,1.0,Script Supervisor,Karen Golden
+12763,Directing,1.0,Director,Liz Friedlander
+12793,Directing,1.0,Script Supervisor,Jamie Babbit
+12837,Directing,1.0,Director,Gina Prince-Bythewood
+12890,Directing,1.0,Script Supervisor,Cristina Weigmann
+13023,Directing,1.0,Director,Ricki Stern
+13027,Directing,1.0,Script Supervisor,Karen Golden
+13053,Directing,1.0,Layout,Jennifer Kesinger
+13055,Directing,1.0,Director,Amber Benson
+13090,Directing,1.0,Script Coordinator,Joanna Kennedy
+13090,Directing,1.0,Director,Christine Jeffs
+13107,Directing,1.0,Script Supervisor,Patricia A. Fullerton
+13153,Directing,1.0,Script Supervisor,Sharron Reynolds
+13154,Directing,1.0,Script Supervisor,Jules Stewart
+13155,Directing,1.0,Continuity,Sally Jones
+13162,Directing,1.0,Script Supervisor,Kate Morrison
+13166,Directing,1.0,Script Supervisor,Cristina Weigmann
+13196,Directing,1.0,Director,Helen Hunt
+13249,Directing,1.0,Script Supervisor,Joanna Kennedy
+13259,Directing,1.0,Director,Nanette Burstein
+13342,Directing,1.0,Director,Amy Heckerling
+13351,Directing,1.0,Director,Jun Falkenstein
+13380,Directing,1.0,Second Assistant Director,Elizabeth Scherberger
+13416,Directing,1.0,Script Supervisor,Gina Grande
+13448,Directing,1.0,Script Supervisor,Sherry Gallarneau
+13526,Directing,1.0,Director,Kathryn Bigelow
+13551,Directing,1.0,Director,Karen Moncrieff
+13640,Directing,1.0,Director,Lauren Montgomery
+13665,Directing,1.0,Script Supervisor,Kay Chapin
+13667,Directing,1.0,Script Supervisor,Maria Lease
+13668,Directing,1.0,Script Supervisor,Christine Wilson
+13668,Directing,1.0,Director,Susannah Grant
+13673,Directing,1.0,Script Supervisor,Luca Kouimelis
+13676,Directing,1.0,Director,Peggy Holmes
+13696,Directing,1.0,Assistant Director,Sherry Shourds
+13710,Directing,1.0,Director,Isabelle Mergault
+13787,Directing,1.0,Director,Jane Campion
+13817,Directing,1.0,Director,Ana Kokkinos
+13819,Directing,1.0,Director,Lisa Cholodenko
+13820,Directing,1.0,Script Supervisor,Sharron Reynolds
+13821,Directing,1.0,Assistant Director,Debbie Antoniou
+13834,Directing,1.0,Director,Gabrielle Savage Dockterman
+13910,Directing,1.0,Director,Gillian Armstrong
+13919,Directing,1.0,Script Supervisor,Patti Dalzell
+13963,Directing,1.0,Assistant Director,Linda McMurray
+13966,Directing,1.0,Script Supervisor,Anna Worley
+13972,Directing,1.0,Director,Diane English
+13979,Directing,1.0,Director,Julia Loktev
+13991,Directing,1.0,Director,Deb Hagan
+13998,Directing,1.0,Script Supervisor,Mary Bailey
+14047,Directing,1.0,Script Supervisor,Karen Golden
+14113,Directing,1.0,Script Supervisor,Susan Marucci
+14125,Directing,1.0,Script Supervisor,Emma Thomas
+14134,Directing,1.0,Director,Farah Khan
+14137,Directing,1.0,Script Supervisor,Sharon Watt
+14167,Directing,1.0,Script Supervisor,Veda Semarne
+14169,Directing,1.0,Director,Michele Lupo
+14191,Directing,1.0,Director,Elizabeth Allen Rosenbaum
+14199,Directing,1.0,Script Supervisor,Monika Petrillo
+14204,Directing,1.0,Director,Jessica Yu
+14268,Directing,1.0,Director,Jehane Noujaim
+14268,Directing,1.0,Director,Chris Hegedus
+14289,Directing,1.0,Script Supervisor,Melanie Mander
+14299,Directing,1.0,Director,Darnell Martin
+14306,Directing,1.0,Script Supervisor,Sheila Waldron
+14317,Directing,1.0,Director,Cathy Malkasian
+14347,Directing,1.0,Script Supervisor,Sally Jones
+14358,Directing,1.0,Director,Marilyn Agrelo
+14359,Directing,1.0,Script Supervisor,Dianne Dreyer
+14370,Directing,1.0,Director,Martha Coolidge
+14372,Directing,1.0,Script Supervisor,Ceri Evans
+14412,Directing,1.0,Script Supervisor,Pamela Alch
+14462,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+14506,Directing,1.0,Script Supervisor,Nikki Clapp
+14522,Directing,1.0,Director,Caroline Thompson
+14555,Directing,1.0,Director,Diane Kurys
+14564,Directing,1.0,Script Supervisor,Diane Durant
+14587,Directing,1.0,Director,Gurinder Chadha
+14626,Directing,1.0,Director,Claire Denis
+14629,Directing,1.0,Director,Fina Torres
+14634,Directing,1.0,Director,Kari Skogland
+14667,Directing,1.0,Director,Nancy Savoca
+14676,Directing,1.0,Script Supervisor,Charlsie Bryant
+14688,Directing,1.0,Director,Danièle Thompson
+14695,Directing,1.0,Director,Barbara Kopple
+14720,Directing,1.0,Director,Maïwenn
+14729,Directing,1.0,Script Supervisor,Sandy King
+14736,Directing,1.0,Director,Gina Prince-Bythewood
+14758,Directing,1.0,Director,Marianna Palka
+14845,Directing,1.0,Director,Sue Kramer
+14846,Directing,1.0,Script Supervisor,Nancy Karlin
+14847,Directing,1.0,Script Supervisor,Laura Goulding
+14857,Directing,1.0,Script Supervisor,Susan Williams
+14864,Directing,1.0,Script Supervisor,Marita Grabiak
+14893,Directing,1.0,Director,Hella Joof
+14904,Directing,1.0,Director,Jocelyn Moorhouse
+14912,Directing,1.0,Director,Tamara Olson
+14916,Directing,1.0,Script Supervisor,Rebecca Poulos
+14979,Directing,1.0,Director,Mimi Leder
+15006,Directing,1.0,Director,Alison Eastwood
+15019,Directing,1.0,Director,Amy Heckerling
+15028,Directing,1.0,Script Supervisor,Judi Brown
+15030,Directing,1.0,Director,Louise Osmond
+15037,Directing,1.0,Director,Deborah Kaplan
+15058,Directing,1.0,Director,Jessica Sharzer
+15092,Directing,1.0,Script Supervisor,Jules Stewart
+15104,Directing,1.0,Director,María Ripoll
+15143,Directing,1.0,Script Supervisor,Pamela Alch
+15166,Directing,1.0,Script Supervisor,Monica Ochoa
+15170,Directing,1.0,Director,Caroline Thompson
+15186,Directing,1.0,Script Supervisor,Rebecca Robertson
+15256,Directing,1.0,Director,Risa Bramon Garcia
+15278,Directing,1.0,Director,Tamra Davis
+15292,Directing,1.0,Director,Dana Brown
+15302,Directing,1.0,Director,Leslie Iwerks
+15342,Directing,1.0,Director,Anne Fontaine
+15359,Directing,1.0,Director,Lauren Montgomery
+15363,Directing,1.0,Director,Sanaa Hamri
+15400,Directing,1.0,Director,Jun Falkenstein
+15402,Directing,1.0,Director,Mary Harron
+15420,Directing,1.0,Script Supervisor,Tanya Mazur
+15436,Directing,1.0,Director,Agnès Jaoui
+15460,Directing,1.0,Director,Josiane Balasko
+15472,Directing,1.0,Script Supervisor,Lotta Westberg
+15476,Directing,1.0,Script Supervisor,Iwona Kanclerz
+15506,Directing,1.0,Director,Anjelica Huston
+15516,Directing,1.0,Assistant Director,Yvonne Hannemann
+15590,Directing,1.0,Director,Catherine Cyran
+15616,Directing,1.0,Script Supervisor,Amy Sanderson
+15655,Directing,1.0,Director,Jun Falkenstein
+15705,Directing,1.0,Director,Sharon Maguire
+15723,Directing,1.0,Script Supervisor,Chiemi Karasawa
+15723,Directing,1.0,Assistant Director,Amanda Slater
+15749,Directing,1.0,Director,Susan Montford
+15804,Directing,1.0,Assistant Director,Angelika Wang
+15809,Directing,1.0,Script Supervisor,Kimberley Roper
+15915,Directing,1.0,Script Supervisor,Maria Davidovici
+15956,Directing,1.0,Director,Lone Scherfig
+16071,Directing,1.0,Director,Mary Stuart Masterson
+16153,Directing,1.0,Script Supervisor,Julie Pitkanen
+16164,Directing,1.0,Script Supervisor,Samantha Armstrong
+16177,Directing,1.0,Assistant Director,Myrna van Gilst
+16325,Directing,1.0,Script Supervisor,Shelly Stoyanova
+16356,Directing,1.0,Director,Kari Skogland
+16358,Directing,1.0,Script Supervisor,Karen Golden
+16406,Directing,1.0,Script Supervisor,Susan Marucci
+16558,Directing,1.0,Script Supervisor,Mary Cybulski
+16605,Directing,1.0,Director,Cate Shortland
+16619,Directing,1.0,Script Supervisor,Julie Pitkanen
+16659,Directing,1.0,Director,Gillian Armstrong
+16723,Directing,1.0,Director,Francine McDougall
+16727,Directing,1.0,Director,Mira Nair
+16806,Directing,1.0,Director,Amy Heckerling
+16890,Directing,1.0,Director,Amy Redford
+16899,Directing,1.0,Script Supervisor,Rowena Ladbury
+16902,Directing,1.0,Assistant Director,Sherry Shourds
+16921,Directing,1.0,Script Supervisor,Renetta G. Amador
+16980,Directing,1.0,Script Supervisor,Julie Oppenheimer
+17003,Directing,1.0,Director,Anna Boden
+17035,Directing,1.0,Script Supervisor,Karen Golden
+17037,Directing,1.0,Director,Arlene Sanford
+17113,Directing,1.0,Director,Rebecca Miller
+17126,Directing,1.0,Director,Joan Freeman
+17126,Directing,1.0,Script Supervisor,Cynnie Troup
+17130,Directing,1.0,Director,Tamra Davis
+17182,Directing,1.0,Script Supervisor,Ana Maria Quintana
+17209,Directing,1.0,Script Supervisor,Alina Apostu
+17362,Directing,1.0,Director,Joan Micklin Silver
+17403,Directing,1.0,Director,Clare Kilner
+17403,Directing,1.0,Script Supervisor,Samantha Armstrong
+17439,Directing,1.0,Director,Katherine Dieckmann
+17445,Directing,1.0,Director,Lauren Montgomery
+17460,Directing,1.0,Director,Julie Gavras
+17485,Directing,1.0,Director,Shannon Hartman
+17578,Directing,1.0,Script Supervisor,Ana Maria Quintana
+17605,Directing,1.0,Director,Sylvie Verheyde
+17612,Directing,1.0,Director,Léa Pool
+17622,Directing,1.0,Director,Kari Skogland
+17660,Directing,1.0,Assistant Director,Sherry Shourds
+17734,Directing,1.0,Director,Jill Sprecher
+17770,Directing,1.0,Script Supervisor,Paula Barrett-Barbier
+17775,Directing,1.0,Director,Sook-Yin Lee
+17803,Directing,1.0,Script Supervisor,Harriotte H. Aaron
+17814,Directing,1.0,Script Supervisor,Debra Hill
+17819,Directing,1.0,Script Supervisor,Annette Haywood-Carter
+17874,Directing,1.0,Script Supervisor,Betty Goldberg
+17915,Directing,1.0,Director,Randa Haines
+17956,Directing,1.0,Director,Marisa Silver
+18044,Directing,1.0,Script Supervisor,Janice Melnyck
+18080,Directing,1.0,Director,Martha Coolidge
+18098,Directing,1.0,Script Supervisor,Lisa Vick
+18167,Directing,1.0,Director,Anne Goursaud
+18182,Directing,1.0,Director,Martha Coolidge
+18212,Directing,1.0,Director,Anne Wheeler
+18215,Directing,1.0,Director,Jennifer Chambers Lynch
+18220,Directing,1.0,Director,Anne Goursaud
+18221,Directing,1.0,Director,Toni Myers
+18240,Directing,1.0,Director,Anne Fletcher
+18279,Directing,1.0,Director,Aku Louhimies
+18290,Directing,1.0,Director,Diane Crespo
+18300,Directing,1.0,Director,Danièle Thompson
+18357,Directing,1.0,Script Supervisor,Pamela Alch
+18392,Directing,1.0,Director,Anne Goursaud
+18415,Directing,1.0,Script Supervisor,Monika Petrillo
+18435,Directing,1.0,Director,John McKay
+18501,Directing,1.0,Script Supervisor,Judi Townsend
+18506,Directing,1.0,Director,Kathleen Marshall
+18516,Directing,1.0,Script Supervisor,Cornelia Stefan
+18520,Directing,1.0,Director,Chris Hegedus
+18548,Directing,1.0,Director,Madonna
+18555,Directing,1.0,Director,Annette Haywood-Carter
+18568,Directing,1.0,Director,Michele Lupo
+18602,Directing,1.0,Director,Lynne Ramsay
+18613,Directing,1.0,Script Supervisor,Donna Gardon
+18615,Directing,1.0,Script Supervisor,Annie Welles
+18620,Directing,1.0,Director,Rose Troche
+18688,Directing,1.0,Script Supervisor,Charlsie Bryant
+18783,Directing,1.0,Assistant Director,Abby Berlin
+18823,Directing,1.0,Script Supervisor,Lisa Vick
+18840,Directing,1.0,Script Supervisor,Catherine Allinson
+18882,Directing,1.0,Script Supervisor,Sophie Fabbri-Jackson
+18889,Directing,1.0,Director,Jehane Noujaim
+18892,Directing,1.0,Script Supervisor,Gabi Endicott
+18897,Directing,1.0,Director,Marina de Van
+18908,Directing,1.0,Director,Susanne Bier
+18927,Directing,1.0,Director,Bronwen Hughes
+19053,Directing,1.0,Director,Martha Coolidge
+19075,Directing,1.0,Assistant Director,Sherry Shourds
+19076,Directing,1.0,Script Supervisor,Diana Dill
+19124,Directing,1.0,Script Supervisor,Helen Caldwell
+19157,Directing,1.0,Director,Valerie Breiman
+19254,Directing,1.0,Continuity,Penny Daniels
+19294,Directing,1.0,Director,Gabriela Tagliavini
+19311,Directing,1.0,Director,Tatia Rosenthal
+19316,Directing,1.0,Director,Alice Wu
+19344,Directing,1.0,Director,Katherine Brooks
+19348,Directing,1.0,Director,Karyn Kusama
+19354,Directing,1.0,Director,Lotte Reiniger
+19366,Directing,1.0,Director,Deborah Kaplan
+19381,Directing,1.0,Director,Sarah Kernochan
+19384,Directing,1.0,Script Supervisor,Rebecca Long
+19416,Directing,1.0,Director,Amanda Micheli
+19419,Directing,1.0,Script Supervisor,Cristina Weigmann
+19592,Directing,1.0,Script Supervisor,K. Lynn Martin
+19597,Directing,1.0,Director,Mona Achache
+19629,Directing,1.0,Director,Georgia Lee
+19688,Directing,1.0,Script Supervisor,Amy Sanderson
+19719,Directing,1.0,Director,Jenna Fischer
+19754,Directing,1.0,Script Supervisor,Lara Fox
+19761,Directing,1.0,Continuity,Penny Daniels
+19913,Directing,1.0,Script Supervisor,Renetta G. Amador
+19952,Directing,1.0,Director,Tamra Davis
+19994,Directing,1.0,Director,Karyn Kusama
+20036,Directing,1.0,Director,Catherine Cyran
+20036,Directing,1.0,Script Supervisor,Shelly Stoyanova
+20048,Directing,1.0,Script Supervisor,Deirdre Horgan
+20055,Directing,1.0,Director,Amanda Gusack
+20122,Directing,1.0,Assistant Director,Ágnes Hranitzky
+20160,Directing,1.0,Director,Aku Louhimies
+20226,Directing,1.0,Director,Hilde Van Mieghem
+20289,Directing,1.0,Director,Lili Fini Zanuck
+20308,Directing,1.0,Director,Hilary Brougher
+20310,Directing,1.0,Director,Sharon von Wietersheim
+20405,Directing,1.0,Director,Maria Maggenti
+20438,Directing,1.0,Script Supervisor,Joanna Kennedy
+20441,Directing,1.0,Script Supervisor,Shelly Stoyanova
+20497,Directing,1.0,Director,Sandra Goldbacher
+20529,Directing,1.0,Director,Nina Paley
+20763,Directing,1.0,Script Supervisor,Benita Brazier
+20770,Directing,1.0,Director,Jamie Babbit
+20825,Directing,1.0,Director,Nia Vardalos
+20863,Directing,1.0,Script Supervisor,Kay Chapin
+21044,Directing,1.0,Director,Karen Disher
+21055,Directing,1.0,Director,Julie Davis
+21159,Directing,1.0,Script Supervisor,Rita Agostini
+21194,Directing,1.0,Director,Issa López
+21208,Directing,1.0,Script Supervisor,Susan Marucci
+21219,Directing,1.0,Script Supervisor,Judi Townsend
+21220,Directing,1.0,Director,Arlene Sanford
+21241,Directing,1.0,Script Supervisor,Betty Goldberg
+21245,Directing,1.0,Director,Aku Louhimies
+21539,Directing,1.0,Director,Penny Marshall
+21542,Directing,1.0,Director,Troy Byer
+21587,Directing,1.0,Director,Beth McCarthy-Miller
+21588,Directing,1.0,Assistant Director,Julie Gavras
+21657,Directing,1.0,Script Supervisor,Marion Milner
+21717,Directing,1.0,Script Supervisor,Charlsie Bryant
+21842,Directing,1.0,Director,Susanne Bier
+21861,Directing,1.0,Director,Lisa Azuelos
+21867,Directing,1.0,Script Supervisor,Mary Holdsworth
+21891,Directing,1.0,Director,Dana Lustig
+21955,Directing,1.0,Script Supervisor,Hannah Hempstead
+21991,Directing,1.0,Script Supervisor,Mary Cybulski
+22004,Directing,1.0,Script Supervisor,Paula Barrett-Barbier
+22121,Directing,1.0,Script Supervisor,Julie Pitkanen
+22241,Directing,1.0,Director,Nandita Das
+22267,Directing,1.0,Script Supervisor,Heather Harris
+22267,Directing,1.0,Script Supervisor,Lisa Katcher
+22477,Directing,1.0,Script Supervisor,Kay Chapin
+22683,Directing,1.0,Script Supervisor,Hilary Momberger
+22711,Directing,1.0,Script Supervisor,Karen Golden
+22798,Directing,1.0,Director,Drew Barrymore
+22805,Directing,1.0,Director,Katherine Dieckmann
+22897,Directing,1.0,Director,Nancy Meyers
+22949,Directing,1.0,Script Supervisor,Jessica Lichtner
+22972,Directing,1.0,Script Supervisor,Ceri Evans
+23160,Directing,1.0,Director,Ágnes Hranitzky
+23398,Directing,1.0,Director,Betty Thomas
+23404,Directing,1.0,Script Supervisor,Alina Apostu
+23427,Directing,1.0,Director,Carrie Preston
+23495,Directing,1.0,Director,Deborah Scranton
+23568,Directing,1.0,Director,Clare Kilner
+23570,Directing,1.0,Script Supervisor,Julie Oppenheimer
+23592,Directing,1.0,Script Supervisor,Shannon Kenny
+23638,Directing,1.0,Director,Dana Brown
+23720,Directing,1.0,Director,Lynn Shelton
+23853,Directing,1.0,Director,Valerie McCaffrey
+23967,Directing,1.0,Director,Melanie Mayron
+23990,Directing,1.0,Director,Asia Argento
+24001,Directing,1.0,Script Supervisor,Shelly Stoyanova
+24019,Directing,1.0,Script Supervisor,Mary Bailey
+24047,Directing,1.0,Script Supervisor,Sarah Auerswald
+24065,Directing,1.0,Director,Tamra Davis
+24103,Directing,1.0,Script Supervisor,Nikki Clapp
+24150,Directing,1.0,Script Supervisor,Sharon Watt
+24186,Directing,1.0,Director,Rose Troche
+24225,Directing,1.0,Director,Havana Marking
+24232,Directing,1.0,Director,Karen Disher
+24253,Directing,1.0,Script Supervisor,Lotta Westberg
+24428,Directing,1.0,Script Supervisor,Trudy Ramirez
+24469,Directing,1.0,Director,Andrea Arnold
+24548,Directing,1.0,Director,Lisa Gottlieb
+24553,Directing,1.0,Director,Jordan Scott
+24582,Directing,1.0,Director,Jennifer Baichwal
+24625,Directing,1.0,Script Supervisor,Jane Goldsmith
+24631,Directing,1.0,Director,Neele Leana Vollmar
+24654,Directing,1.0,Director,Betsy Chasse
+24683,Directing,1.0,Director,Patricia Harrington
+24684,Directing,1.0,Director,Lone Scherfig
+24801,Directing,1.0,Director,Francine McDougall
+24870,Directing,1.0,Director,Anna Biller
+24881,Directing,1.0,Director,Barra Grant
+24923,Directing,1.0,Director,Gloria Katz
+24936,Directing,1.0,Script Supervisor,Rebecca Fulton
+25019,Directing,1.0,Director,Susan Froemke
+25128,Directing,1.0,Director,Valerie Breiman
+25196,Directing,1.0,Script Supervisor,Joanna Kennedy
+25208,Directing,1.0,Director,Kasi Lemmons
+25259,Directing,1.0,Director,Daniela Féjerman
+25312,Directing,1.0,Director,Sally Potter
+25356,Directing,1.0,Script Supervisor,Sandra Montgomery
+25379,Directing,1.0,Director,Léa Pool
+25518,Directing,1.0,Director,Coline Serreau
+25527,Directing,1.0,Director,Randa Haines
+25636,Directing,1.0,Director,Alison Maclean
+25641,Directing,1.0,Director,Christine Lahti
+25656,Directing,1.0,Director,Naoko Ogigami
+25657,Directing,1.0,Director,Naoko Ogigami
+25695,Directing,1.0,Director,So Yong Kim
+25704,Directing,1.0,Director,Vicky Jenson
+25704,Directing,1.0,Script Supervisor,Tricia Ronten
+25748,Directing,1.0,Script Supervisor,Hilary Momberger
+25752,Directing,1.0,Director,Kari Skogland
+25896,Directing,1.0,Director,Colette Burson
+25941,Directing,1.0,Script Supervisor,Sally Jones
+25968,Directing,1.0,Director,Emily Young
+26028,Directing,1.0,Director,Chris Hegedus
+26103,Directing,1.0,Second Assistant Director,Sazzy Lee Calhoun
+26124,Directing,1.0,Director,Antonia Bird
+26126,Directing,1.0,Director,Kirsten Sheridan
+26142,Directing,1.0,Director,Randa Haines
+26149,Directing,1.0,Script Supervisor,Sheila Waldron
+26191,Directing,1.0,Director,Claire Denis
+26250,Directing,1.0,Director,Beth McCarthy-Miller
+26290,Directing,1.0,Director,Sandra Goldbacher
+26293,Directing,1.0,Director,Barbara Stepansky
+26320,Directing,1.0,Script Supervisor,Mary Cybulski
+26360,Directing,1.0,Director,Chris Hegedus
+26390,Directing,1.0,Script Supervisor,Deirdre Horgan
+26408,Directing,1.0,Director,Chris Hegedus
+26441,Directing,1.0,Director,Holly Goldberg Sloan
+26475,Directing,1.0,Director,Jennifer Jason Leigh
+26477,Directing,1.0,Script Supervisor,Julie Pitkanen
+26486,Directing,1.0,Script Supervisor,Jane Goldsmith
+26510,Directing,1.0,Script Supervisor,Sharon Watt
+26518,Directing,1.0,Director,Kelly Reichardt
+26555,Directing,1.0,Script Supervisor,Sally Jones
+26578,Directing,1.0,Script Supervisor,Ana Maria Quintana
+26579,Directing,1.0,Director,Asia Argento
+26622,Directing,1.0,Script Supervisor,Benita Brazier
+26648,Directing,1.0,Director,Liliana Cavani
+26702,Directing,1.0,Script Supervisor,Hannah Scheel
+26738,Directing,1.0,Director,Sally Potter
+26748,Directing,1.0,Script Supervisor,Mary Cybulski
+26864,Directing,1.0,Director,Lucía Puenzo
+26890,Directing,1.0,Director,Mary Harron
+26890,Directing,1.0,Script Supervisor,Sheila Waldron
+26942,Directing,1.0,Director,Julie Davis
+26963,Directing,1.0,Director,Nora Twomey
+26987,Directing,1.0,Director,Catherine Cyran
+27040,Directing,1.0,Director,Maya Deren
+27122,Directing,1.0,Director,Mary Lambert
+27176,Directing,1.0,Script Supervisor,Susan Marucci
+27176,Directing,1.0,Director,Jane Anderson
+27207,Directing,1.0,Script Supervisor,Gretchen Oehler
+27224,Directing,1.0,Director,Martha Coolidge
+27260,Directing,1.0,Director,Leslie Libman
+27265,Directing,1.0,Script Supervisor,Ana Maria Quintana
+27375,Directing,1.0,Director,Charlotte Zwerin
+27397,Directing,1.0,Director,Joan Micklin Silver
+27418,Directing,1.0,Script Supervisor,Dru Anne Carlson
+27447,Directing,1.0,Director,Anne Wheeler
+27475,Directing,1.0,Director,Amy Holden Jones
+27475,Directing,1.0,Script Supervisor,Sharron Reynolds
+27554,Directing,1.0,Script Supervisor,Nancy Hopton
+27569,Directing,1.0,Script Supervisor,Cate Hardman
+27578,Directing,1.0,Script Supervisor,Amy Sanderson
+27582,Directing,1.0,Script Supervisor,Amy Sanderson
+27583,Directing,1.0,Script Supervisor,Karen Golden
+27712,Directing,1.0,Director,Tammi Sutton
+27764,Directing,1.0,Director,Deborah Brock
+27786,Directing,1.0,Script Supervisor,Antoinette van Speyk
+27866,Directing,1.0,Director,Shannon Hartman
+27989,Directing,1.0,Director,Cheryl Hines
+28005,Directing,1.0,Director,Mira Nair
+28031,Directing,1.0,Script Supervisor,Pamela Alch
+28031,Directing,1.0,Script Supervisor,Karen Golden
+28031,Directing,1.0,Director,Jane Anderson
+28031,Directing,1.0,Director,Martha Coolidge
+28031,Directing,1.0,Director,Anne Heche
+28110,Directing,1.0,Script Supervisor,Bonnie Prendergast
+28200,Directing,1.0,Director,Christine Jeffs
+28424,Directing,1.0,Director,Jodie Markell
+28535,Directing,1.0,Director,Eleanor Lindo
+28644,Directing,1.0,Director,Claudia Llosa
+28706,Directing,1.0,Director,Lee Grant
+28730,Directing,1.0,Script Supervisor,Karen Golden
+28739,Directing,1.0,Script Supervisor,Julia Tasker
+28859,Directing,1.0,Director,Maria Lease
+28941,Directing,1.0,Assistant Director,Kristine Peterson
+29047,Directing,1.0,Director,Nanette Burstein
+29060,Directing,1.0,Script Supervisor,Jane Ficker
+29069,Directing,1.0,Director,Stephanie Rothman
+29134,Directing,1.0,Director,Cherien Dabis
+29182,Directing,1.0,Script Supervisor,Diana Dill
+29193,Directing,1.0,Script Supervisor,Mary Cybulski
+29343,Directing,1.0,Director,Barbara Peeters
+29371,Directing,1.0,Director,Maria Maggenti
+29381,Directing,1.0,Script Supervisor,Jean Baker
+29427,Directing,1.0,Script Supervisor,Jillian Amburgey
+29444,Directing,1.0,Script Supervisor,Sarah Auerswald
+29483,Directing,1.0,Director,Rachel Ward
+29492,Directing,1.0,Assistant Director,Kristine Peterson
+29507,Directing,1.0,Director,Doris Dörrie
+29562,Directing,1.0,Assistant Director,Natalie Perrey
+29572,Directing,1.0,Director,Sally Potter
+29698,Directing,1.0,Director,Lynne Ramsay
+29812,Directing,1.0,Script Supervisor,Jennifer Getzinger
+29865,Directing,1.0,Script Supervisor,Jeannine Dupuy
+29865,Directing,1.0,Script Supervisor,Nanette K. Martin
+29896,Directing,1.0,Script Supervisor,Louise Hall
+29914,Directing,1.0,Script Supervisor,K. Lynn Martin
+29917,Directing,1.0,Script Supervisor,Rowena Ladbury
+29963,Directing,1.0,Director,Jane Campion
+29968,Directing,1.0,Script Supervisor,Julie Pitkanen
+30019,Directing,1.0,Director,Sara Johnsen
+30061,Directing,1.0,Director,Lauren Montgomery
+30068,Directing,1.0,Director,Lucy Walker
+30077,Directing,1.0,Director,Alicia Sams
+30077,Directing,1.0,Director,Amy Rice
+30112,Directing,1.0,Director,Li Yu
+30139,Directing,1.0,Director,Nnegest Likké
+30141,Directing,1.0,Script Supervisor,Jane Goldsmith
+30203,Directing,1.0,Script Supervisor,Shelly Stoyanova
+30246,Directing,1.0,Director,Neema Barnette
+30250,Directing,1.0,Director,Sophie Barthes
+30253,Directing,1.0,Director,Bettina Oberli
+30304,Directing,1.0,Script Supervisor,Angela Robinson
+30315,Directing,1.0,Script Supervisor,Karen Mattingly
+30330,Directing,1.0,Director,Betty Thomas
+30361,Directing,1.0,Script Supervisor,Monica Ochoa
+30618,Directing,1.0,Script Supervisor,Sharon Watt
+30666,Directing,1.0,Script Supervisor,Christena Alcorn
+30685,Directing,1.0,Script Supervisor,Annemarie van de Mond
+30688,Directing,1.0,Director,Albertina Carri
+30814,Directing,1.0,Director,Jennifer Leitzes
+30856,Directing,1.0,Director,Petra Epperlein
+30873,Directing,1.0,Director,Laura Gabbert
+30953,Directing,1.0,Director,Sophie Muller
+30953,Directing,1.0,Director,Eiko Ishioka
+30969,Directing,1.0,Director,Shannon Hartman
+31031,Directing,1.0,Director,Shamim Sarif
+31068,Directing,1.0,Director,Laura Mañá
+31146,Directing,1.0,Script Supervisor,Lisa Katcher
+31152,Directing,1.0,Director,Ida Lupino
+31189,Directing,1.0,Director,Ruba Nadda
+31216,Directing,1.0,Director,Shamim Sarif
+31246,Directing,1.0,Script Supervisor,Ilene Pickus
+31262,Directing,1.0,Director,Ágnes Hranitzky
+31338,Directing,1.0,Director,Yannick Bellon
+31459,Directing,1.0,Script Supervisor,Jessica Lichtner
+31498,Directing,1.0,Director,Christy Cabanne
+31510,Directing,1.0,Director,Christy Cabanne
+31546,Directing,1.0,Script Supervisor,Sarah Auerswald
+31563,Directing,1.0,Script Supervisor,Renata Stoia
+31606,Directing,1.0,Script Supervisor,Dru Anne Carlson
+31775,Directing,1.0,Director,Beth McCarthy-Miller
+31896,Directing,1.0,Director,Julie Davis
+31911,Directing,1.0,Script Supervisor,Dianne Dreyer
+31923,Directing,1.0,Script Supervisor,Judith Saunders
+31955,Directing,1.0,Director,Gillian Armstrong
+32027,Directing,1.0,Script Supervisor,Joanie Blum
+32049,Directing,1.0,Script Supervisor,Dea Cantu
+32058,Directing,1.0,Director,Susan Seidelman
+32068,Directing,1.0,Script Supervisor,Charlsie Bryant
+32075,Directing,1.0,Director,Euzhan Palcy
+32080,Directing,1.0,Script Supervisor,Kay Chapin
+32081,Directing,1.0,Script Supervisor,Kay Chapin
+32144,Directing,1.0,Director,Lesli Linka Glatter
+32196,Directing,1.0,Director,Dorothy Arzner
+32221,Directing,1.0,Director,Martha Coolidge
+32325,Directing,1.0,Director,Allison Anders
+32331,Directing,1.0,Script Supervisor,Mary A. Kelly
+32390,Directing,1.0,Director,Valérie Lemercier
+32458,Directing,1.0,Script Supervisor,Fran Walsh
+32488,Directing,1.0,Script Supervisor,Betty A. Griffin
+32552,Directing,1.0,Script Supervisor,Jean Baker
+32559,Directing,1.0,Director,Katarzyna Roslaniec
+32593,Directing,1.0,Director,Caroline Thompson
+32622,Directing,1.0,Director,Rebecca Miller
+32625,Directing,1.0,Director,Rebecca Miller
+32627,Directing,1.0,Script Supervisor,Penny Daniels
+32823,Directing,1.0,Script Supervisor,Brenda Lopez
+32911,Directing,1.0,Script Supervisor,Wendy Lee Roberts
+32924,Directing,1.0,Script Supervisor,Joyce King
+33108,Directing,1.0,Director,Inessa Kovalevskaya
+33194,Directing,1.0,Director,Joan Chen
+33250,Directing,1.0,Script Supervisor,Betty Goldberg
+33273,Directing,1.0,Script Supervisor,María Guerra
+33297,Directing,1.0,Director,Sandrine Bonnaire
+33324,Directing,1.0,Director,Barbara Kopple
+33340,Directing,1.0,Director,Margreth Olin
+33491,Directing,1.0,Director,Tonie Marshall
+33511,Directing,1.0,Director,Sam Taylor-Johnson
+33582,Directing,1.0,Director,Regina Crosby
+33586,Directing,1.0,Script Supervisor,Rachel Connors
+33613,Directing,1.0,Script Supervisor,Lotta Westberg
+33657,Directing,1.0,Script Supervisor,Trudy Ramirez
+33712,Directing,1.0,Director,Heather Rae
+33766,Directing,1.0,Director,Joyce Chopra
+33799,Directing,1.0,Director,Nicole Garcia
+33809,Directing,1.0,Director,Maren Ade
+33990,Directing,1.0,Director,Jane Simpson
+33997,Directing,1.0,Director,Sherry Hormann
+34015,Directing,1.0,Director,Ondi Timoner
+34016,Directing,1.0,Script Supervisor,Monika Petrillo
+34205,Directing,1.0,Director,Mary Lambert
+34299,Directing,1.0,Director,Sally Field
+34314,Directing,1.0,Script Supervisor,Julie Pitkanen
+34838,Directing,1.0,Director,Sally Potter
+34851,Directing,1.0,Script Supervisor,Gina Grande
+35052,Directing,1.0,Director,Jordan Scott
+35056,Directing,1.0,Script Supervisor,Diane Durant
+35176,Directing,1.0,Director,Dana Lustig
+35203,Directing,1.0,Script Supervisor,Carol Banker
+35203,Directing,1.0,Script Supervisor,Judith Saunders
+35203,Directing,1.0,Script Supervisor,Jamie Babbit
+35203,Directing,1.0,Director,Nancy Savoca
+35203,Directing,1.0,Director,Cher
+35304,Directing,1.0,Director,Tova Magnusson
+35337,Directing,1.0,Director,Clare Peploe
+35384,Directing,1.0,Script Supervisor,Suzanne Bingham
+35402,Directing,1.0,Script Supervisor,Susan Williams
+35588,Directing,1.0,Script Supervisor,Paula Barrett-Barbier
+35680,Directing,1.0,Director,Daisy von Scherler Mayer
+35690,Directing,1.0,Director,Julie Anne Robinson
+35935,Directing,1.0,Director,Amy Ziering
+36047,Directing,1.0,Director,Mary Lambert
+36094,Directing,1.0,Script Supervisor,Kay Chapin
+36105,Directing,1.0,Director,Léa Pool
+36108,Directing,1.0,Director,Jane Campion
+36124,Directing,1.0,Director,Audrey Ewell
+36140,Directing,1.0,Director,Agnès Varda
+36141,Directing,1.0,Script Supervisor,Jane Goldsmith
+36196,Directing,1.0,Director,Daisy von Scherler Mayer
+36249,Directing,1.0,Director,Robin Schiff
+36281,Directing,1.0,Director,Naomi Kawase
+36329,Directing,1.0,Director,Park Chan-ok
+36402,Directing,1.0,Director,Magdalena Piekorz
+36419,Directing,1.0,Director,Agnieszka Wojtowicz-Vosloo
+36419,Directing,1.0,Script Supervisor,Veronica Lupu
+36421,Directing,1.0,Director,Hope Perello
+36542,Directing,1.0,Director,Jacqui Morris
+36597,Directing,1.0,Director,Coky Giedroyc
+36643,Directing,1.0,Script Supervisor,Nikki Clapp
+36647,Directing,1.0,Script Supervisor,Nicole Cummins
+36648,Directing,1.0,Script Supervisor,Jeannine Dupuy
+36658,Directing,1.0,Script Supervisor,Christine Wilson
+36696,Directing,1.0,Director,Inna Evlannikova
+36758,Directing,1.0,Director,Jane Campion
+36759,Directing,1.0,Script Supervisor,Hannah Scheel
+36773,Directing,1.0,Director,Agnieszka Holland
+36826,Directing,1.0,Director,Kathryn Bigelow
+36834,Directing,1.0,Director,Agnieszka Holland
+36850,Directing,1.0,Director,Elaine May
+36861,Directing,1.0,Director,Beth McCarthy-Miller
+36895,Directing,1.0,Director,Naomi Kawase
+36917,Directing,1.0,Director,Mari Asato
+36926,Directing,1.0,Director,Rory Kennedy
+36950,Directing,1.0,Script Supervisor,Jessica Lichtner
+37088,Directing,1.0,Director,Joan Churchill
+37098,Directing,1.0,Director,Julia Reichert
+37144,Directing,1.0,Director,Pat Verducci
+37196,Directing,1.0,Director,Aisling Walsh
+37430,Directing,1.0,Script Supervisor,Julie Brown
+37430,Directing,1.0,Script Supervisor,Stefania Velichkova
+37430,Directing,1.0,Script Supervisor,Shelly Stoyanova
+37453,Directing,1.0,Director,Joyce Chopra
+37497,Directing,1.0,Director,Allison Anders
+37570,Directing,1.0,Director,Ilksen Basarir
+37581,Directing,1.0,Director,Dorothy Arzner
+37616,Directing,1.0,Script Supervisor,Sheila Waldron
+37636,Directing,1.0,Director,Lisa Cholodenko
+37667,Directing,1.0,Director,Angela Pope
+37753,Directing,1.0,Script Supervisor,Dianne Dreyer
+37799,Directing,1.0,Script Supervisor,Sharron Reynolds
+37920,Directing,1.0,Script Supervisor,Mary Ann Newfield
+37920,Directing,1.0,Director,Éva Gárdos
+37922,Directing,1.0,Script Supervisor,Lisa Vick
+37985,Directing,1.0,Director,Ricki Stern
+37997,Directing,1.0,Assistant Director,Sara Driver
+38017,Directing,1.0,Script Supervisor,Paula Barrett-Barbier
+38020,Directing,1.0,Script Supervisor,Maria Lease
+38043,Directing,1.0,Director,Zelda Barron
+38049,Directing,1.0,Director,Anne Fontaine
+38050,Directing,1.0,Script Supervisor,Mary Bailey
+38054,Directing,1.0,Director,Pang Eun-jin
+38073,Directing,1.0,Director,Nanette Burstein
+38093,Directing,1.0,Director,Sanaa Hamri
+38156,Directing,1.0,Script Supervisor,Sally Jones
+38166,Directing,1.0,Script Supervisor,Carol Green-Lundy
+38223,Directing,1.0,Director,Bronwen Hughes
+38323,Directing,1.0,Director,Elisabeta Bostan
+38344,Directing,1.0,Director,Gaby Dellal
+38356,Directing,1.0,Script Supervisor,Karen Golden
+38376,Directing,1.0,Director,Anne Fontaine
+38399,Directing,1.0,Director,Isabelle Vitari
+38408,Directing,1.0,Second Assistant Director,Alyson Latz
+38415,Directing,1.0,Director,Rachel Perkins
+38457,Directing,1.0,Director,Lynn Shores
+38509,Directing,1.0,Director,Theresa Connelly
+38575,Directing,1.0,Script Supervisor,Nikki Clapp
+38606,Directing,1.0,Director,Ida Lupino
+38616,Directing,1.0,Director,Sarah Kernochan
+38638,Directing,1.0,Director,Maya Deren
+38753,Directing,1.0,Script Supervisor,Judi Townsend
+38775,Directing,1.0,Script Supervisor,Joyce King
+38843,Directing,1.0,Director,Elizabeth Allen Rosenbaum
+38875,Directing,1.0,Director,Magdalena Piekorz
+38879,Directing,1.0,Director,Agnès Varda
+38880,Directing,1.0,Director,Justine Shapiro
+38922,Directing,1.0,Director,Anne Bancroft
+38981,Directing,1.0,Script Supervisor,Peggy Shore
+38981,Directing,1.0,Director,Linda Feferman
+39001,Directing,1.0,Script Supervisor,Rebecca Long
+39013,Directing,1.0,Director,Debra Granik
+39155,Directing,1.0,Director,Petra Epperlein
+39210,Directing,1.0,Director,Sofia Coppola
+39254,Directing,1.0,Script Supervisor,Diane Durant
+39266,Directing,1.0,Director,Leni Riefenstahl
+39285,Directing,1.0,Script Supervisor,Jillian Amburgey
+39327,Directing,1.0,Script Supervisor,Lisa Katcher
+39334,Directing,1.0,Director,Wendy Jo Carlton
+39398,Directing,1.0,Director,Kate Davis
+39433,Directing,1.0,First Assistant Director,Elizabeth Scherberger
+39486,Directing,1.0,Script Supervisor,Pam Fuller
+39538,Directing,1.0,Script Supervisor,Annie Welles
+39750,Directing,1.0,Script Supervisor,Laura Collini
+39770,Directing,1.0,Director,Catherine Breillat
+39780,Directing,1.0,Director,Gillian Armstrong
+39781,Directing,1.0,Director,Lisa Cholodenko
+39882,Directing,1.0,Script Supervisor,Maria Lease
+39933,Directing,1.0,Director,Emily Abt
+40082,Directing,1.0,Script Supervisor,Judith Saunders
+40090,Directing,1.0,Director,Eleonore Dailly
+40156,Directing,1.0,Director,Antonia Bird
+40161,Directing,1.0,Director,Sheree Folkson
+40215,Directing,1.0,Director,Ellen Kuras
+40231,Directing,1.0,Script Supervisor,Betty Goldberg
+40247,Directing,1.0,Director,Nicole Holofcener
+40446,Directing,1.0,Script Supervisor,Mary Wright
+40509,Directing,1.0,Director,Randa Haines
+40562,Directing,1.0,Director,Lisa Krueger
+40573,Directing,1.0,Director,Věra Chytilová
+40594,Directing,1.0,Director,Julia Sweeney
+40635,Directing,1.0,Script Supervisor,Michelle Buchanan-Kriebel
+40661,Directing,1.0,Director,Kristine Peterson
+40687,Directing,1.0,Director,Elaine May
+40694,Directing,1.0,Director,Rose Troche
+40720,Directing,1.0,Script Supervisor,Sharon Watt
+40723,Directing,1.0,Director,Claire Denis
+40752,Directing,1.0,Script Supervisor,Pamela Alch
+40760,Directing,1.0,Director,Carol Frank
+40768,Directing,1.0,Director,Laura Poitras
+40876,Directing,1.0,Director,Debra Granik
+40932,Directing,1.0,Director,Nancy Walker
+41091,Directing,1.0,Director,Lee Eon-hee
+41123,Directing,1.0,Director,Jessica Hausner
+41240,Directing,1.0,Director,Anjelica Huston
+41272,Directing,1.0,Director,Natalia Smirnoff
+41282,Directing,1.0,Director,Tamra Davis
+41283,Directing,1.0,Script Supervisor,Kathy McHugh
+41326,Directing,1.0,Director,Barbara Kopple
+41374,Directing,1.0,Script Supervisor,Annie Welles
+41397,Directing,1.0,Director,Ricki Stern
+41436,Directing,1.0,Script Supervisor,Diane Weiss
+41462,Directing,1.0,Director,Ida Lupino
+41493,Directing,1.0,Director,Vibeke Idsøe
+41499,Directing,1.0,Director,Catherine Breillat
+41556,Directing,1.0,Director,Galt Niederhoffer
+41616,Directing,1.0,Script Supervisor,Ingrid Urich-Sass
+41630,Directing,1.0,Script Supervisor,Jane Goldsmith
+41651,Directing,1.0,Script Supervisor,Sharron Reynolds
+41651,Directing,1.0,Director,Rachel Talalay
+41733,Directing,1.0,Script Supervisor,Karen Golden
+41779,Directing,1.0,Director,Beeban Kidron
+41791,Directing,1.0,Director,Mira Nair
+41801,Directing,1.0,Director,Susan Streitfeld
+41822,Directing,1.0,Director,Ann Hui
+41831,Directing,1.0,Director,Catherine Cyran
+41843,Directing,1.0,Script Supervisor,Anna Worley
+41951,Directing,1.0,Director,Claire Denis
+41973,Directing,1.0,Director,Charlotte Zwerin
+42021,Directing,1.0,Script Supervisor,Norma Giacchero
+42032,Directing,1.0,Director,Agnieszka Holland
+42035,Directing,1.0,Script Supervisor,Mary Holdsworth
+42057,Directing,1.0,Director,Gurinder Chadha
+42085,Directing,1.0,Director,María Luisa Bemberg
+42090,Directing,1.0,Assistant Director,Eva Bergman
+42107,Directing,1.0,Director,Sandi Sissel
+42108,Directing,1.0,Director,Diane Kurys
+42115,Directing,1.0,Director,Euzhan Palcy
+42142,Directing,1.0,Director,Margarethe von Trotta
+42173,Directing,1.0,Director,Joan Micklin Silver
+42188,Directing,1.0,Script Supervisor,Diana Dill
+42189,Directing,1.0,Director,Shannon Hartman
+42236,Directing,1.0,Continuity,Norma Giacchero
+42251,Directing,1.0,Script Supervisor,Judith Saunders
+42257,Directing,1.0,Director,Joan Micklin Silver
+42293,Directing,1.0,Director,Doris Dörrie
+42383,Directing,1.0,Script Supervisor,Susan T. Parsons
+42452,Directing,1.0,Script Supervisor,Hannah Scheel
+42513,Directing,1.0,Assistant Director,Suzanne Schiffman
+42533,Directing,1.0,Script Supervisor,Barbara Peeters
+42602,Directing,1.0,Script Supervisor,Katinka Faragó
+42603,Directing,1.0,Continuity,Zelda Barron
+42638,Directing,1.0,Assistant Director,Sherry Shourds
+42732,Directing,1.0,Director,Doris Wishman
+42764,Directing,1.0,Assistant Director,Rita Agostini
+42783,Directing,1.0,Script Supervisor,Sandy Nelson
+42973,Directing,1.0,Director,Caroline Bottaro
+42983,Directing,1.0,Director,Agnieszka Holland
+43074,Directing,1.0,Script Supervisor,Sheila Waldron
+43303,Directing,1.0,Director,Martha Coolidge
+43449,Directing,1.0,Script Supervisor,Jean Baker
+43457,Directing,1.0,Assistant Director,Sherry Shourds
+43619,Directing,1.0,Director,Catherine Corsini
+43634,Directing,1.0,Director,Stacy Cochran
+43664,Directing,1.0,Director,Melissa Martin
+43740,Directing,1.0,Director,Lynn Roth
+43742,Directing,1.0,Script Supervisor,Ana Maria Quintana
+43807,Directing,1.0,Assistant Director,Sherry Shourds
+43903,Directing,1.0,Assistant Director,Sherry Shourds
+43923,Directing,1.0,Director,Anna Boden
+43943,Directing,1.0,Script Supervisor,Mary Bailey
+44012,Directing,1.0,Director,Chantal Akerman
+44015,Directing,1.0,Script Supervisor,Sharron Reynolds
+44018,Directing,1.0,Director,Agnès Varda
+44037,Directing,1.0,Script Supervisor,Shelly Stoyanova
+44047,Directing,1.0,Director,Melissa Painter
+44081,Directing,1.0,Director,Rakhshan Bani-Etemad
+44164,Directing,1.0,Director,Coline Serreau
+44244,Directing,1.0,Second Assistant Director,Sarah Campbell
+44363,Directing,1.0,Script Supervisor,Suzanne Bingham
+44373,Directing,1.0,Director,Zoe Clarke-Williams
+44379,Directing,1.0,Director,Agnès Varda
+44445,Directing,1.0,Director,Maya Deren
+44465,Directing,1.0,Director,Amy Holden Jones
+44472,Directing,1.0,Director,Andrea Arnold
+44563,Directing,1.0,Director,Daniela Féjerman
+44564,Directing,1.0,Script Supervisor,Sherry Gallarneau
+44594,Directing,1.0,Script Supervisor,Lina Shanklin
+44716,Directing,1.0,Director,Susanne Bier
+44746,Directing,1.0,Director,Sheree Folkson
+44756,Directing,1.0,Director,Karen Disher
+44770,Directing,1.0,Assistant Director,So Yong Kim
+44801,Directing,1.0,Script Supervisor,Betty Goldberg
+44912,Directing,1.0,Script Supervisor,Pam Fuller
+44943,Directing,1.0,Script Supervisor,Dawn Gilliam
+44966,Directing,1.0,Director,Katie Aselton
+44974,Directing,1.0,Director,Claudia Myers
+44982,Directing,1.0,Script Supervisor,Jessica Lichtner
+44992,Directing,1.0,Director,Toni Myers
+45013,Directing,1.0,Script Supervisor,Lori Grabowski
+45019,Directing,1.0,Director,Agnieszka Holland
+45044,Directing,1.0,Director,Claire Denis
+45069,Directing,1.0,Director,Mira Nair
+45096,Directing,1.0,Script Supervisor,Annie Welles
+45129,Directing,1.0,Director,Mira Nair
+45153,Directing,1.0,Director,Kasi Lemmons
+45156,Directing,1.0,Director,Nicole Kassell
+45162,Directing,1.0,Director,Lauren Montgomery
+45174,Directing,1.0,Director,Jane Weinstock
+45179,Directing,1.0,Director,Tizuka Yamasaki
+45203,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+45225,Directing,1.0,Script Supervisor,Judith Saunders
+45317,Directing,1.0,Script Supervisor,Karen Golden
+45320,Directing,1.0,Director,Sara Ziff
+45347,Directing,1.0,Script Supervisor,Andrea Ulrich
+45360,Directing,1.0,Director,Sara Lamm
+45514,Directing,1.0,Director,Mira Nair
+45527,Directing,1.0,Script Supervisor,Joecy Shepherd
+45577,Directing,1.0,Director,Wendy Toye
+45593,Directing,1.0,Director,Angela Bettis
+45602,Directing,1.0,Director,Gina Prince-Bythewood
+45658,Directing,1.0,Script Supervisor,Karen Mattingly
+45671,Directing,1.0,Director,Clare Peploe
+45739,Directing,1.0,Director,Amy Jenkins
+45739,Directing,1.0,Director,Gaby Dellal
+45806,Directing,1.0,Director,Urszula Antoniak
+45881,Directing,1.0,Director,Mary McGuckian
+46040,Directing,1.0,Director,Farah Khan
+46112,Directing,1.0,Director,Victoria Hochberg
+46207,Directing,1.0,Director,Claire Denis
+46226,Directing,1.0,Director,Clara Law
+46258,Directing,1.0,Director,Valerie von Martens
+46286,Directing,1.0,Script Supervisor,Sharon Cingle
+46445,Directing,1.0,Director,Michele Lupo
+46458,Directing,1.0,Director,Isabel Coixet
+46466,Directing,1.0,Director,Diane Kurys
+46594,Directing,1.0,Assistant Director,Yuliya Solntseva
+46689,Directing,1.0,Assistant Director,Karen Harley
+46689,Directing,1.0,Director,Lucy Walker
+46713,Directing,1.0,Script Supervisor,Laura Collini
+46713,Directing,1.0,Script Supervisor,Janice Melnyck
+46717,Directing,1.0,Script Supervisor,Christine Wilson
+46820,Directing,1.0,Director,Claudia Llosa
+46891,Directing,1.0,Director,Erica Dunton
+46919,Directing,1.0,Director,Věra Chytilová
+46930,Directing,1.0,Director,Kadri Kõusaar
+46967,Directing,1.0,Director,Shannon Hartman
+46972,Directing,1.0,Director,Joan Micklin Silver
+46989,Directing,1.0,Director,Karen Moncrieff
+47055,Directing,1.0,Director,Ondi Timoner
+47088,Directing,1.0,Director,Shari Springer Berman
+47140,Directing,1.0,Director,Daniela Thomas
+47143,Directing,1.0,Director,Claire Denis
+47186,Directing,1.0,Script Supervisor,Jessica Lichtner
+47282,Directing,1.0,Director,Christine Edzard
+47342,Directing,1.0,Script Supervisor,Benita Brazier
+47434,Directing,1.0,Director,Chantal Akerman
+47493,Directing,1.0,Director,Agnieszka Holland
+47501,Directing,1.0,Script Supervisor,Jessica Lichtner
+47504,Directing,1.0,Script Supervisor,Julie Oppenheimer
+47595,Directing,1.0,Director,Liv Ullmann
+47607,Directing,1.0,Director,Lena Dunham
+47608,Directing,1.0,Director,Antonia Bird
+47655,Directing,1.0,Director,Jennifer Chambers Lynch
+47755,Directing,1.0,Director,Gail O'Hara
+47755,Directing,1.0,Director,Kerthy Fix
+47841,Directing,1.0,Director,So Yong Kim
+47866,Directing,1.0,Director,Allison Anders
+47898,Directing,1.0,Script Supervisor,Annette Haywood-Carter
+47911,Directing,1.0,Director,Shannon Hartman
+47913,Directing,1.0,Script Supervisor,Mary Anne Seward
+47939,Directing,1.0,Director,Martha Coolidge
+48204,Directing,1.0,Director,Greta Gerwig
+48216,Directing,1.0,Director,Danièle Thompson
+48281,Directing,1.0,Script Supervisor,Karen Paterson-Bowden
+48287,Directing,1.0,Director,Melanie Mayron
+48336,Directing,1.0,Director,Liv Ullmann
+48336,Directing,1.0,Director,Helma Sanders-Brahms
+48411,Directing,1.0,Director,Lee Eon-hee
+48482,Directing,1.0,Script Supervisor,Betty Goldberg
+48594,Directing,1.0,Script Supervisor,Glòria Blanes
+48596,Directing,1.0,Director,Celina Murga
+48598,Directing,1.0,Director,Barbara Albert
+48601,Directing,1.0,Director,Emmanuelle Bercot
+48635,Directing,1.0,Script Supervisor,María Guerra
+48643,Directing,1.0,Director,John McKay
+48737,Directing,1.0,Script Supervisor,María Guerra
+48833,Directing,1.0,Director,Tanya Hamilton
+48992,Directing,1.0,Director,Darnell Martin
+49007,Directing,1.0,Director,Katja von Garnier
+49012,Directing,1.0,Script Supervisor,Mary Cybulski
+49040,Directing,1.0,Script Supervisor,Dianne Dreyer
+49050,Directing,1.0,Script Supervisor,Cornelia Stefan
+49050,Directing,1.0,Script Supervisor,Louise Demetre
+49160,Directing,1.0,Script Supervisor,Hannah Scheel
+49250,Directing,1.0,Director,Amber Benson
+49409,Directing,1.0,Director,Gillian Armstrong
+49444,Directing,1.0,Director,Jennifer Yuh Nelson
+49452,Directing,1.0,Director,Germaine Dulac
+49508,Directing,1.0,Script Supervisor,Jean Baker
+49511,Directing,1.0,Script Supervisor,Chiemi Karasawa
+49522,Directing,1.0,Director,Debbie Isitt
+49721,Directing,1.0,Director,Pip Karmel
+49730,Directing,1.0,Director,Catherine Hardwicke
+49733,Directing,1.0,Director,Claire McCarthy
+49767,Directing,1.0,Script Supervisor,Rowena Ladbury
+49782,Directing,1.0,Director,Mai Zetterling
+49849,Directing,1.0,Script Supervisor,Kathy McHugh
+49849,Directing,1.0,Script Supervisor,Mamie Mitchell
+49849,Directing,1.0,Script Supervisor,Trudy Ramirez
+49890,Directing,1.0,Director,Aisling Walsh
+49920,Directing,1.0,Director,Rosemary Rodriguez
+49954,Directing,1.0,Director,Oja Kodar
+49963,Directing,1.0,Director,Nicole Holofcener
+49963,Directing,1.0,Script Supervisor,Sheila Waldron
+49978,Directing,1.0,Director,Ildikó Enyedi
+50013,Directing,1.0,Director,Larisa Shepitko
+50014,Directing,1.0,Script Supervisor,Cate Hardman
+50035,Directing,1.0,Director,Nicole Holofcener
+50183,Directing,1.0,Director,Larisa Shepitko
+50340,Directing,1.0,Director,Hwang Soo-ah
+50357,Directing,1.0,Script Supervisor,Laura Collini
+50364,Directing,1.0,Director,Robin Sheppard
+50420,Directing,1.0,Director,Lucy Walker
+50441,Directing,1.0,Director,Penelope Buitenhuis
+50619,Directing,1.0,Script Supervisor,Jessica Lichtner
+50620,Directing,1.0,Script Supervisor,Jessica Lichtner
+50650,Directing,1.0,Director,Ann Hui
+50673,Directing,1.0,Director,Tracey Hecht
+50700,Directing,1.0,Director,Cathy Randall
+50722,Directing,1.0,Director,Margarethe von Trotta
+50725,Directing,1.0,Script Supervisor,Karen Golden
+50725,Directing,1.0,Script Supervisor,Karen Mattingly
+50780,Directing,1.0,Director,Jodie Foster
+50780,Directing,1.0,Script Supervisor,Dianne Dreyer
+50819,Directing,1.0,Director,Laurice Guillen
+50875,Directing,1.0,Director,Vera Farmiga
+50958,Directing,1.0,Director,Doris Wishman
+50977,Directing,1.0,Director,Doris Wishman
+51239,Directing,1.0,Script Supervisor,Jeannine Dupuy
+51309,Directing,1.0,Director,Jenny Phillips
+51321,Directing,1.0,Director,Marisa Silver
+51423,Directing,1.0,Director,Pernilla August
+51481,Directing,1.0,Director,Melanie Mayron
+51484,Directing,1.0,Director,Ann Hui
+51486,Directing,1.0,Director,Tamra Davis
+51512,Directing,1.0,Script Supervisor,Carol Green-Lundy
+51540,Directing,1.0,Script Supervisor,Alexa Alden
+51707,Directing,1.0,Director,Liz Garbus
+51828,Directing,1.0,Director,Lone Scherfig
+51871,Directing,1.0,Director,Fiona Gordon
+51933,Directing,1.0,Director,Bette Gordon
+51996,Directing,1.0,Director,Jill Sprecher
+52035,Directing,1.0,Director,Christy Cabanne
+52251,Directing,1.0,Director,Jessica Hausner
+52274,Directing,1.0,Script Supervisor,Glòria Blanes
+52304,Directing,1.0,Script Supervisor,Valerie E. Norman
+52415,Directing,1.0,Director,Lee Kyoung-mi
+52449,Directing,1.0,Script Supervisor,Jillian Giacomini
+52454,Directing,1.0,Script Supervisor,Sarah Schultz
+52520,Directing,1.0,Script Supervisor,Christine Wilson
+52681,Directing,1.0,Script Supervisor,Karen Hale Wookey
+52805,Directing,1.0,Director,Lee Rose
+52848,Directing,1.0,Script Supervisor,Jean Baker
+52850,Directing,1.0,Director,S.J. Clarkson
+52856,Directing,1.0,Director,Diane Keaton
+52918,Directing,1.0,Director,Laura Poitras
+52999,Directing,1.0,Director,Nicole Garcia
+53023,Directing,1.0,Director,Agnès Varda
+53027,Directing,1.0,Script Supervisor,Christine Wilson
+53049,Directing,1.0,Director,Nicole Conn
+53100,Directing,1.0,Director,Famke Janssen
+53244,Directing,1.0,Director,Catherine Breillat
+53335,Directing,1.0,Director,Kate Robbins
+53374,Directing,1.0,Director,Mabel Normand
+53445,Directing,1.0,Director,Samantha Morton
+53596,Directing,1.0,Director,Icíar Bollaín
+53729,Directing,1.0,Director,Dana Lustig
+53857,Directing,1.0,Director,Dorothy Arzner
+54022,Directing,1.0,Script Supervisor,Rebecca Long
+54040,Directing,1.0,Director,Shari Springer Berman
+54054,Directing,1.0,Director,Julie Anne Robinson
+54075,Directing,1.0,Script Supervisor,Stacy Rowe
+54138,Directing,1.0,Script Supervisor,Dawn Gilliam
+54380,Directing,1.0,Director,Maria de Medeiros
+54436,Directing,1.0,Director,Agnès Varda
+54602,Directing,1.0,Script Supervisor,Amy Sanderson
+54662,Directing,1.0,Director,Miranda July
+54669,Directing,1.0,Director,Aku Louhimies
+54720,Directing,1.0,Director,Gaylen Ross
+54812,Directing,1.0,Director,Madeleine Sackler
+54845,Directing,1.0,Script Supervisor,Hilary Momberger
+54850,Directing,1.0,Director,Anna Campion
+54910,Directing,1.0,Script Supervisor,Sharon Watt
+54982,Directing,1.0,Director,Martha Coolidge
+55204,Directing,1.0,Director,Rebecca Cammisa
+55245,Directing,1.0,Director,Lynn Hershman Leeson
+55472,Directing,1.0,Script Supervisor,Jean Baker
+55504,Directing,1.0,Director,Francine McDougall
+55561,Directing,1.0,Director,Jill Sprecher
+55562,Directing,1.0,Director,Margarethe von Trotta
+55562,Directing,1.0,Assistant Director,Eva Ebner
+55721,Directing,1.0,Script Supervisor,Sheila Waldron
+55728,Directing,1.0,Director,Martha Coolidge
+55730,Directing,1.0,Director,Stacy Cochran
+55852,Directing,1.0,Director,Kate Davis
+55912,Directing,1.0,Director,María Ripoll
+56171,Directing,1.0,Director,Mary Lambert
+56224,Directing,1.0,Director,Xan Cassavetes
+56272,Directing,1.0,Script Supervisor,Julia Tasker
+56304,Directing,1.0,Director,Anna Matison
+56400,Directing,1.0,Director,Francesca Archibugi
+56424,Directing,1.0,Director,Anne Le Ny
+56715,Directing,1.0,Script Supervisor,Dru Anne Carlson
+56743,Directing,1.0,Director,Nicole Conn
+56778,Directing,1.0,Director,Judith Helfand
+56809,Directing,1.0,Director,Julie Anne Robinson
+56810,Directing,1.0,Script Supervisor,Glòria Blanes
+56811,Directing,1.0,Director,Barbara Brancaccio
+56844,Directing,1.0,Director,Francesca Comencini
+56947,Directing,1.0,Director,Coline Serreau
+56968,Directing,1.0,Director,Rosemary Rodriguez
+57012,Directing,1.0,Script Supervisor,Lara Fox
+57120,Directing,1.0,Director,Kelly Reichardt
+57211,Directing,1.0,Director,Alison Ellwood
+57212,Directing,1.0,Script Supervisor,Anna Worley
+57221,Directing,1.0,Director,Holly Dale
+57241,Directing,1.0,Director,Sara Johnsen
+57327,Directing,1.0,Director,Brigitte Roüan
+57393,Directing,1.0,Director,Debs Gardner-Paterson
+57409,Directing,1.0,Director,Brigitte Berman
+57438,Directing,1.0,Director,Liv Ullmann
+57489,Directing,1.0,Director,Julia Solomonoff
+57597,Directing,1.0,Assistant Director,Olivia Mears
+57714,Directing,1.0,Director,Brigitte Roüan
+57722,Directing,1.0,Director,Chris Hegedus
+57811,Directing,1.0,Director,Daniela Thomas
+57825,Directing,1.0,Director,Gurinder Chadha
+57857,Directing,1.0,Script Supervisor,Elizabeth S. Barton
+58227,Directing,1.0,Director,Shirley Clarke
+58372,Directing,1.0,Script Supervisor,Wendy Lee Roberts
+58428,Directing,1.0,Script Supervisor,Julia Tasker
+58448,Directing,1.0,Director,Anne Wheeler
+58493,Directing,1.0,Director,Jennifer Arnold
+58494,Directing,1.0,Director,Beth McCarthy-Miller
+58507,Directing,1.0,Director,Joan Darling
+58559,Directing,1.0,Director,Sylvie Verheyde
+58669,Directing,1.0,Director,Holly Goldberg Sloan
+58680,Directing,1.0,Director,Daisy von Scherler Mayer
+58820,Directing,1.0,Director,Louise Osmond
+58895,Directing,1.0,Director,Holly Dale
+58985,Directing,1.0,Director,Allison Anders
+59050,Directing,1.0,Script Supervisor,Norma Giacchero
+59115,Directing,1.0,Script Supervisor,Megan Graham
+59143,Directing,1.0,Director,Elaine May
+59196,Directing,1.0,Director,Megan Mylan
+59372,Directing,1.0,Director,Tanuja Chandra
+59435,Directing,1.0,Director,Marilyn Agrelo
+59700,Directing,1.0,Director,Martha Coolidge
+59733,Directing,1.0,Director,Chris Hegedus
+59797,Directing,1.0,Script Supervisor,Sharron Reynolds
+59859,Directing,1.0,Second Assistant Director,Sarah Campbell
+59861,Directing,1.0,Script Supervisor,Cate Hardman
+59939,Directing,1.0,Director,Kristine Peterson
+59940,Directing,1.0,Director,Kari Skogland
+59974,Directing,1.0,Director,Michèle Hozer
+59981,Directing,1.0,Script Supervisor,Mary Bills
+60063,Directing,1.0,Director,Leanne Pooley
+60281,Directing,1.0,Script Supervisor,Rebecca Fulton
+60308,Directing,1.0,Script Supervisor,Sharron Reynolds
+60405,Directing,1.0,Second Assistant Director,Sarah Campbell
+60421,Directing,1.0,Director,Maryam Keshavarz
+60608,Directing,1.0,Director,Anne Fontaine
+60994,Directing,1.0,Director,Audrey Wells
+61035,Directing,1.0,Director,Franziska Buch
+61222,Directing,1.0,Director,Ursula Meier
+61348,Directing,1.0,Director,Darnell Martin
+61559,Directing,1.0,Director,Ruba Nadda
+61580,Directing,1.0,Director,Katarzyna Roslaniec
+61581,Directing,1.0,Director,Michele Lupo
+61730,Directing,1.0,Director,Sook-Yin Lee
+61791,Directing,1.0,Script Supervisor,Christine Wilson
+62069,Directing,1.0,Director,Tova Magnusson
+62177,Directing,1.0,Director,Brenda Chapman
+62352,Directing,1.0,Director,Liv Ullmann
+62835,Directing,1.0,Script Supervisor,Jennifer J. Collins
+62956,Directing,1.0,Director,Sara Sugarman
+63020,Directing,1.0,Director,Mira Nair
+63064,Directing,1.0,Director,Li Yu
+63065,Directing,1.0,Director,Hermine Huntgeburth
+63088,Directing,1.0,Assistant Director,Joreta C. Cherry
+63115,Directing,1.0,Director,Alison Maclean
+63186,Directing,1.0,Director,Liliana Cavani
+63215,Directing,1.0,Director,Chantal Akerman
+63281,Directing,1.0,Director,Olga Subbotina
+63287,Directing,1.0,Director,Lori Petty
+63318,Directing,1.0,Director,Agnès Varda
+63319,Directing,1.0,Director,Rebecca Zlotowski
+63320,Directing,1.0,Director,Agnès Varda
+63334,Directing,1.0,Script Supervisor,Veda Semarne
+63358,Directing,1.0,Director,Liz Garbus
+63423,Directing,1.0,Director,Jessica Yu
+63574,Directing,1.0,Script Supervisor,Luca Kouimelis
+63736,Directing,1.0,Script Supervisor,Sarah Schultz
+63787,Directing,1.0,Director,Christy Cabanne
+63849,Directing,1.0,Director,Yasemin Samdereli
+63849,Directing,1.0,Assistant Director,Ulla Bay Kronenberger
+63877,Directing,1.0,Director,Susan Seidelman
+64133,Directing,1.0,Director,Marguerite Duras
+64398,Directing,1.0,Script Supervisor,Alma Reville
+64566,Directing,1.0,Director,Shari Springer Berman
+64584,Directing,1.0,Director,Catherine Breillat
+64882,Directing,1.0,Director,Chang You-jeong
+64900,Directing,1.0,Director,Claire Denis
+65015,Directing,1.0,Director,Jane Campion
+65016,Directing,1.0,Director,Catherine Breillat
+65075,Directing,1.0,Director,Laurie Gwen Shapiro
+65214,Directing,1.0,Director,Jen Soska
+65214,Directing,1.0,Director,Sylvia Soska
+65229,Directing,1.0,Director,Céline Sciamma
+65291,Directing,1.0,Director,Lauren Montgomery
+65326,Directing,1.0,Director,Evelyn Purcell
+65403,Directing,1.0,Director,Marisa Silver
+65481,Directing,1.0,Director,Helma Sanders-Brahms
+65496,Directing,1.0,Director,Emmanuelle Bercot
+65507,Directing,1.0,Director,Cindy Baer
+65719,Directing,1.0,Director,Marguerite Duras
+65754,Directing,1.0,Script Supervisor,Diana Dill
+66588,Directing,1.0,Director,Jocelyn Moorhouse
+66608,Directing,1.0,Assistant Director,Čejen Černić
+66638,Directing,1.0,Director,Joan Churchill
+66775,Directing,1.0,Continuity,Ann Skinner
+66799,Directing,1.0,Script Supervisor,Wendy Lee Roberts
+66894,Directing,1.0,Director,Millicent Shelton
+67273,Directing,1.0,Director,Cindy Meehl
+67384,Directing,1.0,Director,Marion Vernoux
+67488,Directing,1.0,Director,Carol Wiseman
+67499,Directing,1.0,Director,Ineke Houtman
+67509,Directing,1.0,Director,Fabienne Berthaud
+67809,Directing,1.0,Director,Jane Anderson
+67885,Directing,1.0,Director,Liz Garbus
+67952,Directing,1.0,Director,Shannon Hartman
+67962,Directing,1.0,Director,Toni Kalem
+68047,Directing,1.0,Director,Ana Katz
+68174,Directing,1.0,Director,Katherine Brooks
+68189,Directing,1.0,Director,Aku Louhimies
+68202,Directing,1.0,Director,Gabriela Tagliavini
+68297,Directing,1.0,Assistant Director,Weronika Migon
+68360,Directing,1.0,Director,Fien Troch
+68546,Directing,1.0,Director,Madhur Jaffrey
+68722,Directing,1.0,Script Supervisor,Jillian Giacomini
+68724,Directing,1.0,Script Supervisor,Carol Green-Lundy
+68730,Directing,1.0,Script Supervisor,Jessica Lichtner
+68732,Directing,1.0,Director,Catherine Cyran
+68734,Directing,1.0,Script Supervisor,Sheila Waldron
+68750,Directing,1.0,Director,Kari Skogland
+68817,Directing,1.0,Script Supervisor,Luca Kouimelis
+68894,Directing,1.0,Director,Ann Hu
+68924,Directing,1.0,Script Supervisor,Mary Cybulski
+68927,Directing,1.0,Script Supervisor,Pam Fuller
+68981,Directing,1.0,Director,Clara Law
+69324,Directing,1.0,Director,Christine Jeffs
+69492,Directing,1.0,Director,Evelyn Purcell
+69735,Directing,1.0,Director,Lauren Montgomery
+69740,Directing,1.0,Director,Hilde Van Mieghem
+70160,Directing,1.0,Script Supervisor,Dawn Gilliam
+70264,Directing,1.0,Director,Janet Grillo
+70555,Directing,1.0,Assistant Director,Eva Ebner
+70687,Directing,1.0,Director,Hilary Brougher
+70706,Directing,1.0,Director,Naomi Foner Gyllenhaal
+70736,Directing,1.0,Director,Margaret Whitton
+70758,Directing,1.0,Director,Mary McDonagh Murphy
+70794,Directing,1.0,Director,Marion Vernoux
+70845,Directing,1.0,Director,Liz Garbus
+70859,Directing,1.0,Director,Kathryn Bigelow
+70876,Directing,1.0,Script Supervisor,K. Lynn Martin
+70955,Directing,1.0,Director,Emmanuelle Bercot
+70989,Directing,1.0,Director,Maïwenn
+71041,Directing,1.0,Assistant Director,Eva Ebner
+71099,Directing,1.0,Director,Joan Micklin Silver
+71157,Directing,1.0,Director,Maïwenn
+71254,Directing,1.0,Script Supervisor,Kimberley Roper
+71394,Directing,1.0,Director,Suzi Yoonessi
+71559,Directing,1.0,Director,Katell Quillévéré
+71626,Directing,1.0,Director,Kelly Smith
+71668,Directing,1.0,Script Supervisor,Amber Harley
+71688,Directing,1.0,Director,Phyllida Lloyd
+71859,Directing,1.0,Director,Lynne Ramsay
+71859,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+71866,Directing,1.0,Director,Francesca Gregorini
+71866,Directing,1.0,Director,Tatiana von Furstenberg
+72174,Directing,1.0,Script Supervisor,Sandra Montgomery
+72363,Directing,1.0,Director,Diane Kurys
+72445,Directing,1.0,Director,Ann Hui
+72477,Directing,1.0,Director,Ami Canaan Mann
+72485,Directing,1.0,Director,Jennifer Baichwal
+72495,Directing,1.0,Director,Leni Riefenstahl
+72571,Directing,1.0,Script Supervisor,Diane Weiss
+72822,Directing,1.0,Director,Florence Quentin
+72841,Directing,1.0,Director,Jessica Yu
+72890,Directing,1.0,Director,Shari Springer Berman
+72890,Directing,1.0,Script Supervisor,Veronica Lupu
+72946,Directing,1.0,Director,Ava DuVernay
+73198,Directing,1.0,Script Supervisor,Amy Sanderson
+73351,Directing,1.0,Director,Susanna Styron
+73452,Directing,1.0,Director,Melissa Painter
+73492,Directing,1.0,Director,Ida Lupino
+73562,Directing,1.0,Director,Valérie Donzelli
+73686,Directing,1.0,Director,Agnieszka Holland
+73846,Directing,1.0,Director,Vivi Friedman
+73921,Directing,1.0,Director,Juana Macías
+73935,Directing,1.0,Director,Amy Heckerling
+74055,Directing,1.0,Director,Fiona Gordon
+74122,Directing,1.0,Director,Ida Lupino
+74140,Directing,1.0,Director,Jennifer Baichwal
+74254,Directing,1.0,Director,Hayley Cloake
+74308,Directing,1.0,Script Supervisor,Stacy Rowe
+74430,Directing,1.0,Script Supervisor,Bonnie Prendergast
+74998,Directing,1.0,Script Supervisor,Deirdre Horgan
+75258,Directing,1.0,Director,Peggy Holmes
+75301,Directing,1.0,Director,Constance Marks
+75341,Directing,1.0,Director,Julia Bacha
+75595,Directing,1.0,Script Supervisor,Erin Connarn
+75656,Directing,1.0,Script Supervisor,Amy Sanderson
+75760,Directing,1.0,Director,Vanessa Roth
+75780,Directing,1.0,Script Supervisor,Jessica Lichtner
+75785,Directing,1.0,Director,Andrea Blaugrund
+75802,Directing,1.0,Director,Tanya Wexler
+76000,Directing,1.0,Continuity,Penny Daniels
+76025,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+76163,Directing,1.0,Script Supervisor,Shelly Stoyanova
+76163,Directing,1.0,Script Supervisor,Lori Grabowski
+76170,Directing,1.0,Script Supervisor,Sheila Waldron
+76203,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+76330,Directing,1.0,Director,Barbara Kopple
+76341,Directing,1.0,Script Supervisor,Sophie Fabbri-Jackson
+76420,Directing,1.0,Director,Lauren Montgomery
+76494,Directing,1.0,Script Supervisor,Monika Petrillo
+76532,Directing,1.0,Director,Mélanie Laurent
+76589,Directing,1.0,Director,Lauren Montgomery
+76757,Directing,1.0,Director,Lilly Wachowski
+76757,Directing,1.0,Director,Lana Wachowski
+76757,Directing,1.0,Script Supervisor,Julie Brown
+76758,Directing,1.0,Assistant Director,Mo Zhang
+77084,Directing,1.0,Assistant Director,Sarah Gyllenstierna
+77185,Directing,1.0,Director,Avdotya Smirnova
+77261,Directing,1.0,Director,Alicia Keys
+77261,Directing,1.0,Director,Patty Jenkins
+77261,Directing,1.0,Director,Jennifer Aniston
+77261,Directing,1.0,Director,Demi Moore
+77434,Directing,1.0,Director,Gurinder Chadha
+77461,Directing,1.0,Director,Nadine Labaki
+77663,Directing,1.0,Script Supervisor,Stefania Velichkova
+77801,Directing,1.0,Director,Jennifer Siebel Newsom
+77883,Directing,1.0,Script Supervisor,Ilene Pickus
+77930,Directing,1.0,Script Supervisor,Annie Welles
+77957,Directing,1.0,Director,Gaby Dellal
+78041,Directing,1.0,Script Supervisor,Julie Pitkanen
+78202,Directing,1.0,Director,Leni Riefenstahl
+78206,Directing,1.0,Director,Marjane Satrapi
+78363,Directing,1.0,Director,Eva Ionesco
+78401,Directing,1.0,Director,Irene von Alberti
+78476,Directing,1.0,Director,Anne Fontaine
+78522,Directing,1.0,Director,Roberta Findlay
+78657,Directing,1.0,Director,Sophie Fillières
+78713,Directing,1.0,Director,Sarah Harding
+78789,Directing,1.0,Director,Chantal Akerman
+79072,Directing,1.0,Director,Barbara Albert
+79218,Directing,1.0,Director,Karen Disher
+79591,Directing,1.0,Director,Claire Denis
+79777,Directing,1.0,Director,Angelina Jolie
+79783,Directing,1.0,Director,Deepa Mehta
+79995,Directing,1.0,Director,Julie Gavras
+80019,Directing,1.0,Director,Joan Brooker-Marks
+80038,Directing,1.0,Director,Jennifer Westfeldt
+80080,Directing,1.0,Director,Věra Chytilová
+80094,Directing,1.0,Director,Věra Chytilová
+80168,Directing,1.0,Director,Dorothy Arzner
+80220,Directing,1.0,Director,Diane Kurys
+80271,Directing,1.0,Director,Lisa Azuelos
+80387,Directing,1.0,Director,Dori Berinstein
+80523,Directing,1.0,Director,Michèle Ohayon
+80560,Directing,1.0,Director,Barbara Loden
+80591,Directing,1.0,Director,Madonna
+81005,Directing,1.0,Script Supervisor,Julie Brown
+81113,Directing,1.0,Director,Marion Gering
+81182,Directing,1.0,Script Supervisor,Mandy Mason
+81401,Directing,1.0,Director,Ágnes Hranitzky
+81440,Directing,1.0,Director,Arlene Sanford
+81446,Directing,1.0,Script Supervisor,Dru Anne Carlson
+81540,Directing,1.0,Director,Lynn Hershman Leeson
+81543,Directing,1.0,Director,Jeanne Jordan
+81579,Directing,1.0,Director,Lisa Leeman
+81600,Directing,1.0,Director,Ineke Houtman
+81622,Directing,1.0,Director,Mila Turajlic
+81657,Directing,1.0,Director,Daniele Anastasion
+81660,Directing,1.0,Director,Emily Lou
+82077,Directing,1.0,Script Supervisor,Maxine Bergen
+82088,Directing,1.0,Assistant Director,Yuliya Solntseva
+82321,Directing,1.0,Director,Julia Loktev
+82409,Directing,1.0,Director,Sandra Kogut
+82432,Directing,1.0,Director,Vanessa Parise
+82505,Directing,1.0,Script Supervisor,Carolyn Arbuckle
+82532,Directing,1.0,Script Supervisor,Amy Sanderson
+82549,Directing,1.0,Director,Melanie Mayron
+82639,Directing,1.0,Director,Lisa Immordino Vreeland
+82687,Directing,1.0,Director,Anne Fletcher
+82693,Directing,1.0,Script Supervisor,Karen Golden
+82696,Directing,1.0,Script Supervisor,Mary Bailey
+82865,Directing,1.0,Director,Julia Sweeney
+82990,Directing,1.0,Script Supervisor,Diane Weiss
+83078,Directing,1.0,Director,Michelle Manning
+83232,Directing,1.0,Director,Shirley Clarke
+83443,Directing,1.0,Director,Ashley Sabin
+83479,Directing,1.0,Director,Whitney Smith
+83540,Directing,1.0,Director,Carol Morley
+83542,Directing,1.0,Director,Lana Wachowski
+83542,Directing,1.0,Director,Lilly Wachowski
+83542,Directing,1.0,Script Supervisor,Julie Brown
+83588,Directing,1.0,Director,Ava DuVernay
+83670,Directing,1.0,Director,Ida Lupino
+83714,Directing,1.0,Director,Martha Coolidge
+83732,Directing,1.0,Director,Alma Har'el
+83869,Directing,1.0,Script Supervisor,Mamie Mitchell
+83880,Directing,1.0,First Assistant Director,Kimberly A. Ray
+84026,Directing,1.0,Director,Agnès Varda
+84105,Directing,1.0,Director,Daisy von Scherler Mayer
+84154,Directing,1.0,Director,Shannon Hartman
+84165,Directing,1.0,Director,Julie Delpy
+84178,Directing,1.0,Director,Katie Aselton
+84192,Directing,1.0,Director,Susan Froemke
+84193,Directing,1.0,Director,Rory Kennedy
+84198,Directing,1.0,Director,Kristi Jacobson
+84199,Directing,1.0,Script Supervisor,Jillian Giacomini
+84201,Directing,1.0,Director,So Yong Kim
+84242,Directing,1.0,Director,Deborra-Lee Furness
+84242,Directing,1.0,Director,Illeana Douglas
+84290,Directing,1.0,Script Supervisor,Veronica Lupu
+84323,Directing,1.0,Script Supervisor,Veronica Mulero
+84327,Directing,1.0,Director,Lauren Greenfield
+84346,Directing,1.0,Director,Lucy Walker
+84355,Directing,1.0,Director,Lynn Shelton
+84735,Directing,1.0,Script Supervisor,Kay Chapin
+84742,Directing,1.0,Director,Elise Robertson
+84847,Directing,1.0,Script Supervisor,Betty A. Griffin
+85097,Directing,1.0,Director,Nina Gilden Seavey
+85129,Directing,1.0,Director,Bette Gordon
+85162,Directing,1.0,Director,Kristine Peterson
+85434,Directing,1.0,Script Supervisor,María Guerra
+85449,Directing,1.0,Director,Julie Delpy
+85472,Directing,1.0,Director,Chris Hegedus
+85509,Directing,1.0,Director,Martha Coolidge
+85521,Directing,1.0,Director,Shirley Clarke
+85580,Directing,1.0,Director,Linda Shayne
+85598,Directing,1.0,Director,Joan Freeman
+85651,Directing,1.0,Script Supervisor,Betty Goldberg
+85695,Directing,1.0,Script Supervisor,Betty Goldberg
+85696,Directing,1.0,Director,John McKay
+85887,Directing,1.0,Director,Lee Rose
+85927,Directing,1.0,Director,Marguerite Duras
+85963,Directing,1.0,Director,Angela Ismailos
+85971,Directing,1.0,Director,Barbara Peeters
+85984,Directing,1.0,Director,Shari Springer Berman
+86093,Directing,1.0,Director,Susan Seidelman
+86096,Directing,1.0,Director,Marguerite Duras
+86495,Directing,1.0,Script Supervisor,Donna Gardon
+86555,Directing,1.0,Director,Sarah Polley
+86555,Directing,1.0,Script Supervisor,Samantha Armstrong
+86576,Directing,1.0,Director,Pooja Bhatt
+86814,Directing,1.0,Director,Chantal Akerman
+86834,Directing,1.0,Script Supervisor,Jessica Lichtner
+86843,Directing,1.0,Director,Nikki Frakes
+87078,Directing,1.0,Script Supervisor,Hilary Momberger
+87098,Directing,1.0,Director,Amanda Pope
+87335,Directing,1.0,Director,Michele Lupo
+87415,Directing,1.0,Director,Danièle Huillet
+87436,Directing,1.0,Director,Angela Bettis
+87502,Directing,1.0,Script Supervisor,Luca Kouimelis
+87818,Directing,1.0,Script Supervisor,Sharon Watt
+87818,Directing,1.0,Director,Elizabeth Banks
+87818,Directing,1.0,Script Supervisor,Mary A. Kelly
+87943,Directing,1.0,Director,Florence Ayisi
+88005,Directing,1.0,Director,Lorene Scafaria
+88012,Directing,1.0,Director,Joan Littlewood
+88224,Directing,1.0,Director,Lisa Krueger
+88844,Directing,1.0,Director,Urszula Antoniak
+89191,Directing,1.0,Director,Sharmeen Obaid-Chinoy
+89287,Directing,1.0,Director,Fiona Gordon
+89292,Directing,1.0,Script Supervisor,Harriotte H. Aaron
+89488,Directing,1.0,Script Supervisor,Mary Cybulski
+89625,Directing,1.0,Assistant Director,Helke Sander
+89720,Directing,1.0,Script Supervisor,Maria Lease
+89750,Directing,1.0,Director,Léa Pool
+89870,Directing,1.0,Director,Diane Paragas
+89872,Directing,1.0,Director,Susan Seidelman
+90094,Directing,1.0,Director,Michele Lupo
+90148,Directing,1.0,Director,Betty Kaplan
+90414,Directing,1.0,Director,Julie Davis
+90992,Directing,1.0,Director,Naoko Ogigami
+91063,Directing,1.0,Director,Stephanie Rothman
+91099,Directing,1.0,Director,María Ripoll
+91186,Directing,1.0,Director,Ann Hui
+91549,Directing,1.0,Director,Mary Harron
+91550,Directing,1.0,Script Supervisor,Veronica Lupu
+91618,Directing,1.0,Director,Stephanie Rothman
+91911,Directing,1.0,Director,Leslie Zemeckis
+91930,Directing,1.0,Director,Anne Renton
+92182,Directing,1.0,Director,Laura Lau
+92283,Directing,1.0,Script Supervisor,Renata Stoia
+92371,Directing,1.0,Script Supervisor,Caroline Sutton-Osbourn
+92493,Directing,1.0,Second Assistant Director,Sarah Campbell
+92657,Directing,1.0,Director,Sofia Coppola
+92779,Directing,1.0,Script Supervisor,Joanna Kennedy
+93350,Directing,1.0,Script Supervisor,Christine Gee
+93669,Directing,1.0,Director,Chantal Akerman
+93676,Directing,1.0,Script Supervisor,Erin Feeley
+93715,Directing,1.0,Director,Sheila Brothers
+93934,Directing,1.0,Director,Chantal Akerman
+93946,Directing,1.0,Director,Angela Pope
+94066,Directing,1.0,Director,Susan Seidelman
+94331,Directing,1.0,Director,Petra Epperlein
+94348,Directing,1.0,Script Supervisor,Diane Durant
+94380,Directing,1.0,Script Supervisor,Renetta G. Amador
+94393,Directing,1.0,Continuity,Penny Daniels
+94727,Directing,1.0,Director,Frances H. Flaherty
+94771,Directing,1.0,Director,Agnès Varda
+94901,Directing,1.0,Script Supervisor,Andrea Manners
+95015,Directing,1.0,Assistant Director,Sherry Shourds
+95134,Directing,1.0,Director,Dorothy Arzner
+95136,Directing,1.0,Director,Shirley MacLaine
+95177,Directing,1.0,Director,Amy Seimetz
+95600,Directing,1.0,Director,Danièle Huillet
+95610,Directing,1.0,Director,Sharon Maguire
+95682,Directing,1.0,Director,Frances Reid
+95700,Directing,1.0,Assistant Director,Belén Orsini
+95808,Directing,1.0,Director,Katie Dellamaggiore
+96196,Directing,1.0,Director,Sandra Goldbacher
+96419,Directing,1.0,Director,Fina Torres
+96484,Directing,1.0,Director,Lynn Hershman Leeson
+96599,Directing,1.0,Director,Megan Griffiths
+96715,Directing,1.0,Director,Euzhan Palcy
+96724,Directing,1.0,Script Supervisor,Emma Thomas
+96769,Directing,1.0,Director,Nina Conti
+96936,Directing,1.0,Script Supervisor,Mary Bailey
+96936,Directing,1.0,Director,Sofia Coppola
+97032,Directing,1.0,Director,Danièle Huillet
+97035,Directing,1.0,Director,Marceline Loridan-Ivens
+97082,Directing,1.0,Director,Gabrielle Provaas
+97399,Directing,1.0,Director,Ava DuVernay
+97400,Directing,1.0,Director,Trudie Styler
+97630,Directing,1.0,Director,Kathryn Bigelow
+97754,Directing,1.0,Director,Daniela Féjerman
+98357,Directing,1.0,Script Supervisor,Pam Fuller
+98487,Directing,1.0,Director,Dorothy Arzner
+98514,Directing,1.0,Director,Kelly Reichardt
+99002,Directing,1.0,Director,Claire Denis
+99599,Directing,1.0,Assistant Director,Angelika Wang
+100250,Directing,1.0,Director,Eugenie Jansen
+100825,Directing,1.0,Director,Beverly Kopf
+100825,Directing,1.0,Director,Bobbie Birleffi
+101267,Directing,1.0,Director,Jane Lipsitz
+101299,Directing,1.0,Script Supervisor,Ana Maria Quintana
+101520,Directing,1.0,Director,Catherine Bainbridge
+101772,Directing,1.0,Assistant Director,Elizabeth Montagu
+102000,Directing,1.0,Director,Ursula Meier
+102382,Directing,1.0,Script Supervisor,Wendy Lee Roberts
+102533,Directing,1.0,Director,Sólveig Anspach
+102629,Directing,1.0,Script Supervisor,Shelly Stoyanova
+102640,Directing,1.0,Director,Nancy Savoca
+102841,Directing,1.0,Director,Joan Rivers
+102855,Directing,1.0,Director,Ramona S. Diaz
+102867,Directing,1.0,Director,Elizabeth Mims
+102933,Directing,1.0,Director,Allison Anders
+102935,Directing,1.0,Director,Rebecca Richman Cohen
+103198,Directing,1.0,Director,Linda Otto
+103332,Directing,1.0,Director,Valerie Faris
+103432,Directing,1.0,Script Supervisor,Lily La Cava
+103528,Directing,1.0,Director,Rebecca Cammisa
+104043,Directing,1.0,Script Supervisor,Martha Mitchell
+104043,Directing,1.0,Director,Marisa Silver
+104146,Directing,1.0,Director,Joan Micklin Silver
+104194,Directing,1.0,Director,Sylvia Chang
+104250,Directing,1.0,Director,Nancy Buirski
+104378,Directing,1.0,Director,Maya Deren
+104711,Directing,1.0,Director,Hermine Huntgeburth
+104732,Directing,1.0,Director,Ronna Gradus
+104732,Directing,1.0,Director,Jill Bauer
+104739,Directing,1.0,Director,Chantal Akerman
+104755,Directing,1.0,Script Supervisor,Renetta G. Amador
+104871,Directing,1.0,Director,Danièle Huillet
+105045,Directing,1.0,Director,Margarethe von Trotta
+105073,Directing,1.0,Director,Lynn Shores
+105593,Directing,1.0,Director,Sara Driver
+105711,Directing,1.0,Director,Maya Deren
+105891,Directing,1.0,Director,Katie Wolfe
+106113,Directing,1.0,Director,Christy Cabanne
+106124,Directing,1.0,Director,Věra Chytilová
+106129,Directing,1.0,Director,Adrienne Shelly
+106131,Directing,1.0,Director,Adrienne Shelly
+106263,Directing,1.0,Director,Julie Brown
+106538,Directing,1.0,Director,Sylvie Verheyde
+106646,Directing,1.0,Script Supervisor,Wendy Lee Roberts
+106646,Directing,1.0,Script Supervisor,Erin Feeley
+107257,Directing,1.0,Director,Nicole Conn
+107593,Directing,1.0,Assistant Director,Sherry Shourds
+107743,Directing,1.0,Director,Dana Lustig
+107811,Directing,1.0,Script Supervisor,Suzanne C. Swindle
+107811,Directing,1.0,Script Supervisor,Jan Rudolph
+107852,Directing,1.0,Director,Claire Simon
+108251,Directing,1.0,Script Supervisor,Laura Collini
+108564,Directing,1.0,Script Supervisor,Doreen Merriman
+108822,Directing,1.0,Director,Chantal Akerman
+109410,Directing,1.0,Script Supervisor,Dawn Gilliam
+109445,Directing,1.0,Director,Jennifer Lee
+109491,Directing,1.0,Script Supervisor,Julie Pitkanen
+109636,Directing,1.0,Script Supervisor,Sandy Nelson
+110282,Directing,1.0,Director,Amma Asante
+110416,Directing,1.0,Other,Nora Twomey
+110909,Directing,1.0,Director,Isabel Coixet
+110972,Directing,1.0,Script Supervisor,Harri James
+111083,Directing,1.0,Script Supervisor,Glòria Blanes
+111118,Directing,1.0,Director,Rebecca Harrell Tickell
+111174,Directing,1.0,Director,Ricki Stern
+111190,Directing,1.0,Director,Anne Fontaine
+111239,Directing,1.0,Director,Carol Morley
+111605,Directing,1.0,Director,Nancy Savoca
+111854,Directing,1.0,Director,Kari Skogland
+112336,Directing,1.0,Script Supervisor,Jane Goldsmith
+112454,Directing,1.0,Script Supervisor,Carolyn Arbuckle
+112885,Directing,1.0,Director,Dorothy Arzner
+113273,Directing,1.0,Director,Nanette Burstein
+113284,Directing,1.0,Director,Liz Garbus
+113737,Directing,1.0,Director,Mira Nair
+113777,Directing,1.0,Script Supervisor,Betty Goldberg
+114172,Directing,1.0,Director,Aku Louhimies
+114189,Directing,1.0,Director,Anna Justice
+114521,Directing,1.0,Director,Brigitte Berman
+114776,Directing,1.0,Director,Lynn Roth
+116008,Directing,1.0,Director,Mary Cybulski
+116231,Directing,1.0,Director,Sylvie Testud
+116303,Directing,1.0,Director,Naoko Ogigami
+116463,Directing,1.0,Script Supervisor,Stefania Velichkova
+116733,Directing,1.0,Director,Aleksandra Snezhko-Blotskaya
+116853,Directing,1.0,Script Supervisor,Diane Collins
+116979,Directing,1.0,Director,Jennifer Chambers Lynch
+117007,Directing,1.0,Director,Kirsten Johnson
+117034,Directing,1.0,Director,Joan Churchill
+117337,Directing,1.0,Director,Pooja Bhatt
+117375,Directing,1.0,Director,Penny Woolcock
+117401,Directing,1.0,Director,Bethany Rooney
+117479,Directing,1.0,Director,Danièle Huillet
+117680,Directing,1.0,Director,Laurie Anderson
+117700,Directing,1.0,Director,Rachel Talalay
+118014,Directing,1.0,Director,Germaine Dulac
+118443,Directing,1.0,Director,Kari Skogland
+119617,Directing,1.0,Script Supervisor,Ana Maria Quintana
+119675,Directing,1.0,Script Supervisor,Annie Welles
+119816,Directing,1.0,Director,Annette Ernst
+119907,Directing,1.0,Director,Nancy Savoca
+119984,Directing,1.0,Director,Alice Guy
+120271,Directing,1.0,Director,Susan Froemke
+120328,Directing,1.0,Script Supervisor,Benita Brazier
+120357,Directing,1.0,Director,Dorothy Arzner
+121088,Directing,1.0,Director,Issa López
+121197,Directing,1.0,Director,Ida Lupino
+121471,Directing,1.0,Director,Liz Garbus
+121598,Directing,1.0,Director,Deepa Mehta
+121598,Directing,1.0,Script Supervisor,Carolyn Arbuckle
+121674,Directing,1.0,Script Supervisor,Rowena Ladbury
+121676,Directing,1.0,Director,Ruba Nadda
+121677,Directing,1.0,Director,Mira Nair
+121831,Directing,1.0,Director,Liz Garbus
+121835,Directing,1.0,Director,Cate Shortland
+121856,Directing,1.0,Script Supervisor,Lisa Vick
+121872,Directing,1.0,Director,Sally Potter
+121873,Directing,1.0,Director,Margarethe von Trotta
+121986,Directing,1.0,Script Supervisor,Sasha Vitelli
+122023,Directing,1.0,Director,Sheree Folkson
+122081,Directing,1.0,Script Supervisor,Laura Pinto
+122198,Directing,1.0,Director,Valeria Sarmiento
+122341,Directing,1.0,Director,Sharon Lockhart
+122348,Directing,1.0,Director,Sharon Lockhart
+122356,Directing,1.0,Director,Sharon Lockhart
+122479,Directing,1.0,Director,Maya Deren
+122924,Directing,1.0,Script Supervisor,Cleopatra Medvetchi
+123375,Directing,1.0,Director,Francesca Comencini
+123763,Directing,1.0,Director,María Luisa Bemberg
+123777,Directing,1.0,Director,Su Friedrich
+123949,Directing,1.0,Director,Avdotya Smirnova
+124096,Directing,1.0,Director,Agnieszka Holland
+124210,Directing,1.0,Script Supervisor,Bonnie Prendergast
+124304,Directing,1.0,Director,María Luisa Bemberg
+124847,Directing,1.0,Director,Coky Giedroyc
+125233,Directing,1.0,Director,Lee Rose
+125317,Directing,1.0,Director,Marion Hänsel
+125490,Directing,1.0,Script Supervisor,Donna Gardon
+125504,Directing,1.0,Script Supervisor,Susan Williams
+125509,Directing,1.0,Script Supervisor,Stefania Velichkova
+125548,Directing,1.0,Director,Nancy Savoca
+125558,Directing,1.0,Director,Danielle Harris
+125582,Directing,1.0,Director,Maya Angelou
+125842,Directing,1.0,Director,Agnieszka Holland
+125953,Directing,1.0,Director,Rebecca Cammisa
+126250,Directing,1.0,Director,Susanne Bier
+126265,Directing,1.0,Director,Ida Lupino
+126277,Directing,1.0,Director,Sylvia Soska
+126277,Directing,1.0,Script Supervisor,Lara Fox
+126277,Directing,1.0,Director,Jen Soska
+126321,Directing,1.0,Director,Catherine Corsini
+126748,Directing,1.0,Director,Jane Anderson
+126881,Directing,1.0,Director,Hermine Huntgeburth
+127286,Directing,1.0,Director,Coky Giedroyc
+127373,Directing,1.0,Script Supervisor,Andrea Ulrich
+127585,Directing,1.0,Script Supervisor,Christine Wilson
+127728,Directing,1.0,Director,Jennifer Azano
+127803,Directing,1.0,Director,Letia Miller
+127856,Directing,1.0,Director,Alice Winocour
+127867,Directing,1.0,Script Supervisor,Mamie Mitchell
+128216,Directing,1.0,Director,Sarah Polley
+128270,Directing,1.0,Script Supervisor,Christine Gee
+128644,Directing,1.0,Director,Mimi Leder
+128848,Directing,1.0,Script Supervisor,Sandy Nelson
+128862,Directing,1.0,Director,Susan Johnson
+129363,Directing,1.0,Director,Danièle Huillet
+129432,Directing,1.0,Director,Sólveig Anspach
+129670,Directing,1.0,Script Supervisor,Rebecca Robertson
+129933,Directing,1.0,Director,Paz Encina
+130750,Directing,1.0,Director,Nisha Pahuja
+131631,Directing,1.0,Script Supervisor,Ana Maria Quintana
+131634,Directing,1.0,Script Supervisor,Ana Maria Quintana
+131880,Directing,1.0,Director,Kate Davis
+131903,Directing,1.0,Director,Carol Wiseman
+132363,Directing,1.0,Script Supervisor,Amy Sanderson
+132812,Directing,1.0,Director,Michèle Ohayon
+133764,Directing,1.0,Director,Kristina Buozyte
+133964,Directing,1.0,Director,Shin Su-won
+134693,Directing,1.0,Director,Megan Peterson
+134881,Directing,1.0,Director,Daisy von Scherler Mayer
+135281,Directing,1.0,Director,Noémie Lvovsky
+135337,Directing,1.0,Director,Mai Zetterling
+135473,Directing,1.0,Script Supervisor,Christena Alcorn
+135545,Directing,1.0,Director,Barbara Kopple
+135579,Directing,1.0,Director,April Mullen
+136058,Directing,1.0,Director,Julia Reichert
+136106,Directing,1.0,Director,Dorothy Arzner
+136616,Directing,1.0,Director,Sherry Hormann
+136835,Directing,1.0,Script Supervisor,Megan Graham
+136850,Directing,1.0,Director,Jamie Babbit
+137113,Directing,1.0,Script Supervisor,Lisa Vick
+137474,Directing,1.0,Director,Sylvia Caminer
+137651,Directing,1.0,Director,Sari Gilman
+137669,Directing,1.0,Script Supervisor,Jillian Zurawski
+138103,Directing,1.0,Script Supervisor,Shelly Stoyanova
+138103,Directing,1.0,Script Supervisor,Stefania Velichkova
+138202,Directing,1.0,Director,Jenny Deller
+138665,Directing,1.0,Director,Pang Eun-jin
+138697,Directing,1.0,Script Supervisor,Renetta G. Amador
+138843,Directing,1.0,Script Supervisor,Cate Hardman
+138977,Directing,1.0,Director,Michelle Danner
+139230,Directing,1.0,Director,Chris Hegedus
+139380,Directing,1.0,Director,Debbie Isitt
+139933,Directing,1.0,Director,Xan Cassavetes
+140300,Directing,1.0,Director,Jennifer Yuh Nelson
+140448,Directing,1.0,Director,Ashley Sabin
+140465,Directing,1.0,Director,Lynn Novick
+140595,Directing,1.0,Director,Chris Hegedus
+140934,Directing,1.0,Director,Michelle Mower
+141145,Directing,1.0,Director,Fien Troch
+142118,Directing,1.0,Director,Taru Mäkelä
+142132,Directing,1.0,Director,Allison Anders
+142168,Directing,1.0,Director,Rosanna Arquette
+143959,Directing,1.0,Director,Mari Rantasila
+144111,Directing,1.0,Director,Dorothy Arzner
+145135,Directing,1.0,Script Supervisor,Renetta G. Amador
+145244,Directing,1.0,Director,Michele Lupo
+146198,Directing,1.0,Script Supervisor,Lori Grabowski
+146269,Directing,1.0,Director,Catherine Jelski
+146428,Directing,1.0,Director,Larisa Shepitko
+146521,Directing,1.0,Director,Larisa Shepitko
+146578,Directing,1.0,Script Supervisor,Sandra Montgomery
+146712,Directing,1.0,Script Supervisor,Alexandra La Roche
+146955,Directing,1.0,Director,Gabriela Tagliavini
+147367,Directing,1.0,Director,Christie Will
+148652,Directing,1.0,Script Supervisor,Susan Williams
+149206,Directing,1.0,Script Supervisor,Laura Collini
+149213,Directing,1.0,Director,Joyce Chopra
+149862,Directing,1.0,Director,Laura Mañá
+149940,Directing,1.0,Director,Sharon Lockhart
+150657,Directing,1.0,Director,Leslie Hope
+150689,Directing,1.0,Script Supervisor,Anna Worley
+150912,Directing,1.0,Director,Michele Lupo
+151044,Directing,1.0,Director,Jacqui Morris
+151086,Directing,1.0,Director,Alice Guy
+151933,Directing,1.0,Script Supervisor,Cornelia Stefan
+152539,Directing,1.0,Director,Nina Companéez
+152747,Directing,1.0,Script Supervisor,Erin Feeley
+152756,Directing,1.0,Director,Diablo Cody
+153717,Directing,1.0,Director,Susanne Zanke
+153774,Directing,1.0,Director,Alicia Scherson
+153820,Directing,1.0,Assistant Director,Virginie Legeay
+153854,Directing,1.0,Director,Eliza Hittman
+154282,Directing,1.0,Director,Lynn Shelton
+155890,Directing,1.0,Director,Hélène Fillières
+156022,Directing,1.0,Script Supervisor,Deirdre Horgan
+156708,Directing,1.0,Director,Jill Soloway
+157016,Directing,1.0,Director,Penny Lane
+157351,Directing,1.0,Director,Francesca Gregorini
+157354,Directing,1.0,Script Supervisor,Andrea Manners
+157360,Directing,1.0,Director,Lake Bell
+157375,Directing,1.0,Director,Liz W. Garcia
+157380,Directing,1.0,Director,Cherien Dabis
+157424,Directing,1.0,Script Supervisor,Sarah Schultz
+157547,Directing,1.0,Script Supervisor,Melinda Taksen
+157674,Directing,1.0,Director,Magdalena Segieda
+157690,Directing,1.0,Director,Emmanuelle Bercot
+157823,Directing,1.0,Director,Kelly Reichardt
+157837,Directing,1.0,Director,Penny Woolcock
+157843,Directing,1.0,Script Supervisor,Alina Apostu
+158916,Directing,1.0,Script Supervisor,Jan Rudolph
+158939,Directing,1.0,Director,Randa Haines
+158999,Directing,1.0,Director,Gabriela Cowperthwaite
+159005,Directing,1.0,Director,Dawn Porter
+159015,Directing,1.0,Director,Marta Cunningham
+159037,Directing,1.0,Director,Jehane Noujaim
+159138,Directing,1.0,Director,Lucy Walker
+159140,Directing,1.0,Director,Alison Ellwood
+159153,Directing,1.0,Director,Barbara Kopple
+159389,Directing,1.0,Director,Courteney Cox
+160564,Directing,1.0,Director,Agnès Jaoui
+160706,Directing,1.0,Director,Roberta Grossman
+161024,Directing,1.0,Director,Victoria Galardi
+161056,Directing,1.0,Director,Aku Louhimies
+162059,Directing,1.0,Assistant Director,Sherry Shourds
+162406,Directing,1.0,Director,Naomi Kawase
+162435,Directing,1.0,Director,Naomi Kawase
+162437,Directing,1.0,Director,Naomi Kawase
+162442,Directing,1.0,Director,Naomi Kawase
+163845,Directing,1.0,Director,Erica Dunton
+164251,Directing,1.0,Director,Susanne Bier
+166426,Directing,1.0,Script Supervisor,Joecy Shepherd
+166666,Directing,1.0,Director,Sherry Hormann
+166822,Directing,1.0,Script Supervisor,Erin Grumley
+166822,Directing,1.0,Script Supervisor,Sara Branscum
+167032,Directing,1.0,Script Supervisor,Tanya Mazur
+167073,Directing,1.0,Script Supervisor,Rowena Ladbury
+167424,Directing,1.0,Director,Barbara Albert
+167810,Directing,1.0,Script Supervisor,Amber Harley
+167928,Directing,1.0,Director,Aku Louhimies
+168361,Directing,1.0,Director,Joyce Chopra
+168426,Directing,1.0,Director,Joan Carr-Wiggin
+168535,Directing,1.0,Script Supervisor,Christine Gee
+168693,Directing,1.0,Director,Andrea Arnold
+169209,Directing,1.0,Script Supervisor,Jennifer J. Collins
+169219,Directing,1.0,Script Supervisor,Shelly Stoyanova
+169343,Directing,1.0,Director,Neus Ballús
+169379,Directing,1.0,Director,Sandy Wilson
+169642,Directing,1.0,Director,Katie Graham
+170178,Directing,1.0,Director,Jules Stewart
+170187,Directing,1.0,Director,Daphna Kastner
+170261,Directing,1.0,Script Supervisor,Judi Brown
+170399,Directing,1.0,Director,Mary Lambert
+170400,Directing,1.0,Director,Susan Seidelman
+170752,Directing,1.0,Director,Susan Seidelman
+171213,Directing,1.0,Director,Diane Kurys
+171274,Directing,1.0,Script Supervisor,Jillian Giacomini
+171424,Directing,1.0,Script Supervisor,Veronica Mulero
+172014,Directing,1.0,Director,Mary Lampson
+172198,Directing,1.0,Director,Ildikó Enyedi
+172897,Directing,1.0,Director,Daisy von Scherler Mayer
+173153,Directing,1.0,Script Supervisor,Christine Gee
+173796,Directing,1.0,Director,Cecilia Peck
+173908,Directing,1.0,Script Supervisor,Laura Pinto
+174319,Directing,1.0,Director,Chiemi Karasawa
+174321,Directing,1.0,Script Supervisor,Erin Feeley
+174325,Directing,1.0,Director,Whoopi Goldberg
+174326,Directing,1.0,Script Supervisor,Erika Sanz Corbacho
+174348,Directing,1.0,Director,Meera Menon
+174671,Directing,1.0,Director,Marina de Van
+175112,Directing,1.0,Director,Peggy Holmes
+175334,Directing,1.0,Director,Frances Marion
+175541,Directing,1.0,Director,Kasi Lemmons
+175924,Directing,1.0,Director,Joan Micklin Silver
+175983,Directing,1.0,Director,Wanda Tuchock
+176069,Directing,1.0,Director,Ela Thier
+176403,Directing,1.0,Director,Nana Ekvtimishvili
+177677,Directing,1.0,Script Supervisor,Lisa Vick
+178382,Directing,1.0,Director,Kelly Reichardt
+178385,Directing,1.0,Director,Kelly Reichardt
+178917,Directing,1.0,Director,Samantha Buck
+179109,Directing,1.0,Director,Claire Denis
+179154,Directing,1.0,Script Supervisor,Jillian Amburgey
+181533,Directing,1.0,Script Supervisor,Diane Durant
+182981,Directing,1.0,Director,Urszula Antoniak
+184020,Directing,1.0,Director,Danièle Thompson
+185497,Directing,1.0,Director,Sofya Skya
+185564,Directing,1.0,Director,Allison Anders
+186705,Directing,1.0,Director,Marion Vernoux
+186988,Directing,1.0,Director,Valeria Golino
+186991,Directing,1.0,Director,Rebecca Zlotowski
+187276,Directing,1.0,Director,Amanda Gusack
+187458,Directing,1.0,Director,Chris Hegedus
+187541,Directing,1.0,Director,Ashley Judd
+187541,Directing,1.0,Director,Bonnie Hunt
+187541,Directing,1.0,Director,Bryce Dallas Howard
+187541,Directing,1.0,Director,Laura Dern
+187541,Directing,1.0,Director,Sharon Maguire
+188102,Directing,1.0,Script Supervisor,Antoinette van Speyk
+188207,Directing,1.0,Script Supervisor,Shelly Stoyanova
+188521,Directing,1.0,Director,Coky Giedroyc
+188761,Directing,1.0,Director,Lucía Puenzo
+189204,Directing,1.0,Director,Sanaa Hamri
+190853,Directing,1.0,Director,Katell Quillévéré
+191421,Directing,1.0,Director,Zhao Wei
+191476,Directing,1.0,Director,Asia Argento
+191476,Directing,1.0,Director,Niki Caro
+191566,Directing,1.0,Director,Sarah Siegel-Magness
+192936,Directing,1.0,Script Supervisor,Julie Brown
+193212,Directing,1.0,Script Supervisor,Kate Morrison
+193346,Directing,1.0,Director,Olivia Mori
+193726,Directing,1.0,Director,Kristina Buozyte
+193726,Directing,1.0,Director,Jen Soska
+193726,Directing,1.0,Director,Sylvia Soska
+194548,Directing,1.0,Director,Olga Malea
+194662,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+195589,Directing,1.0,Script Supervisor,Brenda Lopez
+196257,Directing,1.0,Director,Melanie Mayron
+196918,Directing,1.0,Director,Paule Baillargeon
+197089,Directing,1.0,Director,Valeria Bruni Tedeschi
+197552,Directing,1.0,Director,Marion Hänsel
+197936,Directing,1.0,Director,Marion Vernoux
+198001,Directing,1.0,Director,Joan Micklin Silver
+198210,Directing,1.0,Script Supervisor,Renetta G. Amador
+198214,Directing,1.0,Director,Allison Anders
+199591,Directing,1.0,Script Supervisor,Carolyn Arbuckle
+199661,Directing,1.0,Director,Agnès Obadia
+199887,Directing,1.0,Director,Bronwen Hughes
+199934,Directing,1.0,Director,Lone Scherfig
+199977,Directing,1.0,Director,Diane Kurys
+200016,Directing,1.0,Director,Ildikó Enyedi
+200325,Directing,1.0,Director,Juliane Lorenz
+200938,Directing,1.0,Director,Emma Franz
+201430,Directing,1.0,Director,Mary Lambert
+201643,Directing,1.0,Director,Marianna Kaat
+201749,Directing,1.0,Director,Sandra Nettelbeck
+202140,Directing,1.0,Director,Márta Mészáros
+202241,Directing,1.0,Script Supervisor,Wendy Lee Roberts
+202337,Directing,1.0,Script Supervisor,Helen Caldwell
+203321,Directing,1.0,Director,John McKay
+203834,Directing,1.0,Script Supervisor,Amber Harley
+204128,Directing,1.0,Director,Mai Zetterling
+204690,Directing,1.0,Director,Natalya Merkulova
+204762,Directing,1.0,Director,Axelle Ropert
+204784,Directing,1.0,Director,Mary Harron
+204821,Directing,1.0,Director,Mary Lambert
+205321,Directing,1.0,Script Supervisor,Sarah Schultz
+205557,Directing,1.0,Director,Michele Lupo
+205601,Directing,1.0,Director,Amma Asante
+205608,Directing,1.0,Director,Bridget Terry
+205939,Directing,1.0,Director,Anne K. Black
+207454,Directing,1.0,Script Supervisor,Michelle Buchanan-Kriebel
+207871,Directing,1.0,Director,Annette Haywood-Carter
+207933,Directing,1.0,Script Supervisor,Milena Mihaylova
+208198,Directing,1.0,Director,Danièle Huillet
+208478,Directing,1.0,Director,Marina Abramović
+208478,Directing,1.0,Director,Sam Taylor-Johnson
+208988,Directing,1.0,Director,Lynn Novick
+209112,Directing,1.0,Script Supervisor,Amber Harley
+209204,Directing,1.0,Director,Kate Davis
+209262,Directing,1.0,Script Supervisor,Cate Hardman
+209263,Directing,1.0,Director,Nicole Holofcener
+209263,Directing,1.0,Script Supervisor,Rebecca Robertson
+209266,Directing,1.0,Director,Caroline Link
+209414,Directing,1.0,Director,Hilde Van Mieghem
+209802,Directing,1.0,Director,Alison Maclean
+210234,Directing,1.0,Director,Veronica Velasco
+210777,Directing,1.0,Director,Lee Grant
+211088,Directing,1.0,Director,Leanne Pooley
+211166,Directing,1.0,Director,Nadine Labaki
+212753,Directing,1.0,Script Supervisor,Karen Paterson-Bowden
+212778,Directing,1.0,Script Supervisor,Kathy McHugh
+212865,Directing,1.0,Script Supervisor,Rebecca Long
+212927,Directing,1.0,Director,Wendy Jo Carlton
+213917,Directing,1.0,Director,Nicole Garcia
+214096,Directing,1.0,Director,Megan Griffiths
+214129,Directing,1.0,Director,Joyce E. Bernal
+214597,Directing,1.0,Assistant Director,Ingrid Cristea
+214597,Directing,1.0,Script Supervisor,Cornelia Stefan
+214597,Directing,1.0,Assistant Director,Maria Nita
+215032,Directing,1.0,Director,Jennifer Baichwal
+215881,Directing,1.0,Director,Catherine Hardwicke
+215991,Directing,1.0,Director,Marion Cajori
+215991,Directing,1.0,Director,Amei Wallach
+216015,Directing,1.0,Director,Sam Taylor-Johnson
+216035,Directing,1.0,Director,Sarah Pia Anderson
+216282,Directing,1.0,Script Supervisor,Lisa McNeil
+216282,Directing,1.0,Script Supervisor,Lori Grabowski
+216282,Directing,1.0,Script Supervisor,Dawn Gilliam
+216553,Directing,1.0,Director,Shannon Hartman
+216580,Directing,1.0,Script Supervisor,Andra Hayes
+216672,Directing,1.0,Director,Diane Doniol-Valcroze
+218473,Directing,1.0,Director,Jennifer Warren
+218778,Directing,1.0,Script Supervisor,Rebecca Robertson
+219645,Directing,1.0,Director,Donna Deitch
+220488,Directing,1.0,Director,Dennie Gordon
+220514,Directing,1.0,Director,Lou Simon
+220976,Directing,1.0,Director,Anne De Salvo
+221112,Directing,1.0,Director,Barbara Wong Chun-Chun
+221510,Directing,1.0,Director,Kristin Hanggi
+221737,Directing,1.0,Script Supervisor,Shelly Stoyanova
+222649,Directing,1.0,Script Supervisor,Mary Bailey
+222858,Directing,1.0,Script Supervisor,Jennifer Getzinger
+222935,Directing,1.0,Script Supervisor,Luca Kouimelis
+223318,Directing,1.0,Director,Troy Byer
+223632,Directing,1.0,Director,Dayna Goldfine
+223946,Directing,1.0,Director,Mona Achache
+224141,Directing,1.0,Script Supervisor,Lisa Vick
+224251,Directing,1.0,Director,Joan Micklin Silver
+224293,Directing,1.0,Director,Heather M. Winters
+224414,Directing,1.0,Director,Leslie Zemeckis
+224972,Directing,1.0,Director,Jennifer Siebel Newsom
+225564,Directing,1.0,Director,Valérie Lemercier
+225574,Directing,1.0,Script Supervisor,Eva Z. Cabrera
+226140,Directing,1.0,Director,Jen Soska
+226140,Directing,1.0,Director,Sylvia Soska
+226448,Directing,1.0,Director,Brin Hill
+226486,Directing,1.0,Script Supervisor,Sheila Waldron
+227159,Directing,1.0,Script Supervisor,Jane Goldsmith
+227300,Directing,1.0,Script Supervisor,Hilary Momberger
+227306,Directing,1.0,Director,Angelina Jolie
+227719,Directing,1.0,Script Supervisor,Cheryl Starbuck
+227859,Directing,1.0,Director,Anna Zielinski
+228108,Directing,1.0,Director,Gren Wells
+228109,Directing,1.0,Director,Clara Mamet
+228165,Directing,1.0,First Assistant Director,Lisa C. Satriano
+228165,Directing,1.0,Script Supervisor,Melinda Taksen
+228202,Directing,1.0,Director,Julia Rezende
+228203,Directing,1.0,Director,Niki Caro
+228970,Directing,1.0,Script Supervisor,Suzanne Bingham
+228970,Directing,1.0,Script Supervisor,Pam Fuller
+229702,Directing,1.0,Director,Marita Grabiak
+230266,Directing,1.0,Director,Liv Ullmann
+230471,Directing,1.0,Director,Michele Lupo
+230680,Directing,1.0,Director,Franziska Meletzky
+230864,Directing,1.0,Director,Dori Berinstein
+230867,Directing,1.0,Director,Andrea Luka Zimmerman
+231218,Directing,1.0,Director,Andrea Arnold
+231401,Directing,1.0,Director,Beth McCarthy-Miller
+233639,Directing,1.0,Director,Katja von Garnier
+233841,Directing,1.0,Director,Joanna Arnow
+236873,Directing,1.0,Director,Sólveig Anspach
+237799,Directing,1.0,Director,Josiane Balasko
+237983,Directing,1.0,Script Supervisor,Rebecca Poulos
+238398,Directing,1.0,Director,Kristin Hanggi
+238589,Directing,1.0,Script Supervisor,Milena Mihaylova
+238952,Directing,1.0,Director,Agnès Varda
+239123,Directing,1.0,Director,Andrea Kreuzhage
+239566,Directing,1.0,Script Supervisor,Cate Hardman
+240723,Directing,1.0,Director,Vanessa Parise
+241071,Directing,1.0,Director,Maggie Kiley
+241239,Directing,1.0,Script Supervisor,Jessica Lichtner
+241258,Directing,1.0,Script Supervisor,Renetta G. Amador
+241259,Directing,1.0,Script Supervisor,Anna Worley
+241553,Directing,1.0,Director,Jane Wells
+241771,Directing,1.0,Director,Gina Prince-Bythewood
+241771,Directing,1.0,Script Supervisor,Renetta G. Amador
+241843,Directing,1.0,Script Supervisor,Diane Durant
+242093,Directing,1.0,Director,Jane Lipsitz
+242203,Directing,1.0,Director,Jane Cusumano
+242458,Directing,1.0,Director,Pang Eun-jin
+242512,Directing,1.0,Script Supervisor,Renetta G. Amador
+243599,Directing,1.0,Director,Christie Will
+243688,Directing,1.0,Assistant Director,Barbara Szeman
+243940,Directing,1.0,Script Supervisor,Renetta G. Amador
+244264,Directing,1.0,Director,Lynn Shelton
+244267,Directing,1.0,Script Supervisor,Erika Sanz Corbacho
+244268,Directing,1.0,Script Supervisor,Veronica Lupu
+244447,Directing,1.0,Director,Christy Cabanne
+244458,Directing,1.0,Director,Marjane Satrapi
+244539,Directing,1.0,Director,Maya Forbes
+244776,Directing,1.0,Director,Mona Lerche
+246252,Directing,1.0,Director,Lauren Wolkstein
+246655,Directing,1.0,Script Supervisor,Christine Wilson
+248688,Directing,1.0,Script Supervisor,Suzanne C. Swindle
+248774,Directing,1.0,Director,Gillian Robespierre
+248781,Directing,1.0,Director,Gigi Saul Guerrero
+249688,Directing,1.0,Script Supervisor,Amber Harley
+249916,Directing,1.0,Director,Desiree Akhavan
+250124,Directing,1.0,Director,Marielle Heller
+250124,Directing,1.0,Script Supervisor,Andrea Manners
+250761,Directing,1.0,Director,Rory Kennedy
+251321,Directing,1.0,Director,Claudia Llosa
+251425,Directing,1.0,Director,Nanette Burstein
+252171,Directing,1.0,Director,Ana Lily Amirpour
+252407,Directing,1.0,Director,Doris Dörrie
+252476,Directing,1.0,Director,Marina Razbezhkina
+252511,Directing,1.0,Director,Mami Sunada
+252529,Directing,1.0,Director,Isabel Coixet
+252981,Directing,1.0,Director,Mae Czarina Cruz
+253161,Directing,1.0,Director,Sophie Barthes
+253279,Directing,1.0,Director,Karen Moncrieff
+253406,Directing,1.0,Director,Shari Springer Berman
+253686,Directing,1.0,Director,Catherine Castel
+253944,Directing,1.0,Director,Sophie Fillières
+254191,Directing,1.0,Director,Leigh Janiak
+254200,Directing,1.0,Director,Susanne Bier
+254470,Directing,1.0,Director,Elizabeth Banks
+254474,Directing,1.0,Script Supervisor,Sarah Schultz
+254479,Directing,1.0,Director,Li Yu
+254611,Directing,1.0,Director,Sharon Lockhart
+255268,Directing,1.0,Script Supervisor,Renetta G. Amador
+255343,Directing,1.0,Director,Andrea Di Stefano
+255948,Directing,1.0,Director,Naomi Kawase
+256102,Directing,1.0,Director,Tan Pin Pin
+256913,Directing,1.0,Director,Lisa Azuelos
+257091,Directing,1.0,Script Supervisor,Cate Hardman
+257134,Directing,1.0,Script Supervisor,Lara Fox
+257211,Directing,1.0,Director,Nancy Meyers
+258099,Directing,1.0,Director,Courteney Cox
+258210,Directing,1.0,Script Supervisor,Sarah Schultz
+258305,Directing,1.0,Director,Hanelle M. Culpepper
+258476,Directing,1.0,Director,Samantha Grant
+258480,Directing,1.0,Script Supervisor,Belle Francisco
+258550,Directing,1.0,Script Supervisor,Diane Durant
+258750,Directing,1.0,Script Supervisor,Katie Scholz
+259018,Directing,1.0,Script Supervisor,Sarah Horton
+259316,Directing,1.0,Script Supervisor,Anna Worley
+259958,Directing,1.0,Script Supervisor,Suzanne C. Swindle
+259997,Directing,1.0,Script Supervisor,Kimberley Roper
+260310,Directing,1.0,Director,Inna Evlannikova
+260352,Directing,1.0,Director,Meredith Monk
+261037,Directing,1.0,Director,Karen Leigh Hopkins
+261038,Directing,1.0,Director,Kate Davis
+261825,Directing,1.0,Director,Talya Lavie
+262522,Directing,1.0,Script Supervisor,Sabrina Temblett
+262543,Directing,1.0,Script Supervisor,Stefania Velichkova
+263115,Directing,1.0,Script Supervisor,Sheila Waldron
+263855,Directing,1.0,Director,Claudia Myers
+263945,Directing,1.0,Director,Cathy Malkasian
+264482,Directing,1.0,Assistant Director,Valentina Kuznetsova
+264656,Directing,1.0,Script Supervisor,Pam Fuller
+264767,Directing,1.0,Director,Jessica Yu
+265193,Directing,1.0,Director,Naomi Kawase
+265497,Directing,1.0,Director,Irene Taylor Brodsky
+266036,Directing,1.0,Director,Asia Argento
+266040,Directing,1.0,Director,Pascale Ferran
+266044,Directing,1.0,Director,Jessica Hausner
+266082,Directing,1.0,Director,Céline Sciamma
+266442,Directing,1.0,Director,Zatella Beatty
+267793,Directing,1.0,Director,Karen Moncrieff
+267795,Directing,1.0,Director,Agnieszka Holland
+267860,Directing,1.0,Script Supervisor,Stefania Velichkova
+268660,Directing,1.0,Director,Anjali Menon
+268669,Directing,1.0,Director,Yuliya Solntseva
+268920,Directing,1.0,Director,Anne Fletcher
+270302,Directing,1.0,Director,Lone Scherfig
+270400,Directing,1.0,Director,Mélanie Laurent
+270403,Directing,1.0,Director,Ronit Elkabetz
+270696,Directing,1.0,Director,Shauna MacDonald
+270771,Directing,1.0,Script Supervisor,Erin Connarn
+271033,Directing,1.0,Script Supervisor,Lainie Miller
+271120,Directing,1.0,Director,Tan Pin Pin
+271185,Directing,1.0,Director,Allison Burnett
+272435,Directing,1.0,Director,Anne Fontaine
+273126,Directing,1.0,Director,Inessa Kovalevskaya
+273153,Directing,1.0,Director,Catherine Corsini
+273169,Directing,1.0,Director,Audrey Dana
+273481,Directing,1.0,Script Supervisor,Judi Townsend
+273895,Directing,1.0,Director,Ava DuVernay
+274007,Directing,1.0,Director,Anne Wheeler
+274110,Directing,1.0,Director,Chus Gutiérrez
+274415,Directing,1.0,Director,Neele Leana Vollmar
+274854,Directing,1.0,Script Supervisor,Megan Graham
+274870,Directing,1.0,Script Supervisor,Ana Maria Quintana
+274990,Directing,1.0,Director,Liv Ullmann
+275985,Directing,1.0,Script Supervisor,Sarah Schultz
+276833,Directing,1.0,Director,Regina Russell Banali
+276906,Directing,1.0,Director,Jess Weixler
+276906,Directing,1.0,Director,Jennifer Prediger
+277432,Directing,1.0,Director,Farah Khan
+277435,Directing,1.0,Director,Debra Granik
+278334,Directing,1.0,Director,Evelyn Purcell
+278738,Directing,1.0,Director,Bruce Bundy
+278778,Directing,1.0,Director,Kelly Sandefur
+278924,Directing,1.0,Script Supervisor,Shelly Stoyanova
+279229,Directing,1.0,Director,Katharina Schöde
+279558,Directing,1.0,Director,Maria von Heland
+279641,Directing,1.0,Script Supervisor,Monika Petrillo
+279690,Directing,1.0,Script Supervisor,Louise Hall
+280002,Directing,1.0,Script Supervisor,Amber Harley
+280092,Directing,1.0,Script Supervisor,Erin Connarn
+280723,Directing,1.0,Director,Saskia Diesing
+281230,Directing,1.0,Director,Kate Connor
+281238,Directing,1.0,Director,Michele Lupo
+281908,Directing,1.0,Director,Alison Murray
+281957,Directing,1.0,Script Supervisor,Ana Maria Quintana
+282813,Directing,1.0,Script Supervisor,Erin Connarn
+282879,Directing,1.0,Director,Kim Gordon
+283146,Directing,1.0,Director,Nina Paley
+284286,Directing,1.0,Director,Isabel Coixet
+284289,Directing,1.0,Script Supervisor,Mamie Mitchell
+284303,Directing,1.0,Director,Veronika Franz
+284514,Directing,1.0,Script Supervisor,Glòria Blanes
+284564,Directing,1.0,Script Supervisor,Renetta G. Amador
+285423,Directing,1.0,Script Supervisor,Stefania Velichkova
+285843,Directing,1.0,Director,Ruba Nadda
+286668,Directing,1.0,Script Supervisor,Cleopatra Medvetchi
+286873,Directing,1.0,Script Supervisor,Stefania Velichkova
+286971,Directing,1.0,Director,Hilary Brougher
+287647,Directing,1.0,Director,Boo Ji-yeong
+288129,Directing,1.0,Director,Fina Torres
+288130,Directing,1.0,Director,Liz Garbus
+288173,Directing,1.0,Director,Catherine Cyran
+288778,Directing,1.0,Director,Kimberly Levin
+289153,Directing,1.0,Director,Tonie Marshall
+289222,Directing,1.0,Director,Niki Caro
+289314,Directing,1.0,Director,Lisa Cholodenko
+289333,Directing,1.0,Director,Shannon Hartman
+289673,Directing,1.0,Director,Beeban Kidron
+289712,Directing,1.0,Script Supervisor,Renetta G. Amador
+289891,Directing,1.0,Director,Ami Canaan Mann
+290250,Directing,1.0,Script Supervisor,Julia Tasker
+290250,Directing,1.0,Script Supervisor,Luca Kouimelis
+290504,Directing,1.0,Director,Lisa Leeman
+290729,Directing,1.0,Script Supervisor,Shelly Stoyanova
+290762,Directing,1.0,Director,Catherine Hardwicke
+290825,Directing,1.0,Script Supervisor,Andrea Manners
+291328,Directing,1.0,Script Supervisor,Dianne Dreyer
+291805,Directing,1.0,Script Supervisor,Anna Worley
+291851,Directing,1.0,Script Supervisor,Lisa Whittington
+291870,Directing,1.0,Script Supervisor,Diane Durant
+292547,Directing,1.0,Director,Shari Springer Berman
+293167,Directing,1.0,Script Supervisor,Dawn Gilliam
+293310,Directing,1.0,Director,Laura Poitras
+294544,Directing,1.0,Director,Dana Brown
+294741,Directing,1.0,Director,Carol Morley
+295049,Directing,1.0,Director,Debbie Isitt
+295698,Directing,1.0,Director,Lina Esco
+296096,Directing,1.0,Director,Thea Sharrock
+296098,Directing,1.0,Script Supervisor,Jessica Lichtner
+296099,Directing,1.0,Script Supervisor,Lori Grabowski
+297160,Directing,1.0,Director,Jovanka Vuckovic
+297160,Directing,1.0,Director,St. Vincent
+297160,Directing,1.0,Director,Roxanne Benjamin
+297160,Directing,1.0,Director,Karyn Kusama
+297186,Directing,1.0,Director,Mari Asato
+297291,Directing,1.0,Script Supervisor,Cornelia Stefan
+297291,Directing,1.0,Script Supervisor,Alina Apostu
+297393,Directing,1.0,Director,Louise Osmond
+297596,Directing,1.0,Script Supervisor,Cornelia Stefan
+297761,Directing,1.0,Script Supervisor,Samantha Armstrong
+297762,Directing,1.0,Script Supervisor,Patty Jenkins
+297762,Directing,1.0,Director,Patty Jenkins
+297806,Directing,1.0,Script Supervisor,Monika Petrillo
+297853,Directing,1.0,Script Supervisor,Karen Eachus
+298382,Directing,1.0,Director,Jocelyn Moorhouse
+298662,Directing,1.0,Director,Charlotte Zwerin
+298830,Directing,1.0,Director,Rachel Talalay
+299578,Directing,1.0,Director,Christie Will
+300179,Directing,1.0,Director,Lucy Walker
+300601,Directing,1.0,Director,María Ripoll
+300667,Directing,1.0,Director,Gaby Dellal
+300673,Directing,1.0,Script Supervisor,Diane Durant
+301325,Directing,1.0,Director,Tara Subkoff
+301629,Directing,1.0,Director,Jamie Babbit
+301748,Directing,1.0,Director,Jennifer Finnigan
+302946,Directing,1.0,Script Supervisor,Lori Grabowski
+303858,Directing,1.0,Director,Jodie Foster
+305642,Directing,1.0,Director,Meg Ryan
+305943,Directing,1.0,Script Supervisor,Belle Francisco
+306197,Directing,1.0,Director,Kris Swanberg
+306947,Directing,1.0,Director,Karyn Kusama
+306952,Directing,1.0,Director,Kristin Hanggi
+307081,Directing,1.0,Script Supervisor,Deirdre Horgan
+307479,Directing,1.0,Director,April Mullen
+308457,Directing,1.0,Director,Jennifer Phang
+309018,Directing,1.0,Director,Jill D'Agnenica
+309242,Directing,1.0,Director,Anna Boden
+309299,Directing,1.0,Script Supervisor,Sasha Vitelli
+310569,Directing,1.0,Director,Anna Muylaert
+311539,Directing,1.0,Script Supervisor,Donna Gardon
+312669,Directing,1.0,Director,Rebecca Miller
+314385,Directing,1.0,Director,Angelina Jolie
+315044,Directing,1.0,Director,Taru Mäkelä
+316015,Directing,1.0,Director,Penelope Buitenhuis
+316021,Directing,1.0,Script Supervisor,Erika Sanz Corbacho
+316154,Directing,1.0,Director,Ana Lily Amirpour
+317557,Directing,1.0,Director,Mira Nair
+317560,Directing,1.0,Director,Susan Johnson
+317744,Directing,1.0,Director,Elizabeth Allen Rosenbaum
+317954,Directing,1.0,Director,Laura Gabbert
+318044,Directing,1.0,Director,Liz Garbus
+318256,Directing,1.0,Director,Jill Bauer
+318256,Directing,1.0,Director,Ronna Gradus
+318277,Directing,1.0,Director,Jean Carlomusto
+318846,Directing,1.0,Script Supervisor,Cate Hardman
+319096,Directing,1.0,Director,Angela Bassett
+319373,Directing,1.0,Director,Naomi Kawase
+320004,Directing,1.0,Director,Isabel Coixet
+320011,Directing,1.0,Director,Kari Skogland
+320028,Directing,1.0,Director,Francesca Archibugi
+320586,Directing,1.0,Director,Ondi Timoner
+321068,Directing,1.0,Director,Anne K. Black
+321068,Directing,1.0,Assistant Director,Clare Niederpruem
+321494,Directing,1.0,Script Supervisor,Shelly Stoyanova
+321621,Directing,1.0,Script Supervisor,Stefania Velichkova
+321621,Directing,1.0,Script Supervisor,Shelly Stoyanova
+321697,Directing,1.0,Script Supervisor,Rebecca Robertson
+321741,Directing,1.0,Script Supervisor,Megan Graham
+322378,Directing,1.0,Director,Karin af Klintberg
+324572,Directing,1.0,Director,Ineke Houtman
+324786,Directing,1.0,Script Supervisor,Sophie Fabbri-Jackson
+325113,Directing,1.0,Director,Amy S. Weber
+326359,Directing,1.0,Director,Jennifer Lee
+327040,Directing,1.0,Director,Eva Husson
+327225,Directing,1.0,Director,Mae Czarina Cruz
+327749,Directing,1.0,Director,Darnell Martin
+328448,Directing,1.0,Director,Maggie Kiley
+328848,Directing,1.0,Script Supervisor,Tahnee Curtis
+328869,Directing,1.0,Director,Reed Morano
+329216,Directing,1.0,Director,Annette Haywood-Carter
+329289,Directing,1.0,Script Supervisor,Renetta G. Amador
+329750,Directing,1.0,Director,Yael Melamede
+329805,Directing,1.0,Director,Maïwenn
+329815,Directing,1.0,Director,Alice Winocour
+329819,Directing,1.0,Director,Emmanuelle Bercot
+330115,Directing,1.0,Director,Helen Hunt
+330294,Directing,1.0,Director,Valérie Donzelli
+330430,Directing,1.0,Director,Inés de Oliveira Cézar
+330628,Directing,1.0,Script Supervisor,Kimberley Roper
+330947,Directing,1.0,Script Supervisor,Rebecca Fulton
+331313,Directing,1.0,Script Supervisor,Lori Grabowski
+331354,Directing,1.0,Director,Leticia Dolera
+331392,Directing,1.0,Script Supervisor,Amber Harley
+331583,Directing,1.0,Director,Courtney Hunt
+332177,Directing,1.0,Director,Jen Soska
+332177,Directing,1.0,Director,Sylvia Soska
+332411,Directing,1.0,Script Supervisor,Belle Francisco
+332491,Directing,1.0,Director,Paz Fábrega
+332706,Directing,1.0,Script Supervisor,Erin Connarn
+332742,Directing,1.0,Director,Sharmeen Obaid-Chinoy
+333091,Directing,1.0,Director,Natalia Leite
+333348,Directing,1.0,Director,Jessie Nelson
+333360,Directing,1.0,Director,Lisa Immordino Vreeland
+333367,Directing,1.0,Director,Fabienne Berthaud
+333386,Directing,1.0,Script Supervisor,Melinda Taksen
+333484,Directing,1.0,Script Supervisor,Lisa McNeil
+333484,Directing,1.0,Script Supervisor,Dawn Gilliam
+334312,Directing,1.0,Director,Elodie Namer
+334524,Directing,1.0,Script Supervisor,Jan Rudolph
+334531,Directing,1.0,Script Supervisor,Pam Fuller
+334538,Directing,1.0,Second Assistant Director,Sarah Campbell
+334538,Directing,1.0,Director,Patricia Rozema
+334541,Directing,1.0,Script Supervisor,Andrea Ulrich
+335145,Directing,1.0,Director,Eleanor Bergstein
+336011,Directing,1.0,Script Supervisor,Sasha Vitelli
+336029,Directing,1.0,Director,Natalie Portman
+336206,Directing,1.0,Assistant Director,Čejen Černić
+336560,Directing,1.0,Script Supervisor,Stefania Velichkova
+336890,Directing,1.0,Script Supervisor,Carolyn Arbuckle
+337115,Directing,1.0,Assistant Director,Daniela Castro
+337154,Directing,1.0,Director,Lorene Scafaria
+337405,Directing,1.0,Director,Shannon Hartman
+337473,Directing,1.0,Director,Michèle Hozer
+338387,Directing,1.0,Script Supervisor,Erika Sanz Corbacho
+338485,Directing,1.0,Script Supervisor,Tahnee Curtis
+339079,Directing,1.0,Director,Anna Axster
+339397,Directing,1.0,Script Supervisor,Sharon Watt
+339405,Directing,1.0,Script Supervisor,Sasha Vitelli
+339967,Directing,1.0,Second Assistant Director,Alexis Jayde Burnett
+340101,Directing,1.0,Director,Lone Scherfig
+340485,Directing,1.0,Director,Andrea Arnold
+340487,Directing,1.0,Director,Kelly Reichardt
+341007,Directing,1.0,Director,Sharmeen Obaid-Chinoy
+341013,Directing,1.0,First Assistant Director,Lisa C. Satriano
+341174,Directing,1.0,Script Supervisor,Sandra Montgomery
+341392,Directing,1.0,Director,Julie Delpy
+342464,Directing,1.0,Director,Janet Grillo
+342896,Directing,1.0,Script Supervisor,Erin Connarn
+342927,Directing,1.0,Script Supervisor,Victoria Dadi
+344041,Directing,1.0,First Assistant Director,Elizabeth Scherberger
+344277,Directing,1.0,Director,Maggie Kiley
+345924,Directing,1.0,Director,Megan Griffiths
+346489,Directing,1.0,Script Supervisor,Tahnee Curtis
+346489,Directing,1.0,Director,Anne Wheeler
+346570,Directing,1.0,Director,Vanessa Parise
+346651,Directing,1.0,Script Supervisor,Simoné Gallon-Langton
+346672,Directing,1.0,Director,Anna Foerster
+347026,Directing,1.0,Director,Amma Asante
+347033,Directing,1.0,Director,Meera Menon
+347096,Directing,1.0,Director,Anne K. Black
+347754,Directing,1.0,Script Supervisor,Andrea Manners
+350931,Directing,1.0,Director,Christine Conradt
+351242,Directing,1.0,Director,Clea DuVall
+352179,Directing,1.0,Script Supervisor,Shelly Stoyanova
+352197,Directing,1.0,Director,Laurie Anderson
+352552,Directing,1.0,Director,Amy Rice
+352733,Directing,1.0,Director,Sheree Folkson
+353070,Directing,1.0,Script Supervisor,Jessica Lichtner
+354072,Directing,1.0,Director,Frankie Chen
+354110,Directing,1.0,Script Supervisor,Marion Milner
+354251,Directing,1.0,Director,Roxanne Benjamin
+354388,Directing,1.0,Director,Chantal Akerman
+356294,Directing,1.0,Director,Leanne Pooley
+356324,Directing,1.0,Director,Laura Israel
+356366,Directing,1.0,Director,Katherine Brooks
+356381,Directing,1.0,Director,Leyla Bouzid
+356752,Directing,1.0,Director,Deb Shoval
+357424,Directing,1.0,Director,Sarah Rotella
+357530,Directing,1.0,Director,Sofia Shinas
+357706,Directing,1.0,Director,Sudha Kongara Prasad
+358807,Directing,1.0,Director,Anna Rose Holmer
+358924,Directing,1.0,Director,Barbara Kopple
+359305,Directing,1.0,Director,Aisling Walsh
+359784,Directing,1.0,Director,Aisling Walsh
+359790,Directing,1.0,Script Supervisor,Joecy Shepherd
+360284,Directing,1.0,Director,Valerie Weiss
+360389,Directing,1.0,Director,Cynthia Mort
+361069,Directing,1.0,Director,Michal Vinik
+362216,Directing,1.0,Director,Lily Baldwin
+362216,Directing,1.0,Director,Lauren Wolkstein
+362876,Directing,1.0,Director,Marina Person
+363126,Directing,1.0,Director,Cate Shortland
+364051,Directing,1.0,Director,Anne Fontaine
+364067,Directing,1.0,Director,Sofia Coppola
+364781,Directing,1.0,Director,Giedrė Žickytė
+365942,Directing,1.0,Script Supervisor,Sharron Reynolds
+365997,Directing,1.0,Director,Toni Myers
+366018,Directing,1.0,Director,Mariah Carey
+366505,Directing,1.0,Director,Icíar Bollaín
+366901,Directing,1.0,Director,Shamim Sarif
+367493,Directing,1.0,Director,Sharon Wilharm
+369364,Directing,1.0,Director,Sharmeen Obaid-Chinoy
+369894,Directing,1.0,Director,Robin Swicord
+371447,Directing,1.0,First Assistant Director,Drew Langer
+371447,Directing,1.0,Second Assistant Director,Emily Neumann
+371447,Directing,1.0,Director,So Yong Kim
+371459,Directing,1.0,Director,Mirjana Karanović
+371464,Directing,1.0,Director,Nicolette Krebitz
+371492,Directing,1.0,Director,Mélanie Laurent
+371504,Directing,1.0,Director,Jessica Hobbs
+373473,Directing,1.0,Script Supervisor,Veronica Lupu
+373480,Directing,1.0,Director,Sara Jordenö
+373481,Directing,1.0,Director,Chris Hegedus
+373569,Directing,1.0,Script Supervisor,Brenda Lopez
+374052,Directing,1.0,Director,Anna Biller
+374464,Directing,1.0,Director,Rebecca Zlotowski
+374475,Directing,1.0,Director,Maren Ade
+375167,Directing,1.0,Director,Laura Morante
+375742,Directing,1.0,Director,Agnieszka Smoczynska
+376166,Directing,1.0,Director,Nicole Garcia
+376234,Directing,1.0,Director,Kim A. Snyder
+376257,Directing,1.0,Director,Dawn Porter
+376290,Directing,1.0,Script Supervisor,Susan Marucci
+376424,Directing,1.0,Director,Irene Taylor Brodsky
+376501,Directing,1.0,Script Supervisor,Mamie Mitchell
+376523,Directing,1.0,Director,Liz Garbus
+376534,Directing,1.0,Director,Kirsten Johnson
+376581,Directing,1.0,Director,Lisa Addario
+376660,Directing,1.0,Director,Kelly Fremon Craig
+376867,Directing,1.0,Script Supervisor,Laura Pinto
+376867,Directing,1.0,Script Supervisor,Melinda Taksen
+377290,Directing,1.0,Director,Pernilla August
+377852,Directing,1.0,Director,Doris Dörrie
+378018,Directing,1.0,Script Supervisor,Stacy Scalisi
+379019,Directing,1.0,Continuity,Melanie Fronicke
+381008,Directing,1.0,Director,Lisa Robinson
+381008,Directing,1.0,Director,Annie J. Howell
+381064,Directing,1.0,Director,Anne Hamilton
+381064,Directing,1.0,Script Supervisor,Sarah Schooley
+381073,Directing,1.0,Director,Logan Kibens
+381737,Directing,1.0,Director,Leslie Libman
+382455,Directing,1.0,Director,Anna Muylaert
+382474,Directing,1.0,Director,Liz Plonka
+382509,Directing,1.0,Director,Danièle Thompson
+382595,Directing,1.0,Director,Lisa Azuelos
+383807,Directing,1.0,Director,Katell Quillévéré
+383914,Directing,1.0,Director,Chantal Akerman
+385737,Directing,1.0,Director,Sophia Takal
+388235,Directing,1.0,Director,Alison Ellwood
+389044,Directing,1.0,Director,Sólveig Anspach
+389396,Directing,1.0,Director,Ashley Pearce
+389630,Directing,1.0,Director,Katie Holmes
+390051,Directing,1.0,Script Supervisor,Sarah Horton
+391375,Directing,1.0,Director,Michelle Danner
+391663,Directing,1.0,Director,Maria Schrader
+393519,Directing,1.0,Director,Julia Ducournau
+393561,Directing,1.0,Director,Laura Poitras
+393945,Directing,1.0,Director,Emmanuelle Bercot
+394269,Directing,1.0,Director,Beyoncé Knowles
+394385,Directing,1.0,Director,Juliane Lorenz
+394689,Directing,1.0,Director,Riki Lindhome
+395982,Directing,1.0,Director,Alice Lowe
+395992,Directing,1.0,Script Supervisor,Stacy Rowe
+397243,Directing,1.0,Script Supervisor,Sheila McNaught
+398289,Directing,1.0,Script Supervisor,Christine Wilson
+399019,Directing,1.0,Director,Sofia Coppola
+401104,Directing,1.0,Director,Marti Noxon
+401132,Directing,1.0,Director,Laura Beth Love
+401164,Directing,1.0,Director,Alexi Pappas
+401164,Directing,1.0,Second Assistant Director,Vicky Kerkhove
+401164,Directing,1.0,Script Supervisor,Sierra Swan
+401222,Directing,1.0,Script Supervisor,Amber Harley
+405621,Directing,1.0,Director,Christine Swanson
+407334,Directing,1.0,Script Supervisor,Raquel Cantu
+407448,Directing,1.0,Director,Kathryn Bigelow
+407655,Directing,1.0,Director,Michelle Johnston
+407806,Directing,1.0,Director,Ava DuVernay
+408151,Directing,1.0,Director,Ilyssa Goodman
+408435,Directing,1.0,Director,Amanda Kernell
+408624,Directing,1.0,Director,Konkona Sen Sharma
+409820,Directing,1.0,Director,Lucy Hetherington
+410314,Directing,1.0,Director,Christie Will
+411024,Directing,1.0,Director,Petra Epperlein
+411632,Directing,1.0,Script Supervisor,Cornelia Stefan
+412204,Directing,1.0,Director,Marie Noëlle
+412214,Directing,1.0,Director,Tiina Lymi
+412678,Directing,1.0,Script Supervisor,Cleopatra Medvetchi
+413736,Directing,1.0,Director,Jun Falkenstein
+413778,Directing,1.0,Director,Fiona Gordon
+413834,Directing,1.0,Director,Nanette Burstein
+416691,Directing,1.0,Director,Minhal Baig
+417263,Directing,1.0,Director,Leslie Libman
+418437,Directing,1.0,Director,Denise Di Novi
+418693,Directing,1.0,Director,Ricki Stern
+419037,Directing,1.0,Director,Shannon Hartman
+419459,Directing,1.0,Director,Gillian Robespierre
+421626,Directing,1.0,Director,Marita Grabiak
+422960,Directing,1.0,Director,Daphne Matziaraki
+424145,Directing,1.0,Director,Avdotya Smirnova
+424488,Directing,1.0,Director,Gabriela Cowperthwaite
+426230,Directing,1.0,Director,Zoe Lister-Jones
+429662,Directing,1.0,Director,Gurinder Chadha
+429779,Directing,1.0,Director,Shannon Hartman
+429876,Directing,1.0,Director,Wendy Jo Carlton
+430826,Directing,1.0,Director,Kitty Green
+432799,Directing,1.0,Director,Agnieszka Holland
+432959,Directing,1.0,Director,Jeannie Gaffigan
+433067,Directing,1.0,Director,Barbara Kopple
+436343,Directing,1.0,Director,Ildikó Enyedi
+441168,Directing,1.0,Director,Vanessa Parise
+442752,Directing,1.0,Assistant Director,Nadja Pyykkö
+444513,Directing,1.0,Director,Amy Schumer
+446048,Directing,1.0,Director,Shannon Hartman
+452142,Directing,1.0,Director,Sarah Harding
+452372,Directing,1.0,Director,Perri Peltz
+453354,Directing,1.0,Director,Léa Mysius
+455601,Directing,1.0,Director,Jessica Yu
+456193,Directing,1.0,Director,Liz Plonka

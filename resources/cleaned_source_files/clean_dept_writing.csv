@@ -1,0 +1,3565 @@
+movie_id,department,gender,job,name
+5,Writing,1.0,Writer,Allison Anders
+19,Writing,1.0,Novel,Thea von Harbou
+19,Writing,1.0,Screenplay,Thea von Harbou
+24,Writing,1.0,Characters,Uma Thurman
+63,Writing,1.0,Screenplay,Janet Peoples
+76,Writing,1.0,Screenplay,Kim Krizan
+80,Writing,1.0,Characters,Kim Krizan
+80,Writing,1.0,Story,Kim Krizan
+80,Writing,1.0,Screenplay,Julie Delpy
+87,Writing,1.0,Screenplay,Gloria Katz
+88,Writing,1.0,Writer,Eleanor Bergstein
+108,Writing,1.0,Author,Agnieszka Holland
+112,Writing,1.0,Author,Lone Scherfig
+120,Writing,1.0,Screenplay,Fran Walsh
+120,Writing,1.0,Screenplay,Philippa Boyens
+121,Writing,1.0,Screenplay,Philippa Boyens
+121,Writing,1.0,Screenplay,Fran Walsh
+122,Writing,1.0,Screenplay,Philippa Boyens
+122,Writing,1.0,Screenplay,Fran Walsh
+142,Writing,1.0,Screenplay,Diana Ossana
+148,Writing,1.0,Author,Isabel Coixet
+153,Writing,1.0,Screenplay,Sofia Coppola
+156,Writing,1.0,Screenplay,Lone Scherfig
+162,Writing,1.0,Screenplay,Caroline Thompson
+162,Writing,1.0,Story,Caroline Thompson
+166,Writing,1.0,Author,Danièle Thompson
+171,Writing,1.0,Author,Danièle Thompson
+218,Writing,1.0,Writer,Gale Anne Hurd
+223,Writing,1.0,Novel,Daphne Du Maurier
+223,Writing,1.0,Screenplay,Joan Harrison
+227,Writing,1.0,Novel,S.E. Hinton
+227,Writing,1.0,Screenplay,Kathleen Rowell
+232,Writing,1.0,Screenplay,S.E. Hinton
+232,Writing,1.0,Novel,S.E. Hinton
+254,Writing,1.0,Author,Fran Walsh
+254,Writing,1.0,Author,Philippa Boyens
+259,Writing,1.0,Author,Suzanne Schiffman
+259,Writing,1.0,Author,Marie-France Pisier
+271,Writing,1.0,Author,Astrid Lindgren
+274,Writing,1.0,Storyboard,Kalina Ivanov
+289,Writing,1.0,Theatre Play,Joan Alison
+296,Writing,1.0,Characters,Gale Anne Hurd
+301,Writing,1.0,Screenplay,Leigh Brackett
+312,Writing,1.0,Screenplay,Caroline Link
+313,Writing,1.0,Screenplay,Angela Pell
+314,Writing,1.0,Storyboard,Kasia Adamik
+314,Writing,1.0,Story,Theresa Rebeck
+317,Writing,1.0,Screenplay,Jasmila Zbanic
+317,Writing,1.0,Screenplay,Barbara Albert
+392,Writing,1.0,Novel,Joanne Harris
+392,Writing,1.0,Screenplay,Joanne Harris
+393,Writing,1.0,Characters,Uma Thurman
+404,Writing,1.0,Screenplay,Mary Sweeney
+411,Writing,1.0,Screenplay,Ann Peacock
+437,Writing,1.0,Screenplay,Lauren McLaughlin
+453,Writing,1.0,Screenplay,Sylvia Nasar
+453,Writing,1.0,Author,Sylvia Nasar
+455,Writing,1.0,Screenplay,Gurinder Chadha
+462,Writing,1.0,Writer,Susannah Grant
+465,Writing,1.0,Author,Catherine Breillat
+465,Writing,1.0,Screenplay,Catherine Breillat
+467,Writing,1.0,Screenplay,Caroline Ip
+499,Writing,1.0,Screenplay,Agnès Varda
+504,Writing,1.0,Screenplay,Patty Jenkins
+513,Writing,1.0,Author,Deepa Mehta
+537,Writing,1.0,Screenplay,Juliette Sales
+540,Writing,1.0,Screenplay,Angela Robinson
+552,Writing,1.0,Screenplay,Doriana Leondeff
+570,Writing,1.0,Screenplay,Catherine Breillat
+571,Writing,1.0,Author,Daphne Du Maurier
+577,Writing,1.0,Author,Joyce Maynard
+585,Writing,1.0,Original Story,Jill Culton
+595,Writing,1.0,Author,Harper Lee
+595,Writing,1.0,Screenplay,Harper Lee
+601,Writing,1.0,Screenplay,Melissa Mathison
+603,Writing,1.0,Writer,Lana Wachowski
+603,Writing,1.0,Writer,Lilly Wachowski
+604,Writing,1.0,Screenplay,Lana Wachowski
+604,Writing,1.0,Screenplay,Lilly Wachowski
+605,Writing,1.0,Screenplay,Lilly Wachowski
+605,Writing,1.0,Screenplay,Lana Wachowski
+628,Writing,1.0,Author,Anne Rice
+628,Writing,1.0,Screenplay,Anne Rice
+630,Writing,1.0,Screenplay,Florence Ryerson
+634,Writing,1.0,Screenplay,Helen Fielding
+634,Writing,1.0,Novel,Helen Fielding
+664,Writing,1.0,Screenplay,Anne-Marie Martin
+671,Writing,1.0,Novel,J.K. Rowling
+672,Writing,1.0,Novel,J.K. Rowling
+673,Writing,1.0,Novel,J.K. Rowling
+674,Writing,1.0,Novel,J.K. Rowling
+675,Writing,1.0,Novel,J.K. Rowling
+677,Writing,1.0,Screenplay,Leni Riefenstahl
+685,Writing,1.0,Screenplay,Leni Riefenstahl
+686,Writing,1.0,Story,Ann Druyan
+687,Writing,1.0,Screenplay,Helen Prejean
+694,Writing,1.0,Screenplay,Diane Johnson
+713,Writing,1.0,Screenplay,Jane Campion
+750,Writing,1.0,Novel,Agatha Christie
+751,Writing,1.0,Novel,Agatha Christie
+752,Writing,1.0,Screenplay,Lilly Wachowski
+752,Writing,1.0,Screenplay,Lana Wachowski
+757,Writing,1.0,Novel,Agatha Christie
+758,Writing,1.0,Novel,Agatha Christie
+759,Writing,1.0,Novel,Anita Loos
+760,Writing,1.0,Screenplay,Danièle Thompson
+763,Writing,1.0,Screenplay,Fran Walsh
+767,Writing,1.0,Novel,J.K. Rowling
+788,Writing,1.0,Screenplay,Randi Mayem Singer
+788,Writing,1.0,Screenplay,Leslie Dixon
+788,Writing,1.0,Novel,Anne Fine
+790,Writing,1.0,Screenplay,Debra Hill
+791,Writing,1.0,Screenplay,Debra Hill
+799,Writing,1.0,Screenplay,Caroline Link
+832,Writing,1.0,Screenplay,Thea von Harbou
+838,Writing,1.0,Screenplay,Gloria Katz
+863,Writing,1.0,Screenplay,Rita Hsiao
+864,Writing,1.0,Author,Lynn Siefert
+873,Writing,1.0,Novel,Alice Walker
+889,Writing,1.0,Screenplay,Deborah Kaplan
+909,Writing,1.0,Novel,Sally Benson
+910,Writing,1.0,Screenplay,Leigh Brackett
+913,Writing,1.0,Screenplay,Leslie Dixon
+940,Writing,1.0,Novel,Ethel Lina White
+948,Writing,1.0,Screenplay,Debra Hill
+978,Writing,1.0,Screenplay,Becky Johnston
+983,Writing,1.0,Screenplay,Gladys Hill
+984,Writing,1.0,Screenplay,Rita M. Fink
+984,Writing,1.0,Story,Rita M. Fink
+1024,Writing,1.0,Screenplay,Fran Walsh
+1049,Writing,1.0,Screenplay,Sarah Kernochan
+1088,Writing,1.0,Screenplay,Niki Caro
+1245,Writing,1.0,Screenplay,Ruth Prawer Jhabvala
+1257,Writing,1.0,Screenplay,Karen Leigh Hopkins
+1257,Writing,1.0,Screenplay,Jessie Nelson
+1265,Writing,1.0,Novel,Katherine Paterson
+1277,Writing,1.0,Screenplay,Ruth Toma
+1359,Writing,1.0,Screenplay,Mary Harron
+1359,Writing,1.0,Screenplay,Guinevere Turner
+1360,Writing,1.0,Screenplay,Anna Thomas
+1360,Writing,1.0,Screenplay,Diane Lake
+1377,Writing,1.0,Screenplay,Betsy Drake
+1382,Writing,1.0,Screenplay,Miranda July
+1405,Writing,1.0,Screenplay,June Mathis
+1407,Writing,1.0,Screenplay,Isabelle Sobelman
+1418,Writing,1.0,Screenplay,Icíar Bollaín
+1421,Writing,1.0,Screenplay,Suzanne Schiffman
+1439,Writing,1.0,Novel,Anna Leonowens
+1443,Writing,1.0,Screenplay,Sofia Coppola
+1493,Writing,1.0,Writer,Caryn Lucas
+1493,Writing,1.0,Writer,Katie Ford
+1534,Writing,1.0,Screenplay,Laeta Kalogridis
+1541,Writing,1.0,Screenplay,Callie Khouri
+1543,Writing,1.0,Screenplay,Ruth Toma
+1547,Writing,1.0,Screenplay,Janice Fischer
+1549,Writing,1.0,Writer,Ghalia Lacroix
+1581,Writing,1.0,Screenplay,Nancy Meyers
+1585,Writing,1.0,Screenplay,Frances Goodrich
+1588,Writing,1.0,Screenplay,Jessica Bendinger
+1591,Writing,1.0,Screenplay,Caroline Link
+1592,Writing,1.0,Screenplay,Ann Biderman
+1631,Writing,1.0,Screenplay,Catherine Breillat
+1631,Writing,1.0,Novel,Catherine Breillat
+1633,Writing,1.0,Screenplay,Carol Sobieski
+1633,Writing,1.0,Screenplay,Fannie Flagg
+1633,Writing,1.0,Novel,Fannie Flagg
+1643,Writing,1.0,Dialogue,Agnès Varda
+1660,Writing,1.0,Screenplay,Suzanne Schiffman
+1675,Writing,1.0,Writer,Suzanne Schiffman
+1710,Writing,1.0,Screenplay,Ann Biderman
+1712,Writing,1.0,Novel,Edna Ferber
+1716,Writing,1.0,Screenplay,Suzanne Schiffman
+1731,Writing,1.0,Writer,Sandra Nettelbeck
+1829,Writing,1.0,Screenplay,Suzanne Schiffman
+1836,Writing,1.0,Screenplay,Marina de Van
+1843,Writing,1.0,Screenplay,Ondi Timoner
+1845,Writing,1.0,Screenplay,Julie Delpy
+1847,Writing,1.0,Screenplay,Leigh Brackett
+1887,Writing,1.0,Screenplay,Sofia Coppola
+1891,Writing,1.0,Screenplay,Leigh Brackett
+1904,Writing,1.0,Screenplay,Robin Swicord
+1919,Writing,1.0,Screenplay,Sarah Polley
+1939,Writing,1.0,Screenplay,Elizabeth Reinhardt
+1966,Writing,1.0,Screenplay,Laeta Kalogridis
+1968,Writing,1.0,Screenplay,Katherine Reback
+1978,Writing,1.0,Writer,Alma Reville
+2002,Writing,1.0,Screenplay,Catherine Breillat
+2003,Writing,1.0,Screenplay,Catherine Breillat
+2003,Writing,1.0,Novel,Catherine Breillat
+2004,Writing,1.0,Screenplay,Ruth Toma
+2010,Writing,1.0,Screenplay,Naomi Kawase
+2011,Writing,1.0,Screenplay,Marjane Satrapi
+2018,Writing,1.0,Screenplay,Pamela Falk
+2075,Writing,1.0,Screenplay,Janet Roach
+2082,Writing,1.0,Screenplay,Debra Hill
+2087,Writing,1.0,Screenplay,Amy Holden Jones
+2098,Writing,1.0,Screenplay,Sally Benson
+2165,Writing,1.0,Screenplay,Kari Skogland
+2180,Writing,1.0,Musical,Ingela 'Pling' Forsman
+2197,Writing,1.0,Screenplay,Marion Hänsel
+2210,Writing,1.0,Writer,Julie Brown
+2211,Writing,1.0,Screenplay,Rona Munro
+2259,Writing,1.0,Novel,Isabel Allende
+2270,Writing,1.0,Screenplay,Jane Goldman
+2280,Writing,1.0,Screenplay,Anne Spielberg
+2282,Writing,1.0,Screenplay,Arlette Langmann
+2290,Writing,1.0,Screenplay,Marsha Garces Williams
+2309,Writing,1.0,Novel,Cornelia Funke
+2331,Writing,1.0,Screenplay,Suzette Couture
+2349,Writing,1.0,Screenplay,Ruth Toma
+2455,Writing,1.0,Screenplay,Suzanne Schiffman
+2516,Writing,1.0,Screenplay,Haya Harareet
+2576,Writing,1.0,Screenplay,Frances Goodrich
+2587,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+2608,Writing,1.0,Writer,Amy Holden Jones
+2621,Writing,1.0,Screenplay,Bonnie Hunt
+2655,Writing,1.0,Story,Sarah Kernochan
+2699,Writing,1.0,Screenplay,Joyce Eliason
+2731,Writing,1.0,Screenplay,Catherine Cohen
+2760,Writing,1.0,Novel,Marie Belloc Lowndes
+2762,Writing,1.0,Novel,Josephine Tey
+2771,Writing,1.0,Writer,Shari Springer Berman
+2771,Writing,1.0,Writer,Joyce Brabner
+2788,Writing,1.0,Screenplay,Helen Childress
+2813,Writing,1.0,Scenario Writer,Odile Barski
+2817,Writing,1.0,Screenplay,Agnès Jaoui
+2891,Writing,1.0,Screenplay,Laura Jones
+2907,Writing,1.0,Screenplay,Caroline Thompson
+2925,Writing,1.0,Novel,Olivia Goldsmith
+2928,Writing,1.0,Screenplay,Delia Ephron
+2929,Writing,1.0,Novel,Mary Shelley
+2959,Writing,1.0,Screenplay,Kim Barker
+2976,Writing,1.0,Screenplay,Leslie Dixon
+2981,Writing,1.0,Screenplay,Marion Fairfax
+2998,Writing,1.0,Screenplay,Clare Peploe
+3004,Writing,1.0,Author,Lucia Drudi Demby
+3007,Writing,1.0,Author,Thea von Harbou
+3034,Writing,1.0,Novel,Mary Shelley
+3035,Writing,1.0,Novel,Mary Shelley
+3035,Writing,1.0,Screenplay,Peggy Webling
+3036,Writing,1.0,Novel,Mary Shelley
+3040,Writing,1.0,Screenplay,Laeta Kalogridis
+3055,Writing,1.0,Screenplay,Helen Deutsch
+3056,Writing,1.0,Novel,Mary Shelley
+3057,Writing,1.0,Novel,Mary Shelley
+3059,Writing,1.0,Writer,Anita Loos
+3065,Writing,1.0,Writer,Bridget Jones Nelson
+3073,Writing,1.0,Characters,Mary Shelley
+3077,Writing,1.0,Novel,Mary Shelley
+3079,Writing,1.0,Novel,Mary Shelley
+3111,Writing,1.0,Screenplay,Dorothy Parker
+3118,Writing,1.0,Novel,Mary Shelley
+3121,Writing,1.0,Screenplay,Joan Tewkesbury
+3122,Writing,1.0,Characters,Mary Shelley
+3134,Writing,1.0,Screenplay,Coralie
+3145,Writing,1.0,Characters,Mary Shelley
+3164,Writing,1.0,Characters,Mary Shelley
+3478,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+3482,Writing,1.0,Novel,Rose Valland
+3484,Writing,1.0,Screenplay,Irene Kuhn
+3520,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+3529,Writing,1.0,Screenplay,Frances Goodrich
+3542,Writing,1.0,Novel,Pascale Ferran
+3547,Writing,1.0,Screenplay,Gladys Hill
+3549,Writing,1.0,Story,Susanne Bier
+3558,Writing,1.0,Screenplay,Lisa Loomer
+3558,Writing,1.0,Screenplay,Anna Hamilton Phelan
+3573,Writing,1.0,Novel,Jane Austen
+3597,Writing,1.0,Novel,Lois Duncan
+3600,Writing,1.0,Characters,Lois Duncan
+3602,Writing,1.0,Novel,Lois Duncan
+3638,Writing,1.0,Original Story,Sandra Nettelbeck
+3638,Writing,1.0,Screenplay,Carol Fuchs
+3640,Writing,1.0,Screenplay,Sandra Nettelbeck
+3767,Writing,1.0,Screenplay,Marion Parsonnet
+3875,Writing,1.0,Screenplay,Susanne Bier
+3933,Writing,1.0,Screenplay,Caroline Thompson
+3933,Writing,1.0,Screenplay,Pamela Pettler
+3981,Writing,1.0,Story,Cathy Yuspa
+3981,Writing,1.0,Screenplay,Cathy Yuspa
+3989,Writing,1.0,Screenplay,Pam Brady
+4111,Writing,1.0,Dialogue,Anita Loos
+4111,Writing,1.0,Screenplay,Frances Marion
+4111,Writing,1.0,Story,Frances Marion
+4176,Writing,1.0,Novel,Agatha Christie
+4180,Writing,1.0,Screenplay,Coline Serreau
+4192,Writing,1.0,Novel,Agatha Christie
+4193,Writing,1.0,Novel,Agatha Christie
+4202,Writing,1.0,Screenplay,Agnieszka Holland
+4244,Writing,1.0,Writer,Audrey Wells
+4248,Writing,1.0,Screenplay,Alyson Fouse
+4266,Writing,1.0,Novel,Charlotte Armstrong
+4271,Writing,1.0,Screenplay,Florence Quentin
+4286,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+4307,Writing,1.0,Novel,Dorothy Parker
+4348,Writing,1.0,Screenplay,Deborah Moggach
+4348,Writing,1.0,Novel,Jane Austen
+4379,Writing,1.0,Screenplay,Anya Kochoff
+4380,Writing,1.0,Screenplay,Audrey Wells
+4413,Writing,1.0,Screenplay,Cynthia Mort
+4421,Writing,1.0,Screenplay,Danielle Alexandra
+4464,Writing,1.0,Novel,Laura Hillenbrand
+4475,Writing,1.0,Screenplay,Rebecca Miller
+4475,Writing,1.0,Novel,Rebecca Miller
+4476,Writing,1.0,Screenplay,Susan Shilliday
+4478,Writing,1.0,Screenplay,Amy Holden Jones
+4482,Writing,1.0,Screenplay,Josiane Balasko
+4507,Writing,1.0,Screenplay,Cuca Canals
+4550,Writing,1.0,Writer,Jeong Seo-gyeong
+4561,Writing,1.0,Novel,Dominique Aury
+4584,Writing,1.0,Novel,Jane Austen
+4584,Writing,1.0,Screenplay,Emma Thompson
+4588,Writing,1.0,Novel,Eileen Chang
+4592,Writing,1.0,Writer,Katherine Fugate
+4599,Writing,1.0,Story,Beth Rigazio
+4641,Writing,1.0,Novel,Julia DeVillers
+4641,Writing,1.0,Teleplay,Beth Rigazio
+4658,Writing,1.0,Screenplay,Linda Woolverton
+4706,Writing,1.0,Novel,Ethel Lina White
+4747,Writing,1.0,Author,Marguerite Duras
+4762,Writing,1.0,Screenplay,Margarethe von Trotta
+4806,Writing,1.0,Screenplay,Sara Parriott
+4806,Writing,1.0,Novel,Josann McGibbon
+4809,Writing,1.0,Screenplay,Eleanore Griffin
+4832,Writing,1.0,Screenplay,Nadia Conners
+4839,Writing,1.0,Screenplay,Maria Schrader
+4879,Writing,1.0,Novel,Agatha Christie
+4883,Writing,1.0,Novel,Agatha Christie
+4885,Writing,1.0,Novel,Agatha Christie
+4886,Writing,1.0,Novel,Agatha Christie
+4933,Writing,1.0,Adaptation,Jeanie Macpherson
+4951,Writing,1.0,Writer,Kirsten Smith
+4951,Writing,1.0,Writer,Karen McCullah Lutz
+4973,Writing,1.0,Screenplay,Marina de Van
+4993,Writing,1.0,Screenplay,Marguerite Roberts
+4998,Writing,1.0,Screenplay,Veronika Franz
+5156,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+5257,Writing,1.0,Screenplay,Jane Kennedy
+5261,Writing,1.0,Author,Anne Wild
+5302,Writing,1.0,Writer,Sandra Bernhard
+5488,Writing,1.0,Writer,Jeong Seo-gyeong
+5544,Writing,1.0,Screenplay,Marguerite Duras
+5618,Writing,1.0,Author,Danièle Thompson
+5653,Writing,1.0,Screenplay,Camille Thomasson
+5680,Writing,1.0,Author,Cassandra Peterson
+5686,Writing,1.0,Screenplay,Joan Tewkesbury
+5761,Writing,1.0,Screenplay,Greta Gerwig
+5951,Writing,1.0,Screenplay,Robin Swicord
+5955,Writing,1.0,Screenplay,Mary Olson-Kromolowski
+5998,Writing,1.0,Screenplay,Thea von Harbou
+6028,Writing,1.0,Novel,Agatha Christie
+6029,Writing,1.0,Novel,Agatha Christie
+6103,Writing,1.0,Novel,Agatha Christie
+6105,Writing,1.0,Novel,Agatha Christie
+6107,Writing,1.0,Novel,Agatha Christie
+6110,Writing,1.0,Novel,Agatha Christie
+6116,Writing,1.0,Idea,Kim Fuller
+6187,Writing,1.0,Screenplay,Anne Fontaine
+6279,Writing,1.0,Screenplay,Judi Ann Mason
+6282,Writing,1.0,Writer,Gina Wendkos
+6317,Writing,1.0,Screenplay,Margarethe von Trotta
+6320,Writing,1.0,Screenplay,Catherine Breillat
+6320,Writing,1.0,Screenplay,Sylvie Pialat
+6360,Writing,1.0,Screenplay,Valeria Bruni Tedeschi
+6360,Writing,1.0,Screenplay,Noémie Lvovsky
+6435,Writing,1.0,Screenplay,Robin Swicord
+6435,Writing,1.0,Novel,Alice Hoffman
+6443,Writing,1.0,Author,Maren Ade
+6444,Writing,1.0,Author,Florence Quentin
+6461,Writing,1.0,Screenplay,Doris Dörrie
+6615,Writing,1.0,Writer,Nancy Oliver
+6644,Writing,1.0,Screenplay,Leigh Brackett
+6878,Writing,1.0,Screenplay,Linda Woolverton
+6878,Writing,1.0,Novel,Sheila Burnford
+6878,Writing,1.0,Screenplay,Caroline Thompson
+6961,Writing,1.0,Writer,Dana Fox
+6964,Writing,1.0,Screenplay,Nancy Meyers
+6967,Writing,1.0,Screenplay,Hermine Huntgeburth
+7219,Writing,1.0,Writer,Elisa Briganti
+7326,Writing,1.0,Screenplay,Diablo Cody
+7443,Writing,1.0,Storyboard,Brenda Chapman
+7443,Writing,1.0,Storyboard,Vicky Jenson
+7445,Writing,1.0,Writer,Susanne Bier
+7459,Writing,1.0,Writer,Lana Wachowski
+7459,Writing,1.0,Writer,Lilly Wachowski
+7483,Writing,1.0,Author,Marie-Jose Sanselme
+7504,Writing,1.0,Screenplay,Deepa Mehta
+7509,Writing,1.0,Screenplay,Deepa Mehta
+7547,Writing,1.0,Author,Joey Lauren Adams
+7859,Writing,1.0,Author,Anna Boden
+7973,Writing,1.0,Screenplay,Nadine Labaki
+7980,Writing,1.0,Screenplay,Fran Walsh
+7980,Writing,1.0,Screenplay,Philippa Boyens
+7983,Writing,1.0,Screenplay,Leni Riefenstahl
+7985,Writing,1.0,Screenplay,Leslie Caveny
+8008,Writing,1.0,Author,Alison Murray
+8049,Writing,1.0,Screenplay,Florence Vignon
+8079,Writing,1.0,Screenplay,Farah Khan
+8090,Writing,1.0,Screenplay,Allison Burnett
+8204,Writing,1.0,Novel,Holly Black
+8216,Writing,1.0,Screenplay,Fran Walsh
+8290,Writing,1.0,Screenplay,Danièle Thompson
+8293,Writing,1.0,Screenplay,Ruth Prawer Jhabvala
+8316,Writing,1.0,Writer,Julie Delpy
+8328,Writing,1.0,Screenplay,Karen Barna
+8346,Writing,1.0,Screenplay,Nia Vardalos
+8356,Writing,1.0,Story,Mildred Cram
+8359,Writing,1.0,Screenplay,Ann Peacock
+8391,Writing,1.0,Screenplay,Patricia Rozema
+8418,Writing,1.0,Screenplay,Thea von Harbou
+8422,Writing,1.0,Story,Suso Cecchi d'Amico
+8445,Writing,1.0,Novel,Astrid Lindgren
+8445,Writing,1.0,Writer,Astrid Lindgren
+8445,Writing,1.0,Screenplay,Astrid Lindgren
+8453,Writing,1.0,Screenplay,Shibani Bathija
+8556,Writing,1.0,Screenplay,Doris Dörrie
+8587,Writing,1.0,Screenplay,Linda Woolverton
+8587,Writing,1.0,Screenplay,Irene Mecchi
+8677,Writing,1.0,Teleplay,Carol Sobieski
+8703,Writing,1.0,Story,Božena Němcová
+8835,Writing,1.0,Novel,Amanda Brown
+8835,Writing,1.0,Screenplay,Kirsten Smith
+8835,Writing,1.0,Screenplay,Karen McCullah Lutz
+8839,Writing,1.0,Author,Deanna Oliver
+8839,Writing,1.0,Author,Sherri Stoner
+8842,Writing,1.0,Screenplay,Cheryl Edwards
+8849,Writing,1.0,Screenplay,Elaine Pope
+8866,Writing,1.0,Screenplay,Audrey Wells
+8872,Writing,1.0,Author,Bonnie Turner
+8873,Writing,1.0,Screenplay,Bonnie Turner
+8888,Writing,1.0,Screenplay,Caroline Link
+8897,Writing,1.0,Writer,Arlette Langmann
+8914,Writing,1.0,Screenplay,Donna Powers
+8915,Writing,1.0,Writer,Anna Hamilton Phelan
+8942,Writing,1.0,Screenplay,Kelly Reichardt
+8966,Writing,1.0,Screenplay,Melissa Rosenberg
+8981,Writing,1.0,Screenplay,Andrea Gibb
+8996,Writing,1.0,Screenplay,Agnieszka Holland
+8998,Writing,1.0,Writer,Nicole Holofcener
+9007,Writing,1.0,Screenplay,Leslie Dixon
+9025,Writing,1.0,Screenplay,Veronika Franz
+9029,Writing,1.0,Screenplay,Dana Fox
+9038,Writing,1.0,Screenplay,Leslie Dixon
+9073,Writing,1.0,Screenplay,Karen Janszen
+9074,Writing,1.0,Screenplay,Margaret Oberman
+9091,Writing,1.0,Screenplay,Karen Elise Baldwin
+9092,Writing,1.0,Screenplay,Deborah Serra
+9264,Writing,1.0,Screenplay,Katt Shea
+9297,Writing,1.0,Screenplay,Pamela Pettler
+9300,Writing,1.0,Screenplay,Sally Potter
+9303,Writing,1.0,Screenplay,Lana Wachowski
+9303,Writing,1.0,Screenplay,Lilly Wachowski
+9304,Writing,1.0,Screenplay,Mary Hale
+9311,Writing,1.0,Screenplay,Ann Biderman
+9326,Writing,1.0,Screenplay,Diane Thomas
+9337,Writing,1.0,Screenplay,Colette Burson
+9356,Writing,1.0,Screenplay,Amy Heckerling
+9408,Writing,1.0,Writer,Lisa Addario
+9409,Writing,1.0,Screenplay,Lynn Kouf
+9413,Writing,1.0,Screenplay,Arleen Sorkin
+9440,Writing,1.0,Screenplay,Elaine May
+9447,Writing,1.0,Screenplay,Judy Morris
+9454,Writing,1.0,Screenplay,Susannah Grant
+9473,Writing,1.0,Writer,Pam Brady
+9479,Writing,1.0,Screenplay,Caroline Thompson
+9489,Writing,1.0,Screenplay,Delia Ephron
+9491,Writing,1.0,Writer,Kathryn Bigelow
+9494,Writing,1.0,Author,Amy Heckerling
+9499,Writing,1.0,Writer,Diane Johnson
+9499,Writing,1.0,Writer,Ruth Prawer Jhabvala
+9555,Writing,1.0,Screenplay,Christine Olsen
+9576,Writing,1.0,Screenplay,Elaine May
+9583,Writing,1.0,Screenplay,Callie Khouri
+9583,Writing,1.0,Novel,Rebecca Wells
+9587,Writing,1.0,Screenplay,Robin Swicord
+9587,Writing,1.0,Novel,Louisa May Alcott
+9603,Writing,1.0,Screenplay,Amy Heckerling
+9611,Writing,1.0,Theatre Play,Robin Schiff
+9611,Writing,1.0,Screenplay,Robin Schiff
+9612,Writing,1.0,Screenplay,Bonnie Turner
+9654,Writing,1.0,Screenplay,Donna Powers
+9655,Writing,1.0,Author,Karen McCullah Lutz
+9681,Writing,1.0,Author,Kimberly Simi
+9686,Writing,1.0,Writer,Sofia Coppola
+9691,Writing,1.0,Author,Lilly Wachowski
+9691,Writing,1.0,Screenplay,Lilly Wachowski
+9691,Writing,1.0,Screenplay,Lana Wachowski
+9691,Writing,1.0,Author,Lana Wachowski
+9692,Writing,1.0,Screenplay,Nicole Kassell
+9701,Writing,1.0,Author,Clara Bingham
+9709,Writing,1.0,Novel,Helen Cross
+9722,Writing,1.0,Author,Delia Ephron
+9724,Writing,1.0,Author,Gurinder Chadha
+9728,Writing,1.0,Author,Carol Watson
+9746,Writing,1.0,Screenplay,Melissa Mathison
+9762,Writing,1.0,Screenplay,Melissa Rosenberg
+9777,Writing,1.0,Screenplay,Rebecca Miller
+9779,Writing,1.0,Author,Elizabeth Chandler
+9779,Writing,1.0,Author,Delia Ephron
+9785,Writing,1.0,Screenplay,Christine Roum
+9801,Writing,1.0,Screenplay,Helen Fielding
+9801,Writing,1.0,Novel,Helen Fielding
+9816,Writing,1.0,Author,Cheryl Edwards
+9820,Writing,1.0,Screenplay,Nancy Meyers
+9836,Writing,1.0,Writer,Judy Morris
+9849,Writing,1.0,Screenplay,Sherri Stoner
+9849,Writing,1.0,Screenplay,Deanna Oliver
+9871,Writing,1.0,Screenplay,Karen Walton
+9880,Writing,1.0,Screenplay,Gina Wendkos
+9919,Writing,1.0,Screenplay,Kristen Buckley
+9955,Writing,1.0,Author,Busy Philipps
+9973,Writing,1.0,Author,Anna McRoberts
+9986,Writing,1.0,Author,Susannah Grant
+10013,Writing,1.0,Screenplay,Arlene Sarner
+10020,Writing,1.0,Screenplay,Linda Woolverton
+10020,Writing,1.0,Story,Brenda Chapman
+10025,Writing,1.0,Author,Amy B. Harris
+10034,Writing,1.0,Author,Kim Fuller
+10040,Writing,1.0,Screenplay,Caryn Lucas
+10040,Writing,1.0,Screenplay,Katie Ford
+10051,Writing,1.0,Author,Danièle Thompson
+10061,Writing,1.0,Screenplay,Debra Hill
+10067,Writing,1.0,Author,Lillie Hayward
+10068,Writing,1.0,Screenplay,Sarah Kernochan
+10074,Writing,1.0,Author,Pam Brady
+10090,Writing,1.0,Author,Kerri Kenney-Silver
+10096,Writing,1.0,Screenplay,Cathy Yuspa
+10111,Writing,1.0,Author,Debbie Isitt
+10115,Writing,1.0,Writer,Jessica Bendinger
+10118,Writing,1.0,Author,Amy Rardin
+10130,Writing,1.0,Screenplay,Anna Hamilton Phelan
+10144,Writing,1.0,Storyboard,Brenda Chapman
+10146,Writing,1.0,Screenplay,Doris Dörrie
+10183,Writing,1.0,Screenplay,Courtney Hunt
+10184,Writing,1.0,Writer,Abby Kohn
+10186,Writing,1.0,Screenplay,Maya Forbes
+10188,Writing,1.0,Screenplay,Elizabeth Chandler
+10191,Writing,1.0,Novel,Cressida Cowell
+10198,Writing,1.0,Original Story,E.D. Baker
+10199,Writing,1.0,Story,Sharon Smith
+10229,Writing,1.0,Screenplay,Karen Janszen
+10268,Writing,1.0,Author,Isabelle Mergault
+10274,Writing,1.0,Author,Ruth Epstein
+10305,Writing,1.0,Novel,Charlotte Armstrong
+10330,Writing,1.0,Screenplay,Leslie Dixon
+10330,Writing,1.0,Screenplay,Heather Hach
+10333,Writing,1.0,Screenplay,Becky Johnston
+10361,Writing,1.0,Characters,Karen Walton
+10385,Writing,1.0,Screenplay,Delia Ephron
+10397,Writing,1.0,Screenplay,Laura Jones
+10399,Writing,1.0,Screenplay,Patricia Rozema
+10399,Writing,1.0,Novel,Jane Austen
+10406,Writing,1.0,Screenplay,Shawn Schepps
+10436,Writing,1.0,Novel,Edith Wharton
+10438,Writing,1.0,Characters,Amy Holden Jones
+10452,Writing,1.0,Screenplay,Danièle Thompson
+10464,Writing,1.0,Screenplay,Jessie Nelson
+10468,Writing,1.0,Screenplay,Susannah Grant
+10481,Writing,1.0,Screenplay,Kristen Buckley
+10481,Writing,1.0,Story,Kristen Buckley
+10488,Writing,1.0,Screenplay,Jennifer Flackett
+10488,Writing,1.0,Screenplay,Paula Mazur
+10489,Writing,1.0,Screenplay,Lauren Currier
+10511,Writing,1.0,Screenplay,Kirsten Sheridan
+10521,Writing,1.0,Screenplay,Casey Wilson
+10524,Writing,1.0,Screenplay,Sophie Marceau
+10530,Writing,1.0,Screenplay,Susannah Grant
+10545,Writing,1.0,Screenplay,Irene Mecchi
+10560,Writing,1.0,Screenplay,Carol Heikkinen
+10603,Writing,1.0,Screenplay,Audrey Wells
+10625,Writing,1.0,Screenplay,Tina Fey
+10629,Writing,1.0,Story,Carol Doyle
+10629,Writing,1.0,Screenplay,Carol Doyle
+10636,Writing,1.0,Screenplay,Maria von Heland
+10639,Writing,1.0,Screenplay,Ruth Toma
+10641,Writing,1.0,Screenplay,Allison Burnett
+10642,Writing,1.0,Screenplay,Amy Heckerling
+10647,Writing,1.0,Screenplay,Leslie Dixon
+10650,Writing,1.0,Characters,Rita M. Fink
+10658,Writing,1.0,Screenplay,Gloria Katz
+10660,Writing,1.0,Screenplay,Jane Anderson
+10668,Writing,1.0,Screenplay,Gina Goldman
+10674,Writing,1.0,Screenplay,Rita Hsiao
+10677,Writing,1.0,Screenplay,Victoria Arch
+10697,Writing,1.0,Screenplay,Agnès Jaoui
+10699,Writing,1.0,Screenplay,Laura Ziskin
+10735,Writing,1.0,Screenplay,Jenny Bicks
+10735,Writing,1.0,Screenplay,Elizabeth Chandler
+10747,Writing,1.0,Screenplay,Sonia Chernus
+10758,Writing,1.0,Author,Adrienne Shelly
+10761,Writing,1.0,Author,Deborah Kaplan
+10765,Writing,1.0,Screenplay,Nancy Meyers
+10779,Writing,1.0,Screenplay,Fran Walsh
+10780,Writing,1.0,Screenplay,Leslie Dixon
+10801,Writing,1.0,Novel,Hera Lind
+10818,Writing,1.0,Screenplay,Céline Sciamma
+10829,Writing,1.0,Story,Nancy Roberts
+10879,Writing,1.0,Screenplay,Nancy Meyers
+10898,Writing,1.0,Screenplay,Elizabeth Anderson
+10900,Writing,1.0,Screenplay,Jennifer Chambers Lynch
+10934,Writing,1.0,Screenplay,Audrey Wells
+10944,Writing,1.0,Screenplay,Jane Campion
+10945,Writing,1.0,Screenplay,Nancy Meyers
+10950,Writing,1.0,Screenplay,Jessie Nelson
+10955,Writing,1.0,Screenplay,Liliana Cavani
+10984,Writing,1.0,Screenplay,Donna Powers
+10987,Writing,1.0,Characters,Debra Hill
+10994,Writing,1.0,Novel,Janet Fitch
+10995,Writing,1.0,Novel,Marguerite Duras
+11000,Writing,1.0,Screenplay,Elaine May
+11013,Writing,1.0,Screenplay,Erin Cressida Wilson
+11015,Writing,1.0,Screenplay,Amanda Silver
+11015,Writing,1.0,Screenplay,Amy Holden Jones
+11023,Writing,1.0,Screenplay,Catherine Hardwicke
+11023,Writing,1.0,Screenplay,Nikki Reed
+11025,Writing,1.0,Screenplay,Emily Fox
+11082,Writing,1.0,Author,Ellen Greene
+11087,Writing,1.0,Screenplay,Amanda Silver
+11130,Writing,1.0,Screenplay,Shonda Rhimes
+11132,Writing,1.0,Screenplay,Gail Parent
+11137,Writing,1.0,Screenplay,Katherine Fugate
+11137,Writing,1.0,Story,Katherine Fugate
+11148,Writing,1.0,Screenplay,Lucía Puenzo
+11156,Writing,1.0,Screenplay,Camille Fontaine
+11156,Writing,1.0,Screenplay,Anne Fontaine
+11177,Writing,1.0,Screenplay,Anna Hamilton Phelan
+11183,Writing,1.0,Writer,Marie-Anne Chazel
+11183,Writing,1.0,Writer,Josiane Balasko
+11183,Writing,1.0,Writer,Dominique Lavanant
+11188,Writing,1.0,Screenplay,Diane Duane
+11191,Writing,1.0,Screenplay,Amy Holden Jones
+11211,Writing,1.0,Screenplay,Alyson Fouse
+11215,Writing,1.0,Screenplay,Nancy Meyers
+11221,Writing,1.0,Screenplay,Gloria Katz
+11236,Writing,1.0,Screenplay,Caroline Thompson
+11247,Writing,1.0,Screenplay,Leigh Dunlap
+11247,Writing,1.0,Writer,Leigh Dunlap
+11257,Writing,1.0,Screenplay,Ruth Prawer Jhabvala
+11281,Writing,1.0,Screenplay,Debra Hill
+11283,Writing,1.0,Screenplay,Emma Thompson
+11291,Writing,1.0,Screenplay,Astrid Lindgren
+11291,Writing,1.0,Novel,Astrid Lindgren
+11322,Writing,1.0,Screenplay,Ann Biderman
+11324,Writing,1.0,Screenplay,Laeta Kalogridis
+11355,Writing,1.0,Screenplay,Abby Kohn
+11359,Writing,1.0,Screenplay,Melissa Mathison
+11381,Writing,1.0,Screenplay,Bonnie Turner
+11385,Writing,1.0,Screenplay,Leigh Brackett
+11399,Writing,1.0,Screenplay,Agnès Jaoui
+11425,Writing,1.0,Screenplay,Nell Scovell
+11440,Writing,1.0,Screenplay,Maria von Heland
+11440,Writing,1.0,Author,Hildegard Knef
+11462,Writing,1.0,Screenplay,Joan Harrison
+11462,Writing,1.0,Screenplay,Alma Reville
+11497,Writing,1.0,Story,Monica Parker
+11526,Writing,1.0,Screenplay,Katja von Garnier
+11553,Writing,1.0,Author,Chu Tien-Wen
+11554,Writing,1.0,Author,Chu Tien-Wen
+11590,Writing,1.0,Writer,Nancy Dowd
+11597,Writing,1.0,Screenplay,Valerie Curtin
+11618,Writing,1.0,Novel,Shirley Jackson
+11620,Writing,1.0,Screenplay,Sonya Levien
+11626,Writing,1.0,Novel,Astrid Lindgren
+11626,Writing,1.0,Screenplay,Astrid Lindgren
+11628,Writing,1.0,Screenplay,Ruth Toma
+11630,Writing,1.0,Screenplay,Coline Serreau
+11631,Writing,1.0,Screenplay,Catherine Johnson
+11637,Writing,1.0,Screenplay,Claudia Grazioso
+11686,Writing,1.0,Screenplay,Mildred Cram
+11705,Writing,1.0,Writer,Andrea Arnold
+11705,Writing,1.0,Writer,Lone Scherfig
+11772,Writing,1.0,Novel,Shirley Jackson
+11787,Writing,1.0,Theatre Play,Mary Chase
+11790,Writing,1.0,Screenplay,Rita Rudner
+11801,Writing,1.0,Novel,Elizabeth Taylor
+11806,Writing,1.0,Screenplay,Amy Holden Jones
+11812,Writing,1.0,Writer,Nancy Pimental
+11823,Writing,1.0,Screenplay,Jennifer Flackett
+11846,Writing,1.0,Screenplay,Frances Goodrich
+11846,Writing,1.0,Screenplay,Nancy Meyers
+11848,Writing,1.0,Screenplay,Joy Batchelor
+11860,Writing,1.0,Screenplay,Barbara Benedek
+11861,Writing,1.0,Screenplay,Jane Anderson
+11862,Writing,1.0,Screenplay,Nancy Meyers
+11867,Writing,1.0,Screenplay,Ilene Chaiken
+11876,Writing,1.0,Screenplay,Nina Companéez
+11879,Writing,1.0,Screenplay,Kathryn Bigelow
+11907,Writing,1.0,Screenplay,Doris Dörrie
+11931,Writing,1.0,Screenplay,Susannah Grant
+11945,Writing,1.0,Screenplay,Astrid Lindgren
+11945,Writing,1.0,Novel,Astrid Lindgren
+11946,Writing,1.0,Novel,Astrid Lindgren
+11946,Writing,1.0,Screenplay,Astrid Lindgren
+11970,Writing,1.0,Screenplay,Irene Mecchi
+11982,Writing,1.0,Characters,Amy Heckerling
+11982,Writing,1.0,Screenplay,Leslie Dixon
+12097,Writing,1.0,Novel,Astrid Lindgren
+12097,Writing,1.0,Screenplay,Astrid Lindgren
+12121,Writing,1.0,Screenplay,Holly Goldberg Sloan
+12127,Writing,1.0,Novel,Astrid Lindgren
+12143,Writing,1.0,Screenplay,Zoë Lund
+12154,Writing,1.0,Original Story,Coline Serreau
+12155,Writing,1.0,Screenplay,Linda Woolverton
+12182,Writing,1.0,Screenplay,Lorene Scafaria
+12185,Writing,1.0,Screenplay,Elaine May
+12206,Writing,1.0,Screenplay,Thea von Harbou
+12220,Writing,1.0,Screenplay,Jessie Nelson
+12244,Writing,1.0,Storyboard,Jun Falkenstein
+12244,Writing,1.0,Screenplay,Pamela Pettler
+12254,Writing,1.0,Novel,Jane Austen
+12411,Writing,1.0,Screenplay,Anna Maria Monticelli
+12435,Writing,1.0,Screenplay,Shari Springer Berman
+12444,Writing,1.0,Novel,J.K. Rowling
+12445,Writing,1.0,Novel,J.K. Rowling
+12448,Writing,1.0,Screenplay,Jule Selbo
+12450,Writing,1.0,Screenplay,Nora Kay Foster
+12502,Writing,1.0,Screenplay,Alice Arlen
+12524,Writing,1.0,Screenplay,Julie Taymor
+12536,Writing,1.0,Screenplay,Debra Frank
+12540,Writing,1.0,Screenplay,Claudia Grazioso
+12560,Writing,1.0,Screenplay,Barbara Benedek
+12572,Writing,1.0,Writer,Natalie Portman
+12578,Writing,1.0,Screenplay,Maximiliane Mainka
+12579,Writing,1.0,Screenplay,Suzanne Schiffman
+12583,Writing,1.0,Screenplay,Christina Ray
+12606,Writing,1.0,Screenplay,Deborah Kaplan
+12620,Writing,1.0,Writer,Karen McCullah Lutz
+12620,Writing,1.0,Writer,Kirsten Smith
+12621,Writing,1.0,Screenplay,Pam Brady
+12650,Writing,1.0,Screenplay,Kim Eun-jeong
+12658,Writing,1.0,Screenplay,Elizabeth Chandler
+12658,Writing,1.0,Novel,Laura Zigman
+12689,Writing,1.0,Screenplay,Gurinder Chadha
+12704,Writing,1.0,Screenplay,Elaine May
+12713,Writing,1.0,Screenplay,Odile Barski
+12724,Writing,1.0,Screenplay,Chaton Anderson
+12763,Writing,1.0,Screenplay,Dianne Houston
+12793,Writing,1.0,Screenplay,Sylvia Sichel
+12799,Writing,1.0,Screenplay,Catherine Corsini
+12808,Writing,1.0,Writer,Andrea Gibb
+12823,Writing,1.0,Screenplay,Doriana Leondeff
+12837,Writing,1.0,Screenplay,Gina Prince-Bythewood
+13002,Writing,1.0,Writer,Elana Lesser
+13008,Writing,1.0,Screenplay,Irene Turner
+13008,Writing,1.0,Author,Irene Turner
+13055,Writing,1.0,Writer,Amber Benson
+13074,Writing,1.0,Screenplay,Allison Burnett
+13141,Writing,1.0,Author,Amy Sedaris
+13196,Writing,1.0,Screenplay,Alice Arlen
+13196,Writing,1.0,Screenplay,Helen Hunt
+13203,Writing,1.0,Author,Susan McMartin
+13205,Writing,1.0,Screenplay,Alicia Kirk
+13259,Writing,1.0,Writer,Nanette Burstein
+13293,Writing,1.0,Story,Sandra Weintraub
+13355,Writing,1.0,Writer,Margaret M. Dean
+13378,Writing,1.0,Story,Peggy Holmes
+13378,Writing,1.0,Screenplay,Peggy Holmes
+13440,Writing,1.0,Screenplay,Jessica Bendinger
+13459,Writing,1.0,Writer,Elise Allen
+13489,Writing,1.0,Characters,Janice Fischer
+13497,Writing,1.0,Screenplay,Shawn Schepps
+13506,Writing,1.0,Writer,Zoya Dzyublo
+13526,Writing,1.0,Screenplay,Alice Arlen
+13531,Writing,1.0,Screenplay,Carol Heikkinen
+13551,Writing,1.0,Writer,Karen Moncrieff
+13572,Writing,1.0,Author,Sarah Maur Thorp
+13600,Writing,1.0,Screenplay,Caroline Thompson
+13616,Writing,1.0,Screenplay,Éva Gárdos
+13618,Writing,1.0,Screenplay,Maria Veltre Druse
+13655,Writing,1.0,Writer,Karin Gist
+13655,Writing,1.0,Writer,Regina Y. Hicks
+13668,Writing,1.0,Writer,Susannah Grant
+13680,Writing,1.0,Author,Kathryn Price
+13680,Writing,1.0,Author,Audrey Wells
+13775,Writing,1.0,Screenplay,Victoria Hill
+13787,Writing,1.0,Screenplay,Jane Campion
+13787,Writing,1.0,Screenplay,Anna Campion
+13817,Writing,1.0,Screenplay,Ana Kokkinos
+13819,Writing,1.0,Screenplay,Lisa Cholodenko
+13834,Writing,1.0,Screenplay,Gabrielle Savage Dockterman
+13834,Writing,1.0,Screenplay,Nancy L. Babine
+13852,Writing,1.0,Screenplay,Jane Kennedy
+13936,Writing,1.0,Writer,Sonya Levien
+13949,Writing,1.0,Novel,Jane Austen
+13968,Writing,1.0,Writer,Doreen Spicer
+13969,Writing,1.0,Writer,Jessica Bendinger
+13975,Writing,1.0,Screenplay,Mary Olson-Kromolowski
+13986,Writing,1.0,Screenplay,Tanuja Chandra
+13996,Writing,1.0,Writer,Jody Savin
+14008,Writing,1.0,Writer,Gail Parent
+14043,Writing,1.0,Story,Tiffany Paulsen
+14043,Writing,1.0,Screenplay,Tiffany Paulsen
+14086,Writing,1.0,Screenplay,Doriana Leondeff
+14128,Writing,1.0,Screenplay,Jule Selbo
+14134,Writing,1.0,Screenplay,Farah Khan
+14134,Writing,1.0,Story,Farah Khan
+14191,Writing,1.0,Novel,Alice Hoffman
+14191,Writing,1.0,Screenplay,Jessica Bendinger
+14204,Writing,1.0,Author,Jessica Yu
+14228,Writing,1.0,Screenplay,Jace Anderson
+14257,Writing,1.0,Author,Danièle Thompson
+14299,Writing,1.0,Writer,Darnell Martin
+14313,Writing,1.0,Screenplay,Allison Burnett
+14317,Writing,1.0,Author,Kate Boutilier
+14320,Writing,1.0,Screenplay,Kay Walsh
+14326,Writing,1.0,Screenplay,Ann Peacock
+14358,Writing,1.0,Screenplay,Amy Sewell
+14365,Writing,1.0,Writer,Kara Lindstrom
+14392,Writing,1.0,Screenplay,Aubrey Lam Oi-Wah
+14395,Writing,1.0,Screenplay,Shibani Bathija
+14421,Writing,1.0,Screenplay,Anna Muylaert
+14432,Writing,1.0,Screenplay,Ann Cherkis
+14442,Writing,1.0,Screenplay,Karen McCullah Lutz
+14442,Writing,1.0,Screenplay,Kirsten Smith
+14442,Writing,1.0,Book,Gail Carson Levine
+14442,Writing,1.0,Screenplay,Laurie Craig
+14442,Writing,1.0,Screenplay,Jennifer Heath
+14462,Writing,1.0,Storyboard,Kalina Ivanov
+14474,Writing,1.0,Story,Sarah Bird
+14499,Writing,1.0,Novel,Astrid Lindgren
+14522,Writing,1.0,Screenplay,Caroline Thompson
+14555,Writing,1.0,Writer,Diane Kurys
+14587,Writing,1.0,Writer,Gurinder Chadha
+14587,Writing,1.0,Writer,Meera Syal
+14588,Writing,1.0,Screenplay,Frances Goodrich
+14589,Writing,1.0,Writer,Frances Goodrich
+14612,Writing,1.0,Screenplay,Rosemary Anne Sisson
+14626,Writing,1.0,Screenplay,Claire Denis
+14629,Writing,1.0,Writer,Vera Blasi
+14630,Writing,1.0,Novel,Kathy Lette
+14634,Writing,1.0,Screenplay,Kari Skogland
+14634,Writing,1.0,Novel,Margaret Laurence
+14643,Writing,1.0,Writer,Agatha Dominik
+14645,Writing,1.0,Writer,Josiane Balasko
+14645,Writing,1.0,Writer,Marie-Anne Chazel
+14646,Writing,1.0,Writer,Agnès Jaoui
+14720,Writing,1.0,Writer,Maïwenn
+14736,Writing,1.0,Writer,Gina Prince-Bythewood
+14745,Writing,1.0,Screenplay,Rebecca Sonnenshine
+14749,Writing,1.0,Writer,Anna McRoberts
+14758,Writing,1.0,Author,Marianna Palka
+14774,Writing,1.0,Writer,Rikki Marin
+14845,Writing,1.0,Writer,Sue Kramer
+14846,Writing,1.0,Writer,Melissa Carter
+14847,Writing,1.0,Writer,Camilla Leslie
+14893,Writing,1.0,Screenplay,Hella Joof
+14904,Writing,1.0,Writer,Jocelyn Moorhouse
+14926,Writing,1.0,Screenplay,Julia Dahl
+14926,Writing,1.0,Author,Allison Jacobs
+14976,Writing,1.0,Writer,Jenny Lumet
+15007,Writing,1.0,Screenplay,Alma Reville
+15015,Writing,1.0,Writer,Elana Lesser
+15019,Writing,1.0,Author,Amy Heckerling
+15024,Writing,1.0,Novel,Marion Zimmer Bradley
+15037,Writing,1.0,Writer,Deborah Kaplan
+15052,Writing,1.0,Novel,Marie Belloc Lowndes
+15058,Writing,1.0,Writer,Jessica Sharzer
+15096,Writing,1.0,Story,Charlotte Knight
+15097,Writing,1.0,Writer,Chantal Lauby
+15102,Writing,1.0,Writer,Paula Milne
+15104,Writing,1.0,Writer,Vera Blasi
+15157,Writing,1.0,Writer,Jessica Scott
+15170,Writing,1.0,Screenplay,Caroline Thompson
+15189,Writing,1.0,Author,Lois Duncan
+15206,Writing,1.0,Writer,Jace Anderson
+15261,Writing,1.0,Author,Alyson Fouse
+15292,Writing,1.0,Writer,Dana Brown
+15302,Writing,1.0,Writer,Leslie Iwerks
+15316,Writing,1.0,Writer,Merriwether Williams
+15320,Writing,1.0,Writer,Christine O'Malley
+15342,Writing,1.0,Writer,Anne Fontaine
+15347,Writing,1.0,Author,Joy Adamson
+15363,Writing,1.0,Author,Kriss Turner
+15397,Writing,1.0,Novel,Anne Holm
+15402,Writing,1.0,Author,Guinevere Turner
+15402,Writing,1.0,Author,Mary Harron
+15436,Writing,1.0,Screenplay,Agnès Jaoui
+15460,Writing,1.0,Writer,Josiane Balasko
+15512,Writing,1.0,Screenplay,Maya Forbes
+15543,Writing,1.0,Screenplay,Diane Doniol-Valcroze
+15543,Writing,1.0,Story,Diane Doniol-Valcroze
+15559,Writing,1.0,Writer,Toni Myers
+15560,Writing,1.0,Writer,Toni Myers
+15566,Writing,1.0,Screenplay,Jennifer Ventimilia
+15566,Writing,1.0,Screenplay,Deborah Kaplan
+15576,Writing,1.0,Screenplay,Odile Barski
+15590,Writing,1.0,Writer,Allison Robinson
+15590,Writing,1.0,Characters,Katherine Fugate
+15613,Writing,1.0,Screenplay,Tracy Tormé
+15616,Writing,1.0,Screenplay,April Blair
+15647,Writing,1.0,Writer,Heather Juergensen
+15647,Writing,1.0,Writer,Jennifer Westfeldt
+15648,Writing,1.0,Writer,Gina Wendkos
+15660,Writing,1.0,Writer,Tracy Hotchner
+15673,Writing,1.0,Writer,Nia Vardalos
+15676,Writing,1.0,Writer,Jody Savin
+15705,Writing,1.0,Writer,Sharon Maguire
+15723,Writing,1.0,Script Editor,Nancy Scanlon
+15739,Writing,1.0,Writer,Carol Sobieski
+15741,Writing,1.0,Screenplay,Juliette Sales
+15749,Writing,1.0,Writer,Susan Montford
+15765,Writing,1.0,Novel,Tina Turner
+15771,Writing,1.0,Writer,Carolyn Shelby
+15775,Writing,1.0,Writer,Christina Welsh
+15794,Writing,1.0,Author,Virginia Kellogg
+15865,Writing,1.0,Writer,Laura Santullo
+15888,Writing,1.0,Writer,Melissa Painter
+15906,Writing,1.0,Writer,Elana Lesser
+15907,Writing,1.0,Writer,Karen Janszen
+15944,Writing,1.0,Screenplay,Lillie Hayward
+15956,Writing,1.0,Writer,Lone Scherfig
+16119,Writing,1.0,Screenplay,Margaret Heidenry
+16156,Writing,1.0,Writer,Sarah Silverman
+16229,Writing,1.0,Adaptation,Galt Niederhoffer
+16229,Writing,1.0,Book,Elizabeth Wurtzel
+16236,Writing,1.0,Author,Jane Austen
+16250,Writing,1.0,Teleplay,Cindy Kelley
+16258,Writing,1.0,Writer,Holly Brix
+16266,Writing,1.0,Story,Naomi L. Selfman
+16340,Writing,1.0,Idea,Arlene Klasky
+16340,Writing,1.0,Writer,Kate Boutilier
+16371,Writing,1.0,Author,Kim Eun-jeong
+16553,Writing,1.0,Writer,Jennifer Flackett
+16563,Writing,1.0,Screenplay,Frances Goodrich
+16605,Writing,1.0,Screenplay,Cate Shortland
+16619,Writing,1.0,Novel,Judith Guest
+16635,Writing,1.0,Screenplay,Ann Peacock
+16646,Writing,1.0,Dialogue,Svetlana Proskurina
+16725,Writing,1.0,Writer,Maureen Medved
+16764,Writing,1.0,Writer,Jace Anderson
+16769,Writing,1.0,Book,Loretta Lynn
+16921,Writing,1.0,Writer,Jace Anderson
+16987,Writing,1.0,Screenplay,Honey Irani
+16988,Writing,1.0,Writer,Annemarie Morais
+16999,Writing,1.0,Author,Angela Mancuso
+17003,Writing,1.0,Writer,Anna Boden
+17007,Writing,1.0,Writer,Sara Bernstein
+17007,Writing,1.0,Story,Sara Bernstein
+17015,Writing,1.0,Novel,Jane Austen
+17043,Writing,1.0,Writer,Holly Goldberg Sloan
+17057,Writing,1.0,Story,Dorothy B. Hughes
+17113,Writing,1.0,Author,Rebecca Miller
+17127,Writing,1.0,Screenplay,Wendy Wasserstein
+17130,Writing,1.0,Writer,Shonda Rhimes
+17182,Writing,1.0,Writer,Amanda Silver
+17241,Writing,1.0,Teleplay,Maria Nation
+17264,Writing,1.0,Screenplay,Melissa Mathison
+17281,Writing,1.0,Novel,Colette
+17332,Writing,1.0,Screenplay,Susannah Grant
+17362,Writing,1.0,Writer,Robin Schiff
+17362,Writing,1.0,Screenplay,Leslie Dixon
+17435,Writing,1.0,Writer,Anna Thomas
+17443,Writing,1.0,Writer,Valerie Curtin
+17529,Writing,1.0,Screenplay,Marguerite Roberts
+17538,Writing,1.0,Writer,Martha Hyer
+17605,Writing,1.0,Screenplay,Sylvie Verheyde
+17612,Writing,1.0,Novel,Susan Swan
+17622,Writing,1.0,Writer,Kari Skogland
+17641,Writing,1.0,Screenplay,Helen Deutsch
+17654,Writing,1.0,Screenplay,Terri Tatchell
+17669,Writing,1.0,Writer,Suzette Couture
+17728,Writing,1.0,Author,Suzanne Francis
+17734,Writing,1.0,Writer,Jill Sprecher
+17770,Writing,1.0,Screenplay,Sara Bernstein
+17770,Writing,1.0,Story,Sara Bernstein
+17774,Writing,1.0,Screenplay,Jace Anderson
+17775,Writing,1.0,Writer,Sook-Yin Lee
+17820,Writing,1.0,Novel,Edna Ferber
+17908,Writing,1.0,Screenplay,Gail Gilchriest
+17912,Writing,1.0,Novel,Gypsy Rose Lee
+17920,Writing,1.0,Screenplay,Heidi Thomas
+17925,Writing,1.0,Writer,Marie-Jose Sanselme
+17990,Writing,1.0,Writer,Sarah Kernochan
+17993,Writing,1.0,Novel,Anaïs Nin
+18033,Writing,1.0,Teleplay,April Smith
+18089,Writing,1.0,Writer,Gwyneth Hughes
+18093,Writing,1.0,Novel,Jane Austen
+18116,Writing,1.0,Writer,Rebecca Sonnenshine
+18183,Writing,1.0,Novel,Laura Esquivel
+18183,Writing,1.0,Screenplay,Laura Esquivel
+18189,Writing,1.0,Screenplay,Jenny McCarthy
+18197,Writing,1.0,Writer,Naomi Foner Gyllenhaal
+18198,Writing,1.0,Writer,Elise Allen
+18212,Writing,1.0,Screenplay,Peggy Thompson
+18215,Writing,1.0,Screenplay,Jennifer Chambers Lynch
+18221,Writing,1.0,Writer,Toni Myers
+18239,Writing,1.0,Screenplay,Melissa Rosenberg
+18257,Writing,1.0,Story,Alexandra Rose
+18279,Writing,1.0,Writer,Aku Louhimies
+18300,Writing,1.0,Writer,Danièle Thompson
+18395,Writing,1.0,Screenplay,Deborah Amelon
+18395,Writing,1.0,Novel,Anne Rice
+18402,Writing,1.0,Writer,Callie Khouri
+18423,Writing,1.0,Screenplay,Troy Byer
+18425,Writing,1.0,Writer,Brenda Blethyn
+18425,Writing,1.0,Writer,Jo Brand
+18446,Writing,1.0,Writer,Nancy Dowd
+18548,Writing,1.0,Screenplay,Madonna
+18568,Writing,1.0,Writer,Michele Lupo
+18602,Writing,1.0,Screenplay,Lynne Ramsay
+18615,Writing,1.0,Screenplay,Erin Cressida Wilson
+18620,Writing,1.0,Writer,Rose Troche
+18620,Writing,1.0,Writer,Guinevere Turner
+18632,Writing,1.0,Story,Jane Loughman
+18651,Writing,1.0,Adaptation,Dorothy Yost
+18826,Writing,1.0,Writer,Rachel Dratch
+18843,Writing,1.0,Writer,Nina Colman
+18871,Writing,1.0,Novel,Dorothy B. Hughes
+18897,Writing,1.0,Screenplay,Marina de Van
+18897,Writing,1.0,Idea,Marina de Van
+18937,Writing,1.0,Screenplay,Jacqueline Feather
+18977,Writing,1.0,Writer,Lillie Hayward
+18992,Writing,1.0,Screenplay,Lillie Hayward
+19017,Writing,1.0,Writer,Leigh Chapman
+19051,Writing,1.0,Novel,Astrid Lindgren
+19101,Writing,1.0,Screenplay,Elizabeth Chandler
+19118,Writing,1.0,Screenplay,Nancy Dowd
+19157,Writing,1.0,Writer,Valerie Breiman
+19159,Writing,1.0,Writer,Suzanne Fenn
+19171,Writing,1.0,Screenplay,Lenore J. Coffee
+19173,Writing,1.0,Adaptation,Cuca Canals
+19183,Writing,1.0,Writer,Kimberly Gough
+19311,Writing,1.0,Screenplay,Tatia Rosenthal
+19316,Writing,1.0,Writer,Alice Wu
+19326,Writing,1.0,Screenplay,Barbara Williams
+19326,Writing,1.0,Screenplay,Samantha Adams
+19344,Writing,1.0,Screenplay,Katherine Brooks
+19348,Writing,1.0,Writer,Karyn Kusama
+19354,Writing,1.0,Screenplay,Lotte Reiniger
+19366,Writing,1.0,Writer,Deborah Kaplan
+19381,Writing,1.0,Writer,Sarah Kernochan
+19383,Writing,1.0,Writer,Polly Platt
+19458,Writing,1.0,Story,Annie DeYoung
+19458,Writing,1.0,Writer,Annie DeYoung
+19496,Writing,1.0,Writer,Maria Nation
+19597,Writing,1.0,Screenplay,Mona Achache
+19606,Writing,1.0,Screenplay,Sandra Weintraub
+19629,Writing,1.0,Writer,Georgia Lee
+19688,Writing,1.0,Writer,Michelle Morgan
+19719,Writing,1.0,Screenplay,Jenna Fischer
+19736,Writing,1.0,Screenplay,Ellen Greene
+19851,Writing,1.0,Teleplay,Patricia Rozema
+19899,Writing,1.0,Screenplay,Dana Fox
+19904,Writing,1.0,Story,Carolyn Lefcourt
+19931,Writing,1.0,Writer,Amy Tan
+19931,Writing,1.0,Screenplay,Amy Tan
+19994,Writing,1.0,Screenplay,Diablo Cody
+20055,Writing,1.0,Writer,Amanda Gusack
+20139,Writing,1.0,Theatre Play,Lillian Hellman
+20160,Writing,1.0,Writer,Aku Louhimies
+20223,Writing,1.0,Story,Issa López
+20223,Writing,1.0,Screenplay,Issa López
+20242,Writing,1.0,Writer,Leslie Dixon
+20246,Writing,1.0,Dialogue,Gladys Hill
+20405,Writing,1.0,Writer,Maria Maggenti
+20438,Writing,1.0,Writer,Greer Goodman
+20457,Writing,1.0,Screenplay,Karen Janszen
+20497,Writing,1.0,Screenplay,Heidi Thomas
+20502,Writing,1.0,Writer,Isabel Pisano
+20529,Writing,1.0,Writer,Nina Paley
+20643,Writing,1.0,Story,Maurine Dallas Watkins
+20694,Writing,1.0,Other,Kate Boutilier
+20712,Writing,1.0,Writer,Deborah Dalton
+20723,Writing,1.0,Book,Mildred Gordon
+20723,Writing,1.0,Writer,Mildred Gordon
+20758,Writing,1.0,Screenplay,Frances Goodrich
+20777,Writing,1.0,Writer,Ann Peacock
+20825,Writing,1.0,Screenplay,Nia Vardalos
+20899,Writing,1.0,Writer,Inna Vetkina
+20943,Writing,1.0,Writer,Karen McCullah Lutz
+20943,Writing,1.0,Writer,Nicole Eastman
+20980,Writing,1.0,Screenplay,Anne Carlisle
+21032,Writing,1.0,Writer,Elana Lesser
+21074,Writing,1.0,Screenplay,Laura Jones
+21142,Writing,1.0,Writer,Delores Taylor
+21194,Writing,1.0,Writer,Issa López
+21245,Writing,1.0,Screenplay,Aku Louhimies
+21250,Writing,1.0,Screenplay,Elana Lesser
+21311,Writing,1.0,Screenplay,Susan Shilliday
+21311,Writing,1.0,Screenplay,Paula Milne
+21335,Writing,1.0,Musical,Joan Littlewood
+21393,Writing,1.0,Novel,Astrid Lindgren
+21393,Writing,1.0,Writer,Astrid Lindgren
+21394,Writing,1.0,Screenplay,Astrid Lindgren
+21394,Writing,1.0,Novel,Astrid Lindgren
+21433,Writing,1.0,Screenplay,Sarah Bird
+21433,Writing,1.0,Novel,Sarah Bird
+21435,Writing,1.0,Writer,Marie-Anne Chazel
+21435,Writing,1.0,Writer,Josiane Balasko
+21474,Writing,1.0,Screenplay,Alyson Fouse
+21542,Writing,1.0,Screenplay,Troy Byer
+21622,Writing,1.0,Writer,Virginia Van Upp
+21622,Writing,1.0,Adaptation,Marion Parsonnet
+21626,Writing,1.0,Story,Barbara Gowdy
+21634,Writing,1.0,Screenplay,Katie Ford
+21635,Writing,1.0,Screenplay,Lucille Fletcher
+21636,Writing,1.0,Writer,Rachel Stuhler
+21717,Writing,1.0,Writer,Rita M. Fink
+21734,Writing,1.0,Screenplay,Sally Benson
+21734,Writing,1.0,Screenplay,Alma Reville
+21778,Writing,1.0,Writer,Marina Foïs
+21861,Writing,1.0,Writer,Lisa Azuelos
+22102,Writing,1.0,Writer,Margaret Oberman
+22215,Writing,1.0,Novel,Colette
+22264,Writing,1.0,Teleplay,Joyce Eliason
+22274,Writing,1.0,Writer,Laura Paolucci
+22288,Writing,1.0,Writer,Carol Sobieski
+22292,Writing,1.0,Dialogue,Constance Collier
+22309,Writing,1.0,Writer,Elizabeth Hunter
+22309,Writing,1.0,Screenplay,Elizabeth Hunter
+22414,Writing,1.0,Novel,Carrie Fisher
+22414,Writing,1.0,Writer,Carrie Fisher
+22490,Writing,1.0,Screenplay,Anita Loos
+22536,Writing,1.0,Screenplay,Jeong Seo-gyeong
+22537,Writing,1.0,Screenstory,Rumiko Takahashi
+22556,Writing,1.0,Screenplay,Erin Dignam
+22588,Writing,1.0,Screenplay,Gloria Katz
+22609,Writing,1.0,Screenplay,Aparajita
+22689,Writing,1.0,Screenplay,Frances Hyland
+22692,Writing,1.0,Screenplay,Dorothy Parker
+22744,Writing,1.0,Novel,Charlotte Brontë
+22798,Writing,1.0,Screenplay,Shauna Cross
+22805,Writing,1.0,Screenplay,Katherine Dieckmann
+22897,Writing,1.0,Screenplay,Nancy Meyers
+22968,Writing,1.0,Screenplay,Frances Goodrich
+23023,Writing,1.0,Screenplay,Randi Mayem Singer
+23023,Writing,1.0,Screenplay,Jennifer Ventimilia
+23102,Writing,1.0,Screenplay,Edna Anhalt
+23178,Writing,1.0,Writer,Joyce Eliason
+23178,Writing,1.0,Writer,Priscilla Presley
+23483,Writing,1.0,Screenplay,Jane Goldman
+23574,Writing,1.0,Story,Gwen Davis
+23627,Writing,1.0,Screenplay,Elaine Ryan
+23638,Writing,1.0,Writer,Dana Brown
+23691,Writing,1.0,Story,Carol Saraceno
+23692,Writing,1.0,Teleplay,Carol Saraceno
+23692,Writing,1.0,Story,Carol Saraceno
+23706,Writing,1.0,Writer,Kim Barker
+23720,Writing,1.0,Writer,Lynn Shelton
+23805,Writing,1.0,Screenplay,Carol Sobieski
+23854,Writing,1.0,Writer,Patrícia Andrade
+23924,Writing,1.0,Screenplay,Diana Morgan
+23990,Writing,1.0,Writer,Asia Argento
+24004,Writing,1.0,Story,Gina Kaus
+24005,Writing,1.0,Novel,Charlotte Armstrong
+24021,Writing,1.0,Screenplay,Melissa Rosenberg
+24047,Writing,1.0,Writer,Diane Frolov
+24070,Writing,1.0,Screenplay,Delia Ephron
+24123,Writing,1.0,Writer,Tassie Cameron
+24186,Writing,1.0,Screenplay,Rose Troche
+24274,Writing,1.0,Novel,Chelsea Quinn Yarbro
+24357,Writing,1.0,Writer,Lilly Wachowski
+24357,Writing,1.0,Writer,Lana Wachowski
+24365,Writing,1.0,Story,Suso Cecchi d'Amico
+24382,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+24446,Writing,1.0,Writer,Sara Endsley
+24469,Writing,1.0,Writer,Andrea Arnold
+24476,Writing,1.0,Characters,Amy Holden Jones
+24477,Writing,1.0,Writer,Elana Lesser
+24553,Writing,1.0,Writer,Joie Lee
+24553,Writing,1.0,Writer,Jordan Scott
+24585,Writing,1.0,Screenplay,Lindsay Harrison
+24585,Writing,1.0,Writer,Lindsay Harrison
+24650,Writing,1.0,Novel,Ayn Rand
+24650,Writing,1.0,Screenplay,Ayn Rand
+24662,Writing,1.0,Screenplay,Elana Lesser
+24747,Writing,1.0,Story,Kim Dawson
+24794,Writing,1.0,Screenplay,Anna McRoberts
+24798,Writing,1.0,Writer,Beth Henley
+24803,Writing,1.0,Novel,Julie Powell
+24803,Writing,1.0,Novel,Julia Child
+24805,Writing,1.0,Story,Jeanie Macpherson
+24825,Writing,1.0,Story,Leigh Chapman
+24825,Writing,1.0,Screenplay,Leigh Chapman
+24833,Writing,1.0,Writer,Anna McRoberts
+24870,Writing,1.0,Screenplay,Anna Biller
+24881,Writing,1.0,Screenplay,Barra Grant
+24886,Writing,1.0,Writer,Sally Meyer
+24914,Writing,1.0,Writer,Lilly Wachowski
+24914,Writing,1.0,Writer,Lana Wachowski
+24923,Writing,1.0,Screenplay,Gloria Katz
+25041,Writing,1.0,Teleplay,Margaret Oberman
+25059,Writing,1.0,Writer,Julie Hickson
+25059,Writing,1.0,Writer,Sheila Burnford
+25128,Writing,1.0,Writer,Valerie Breiman
+25155,Writing,1.0,Story,Carolyn Lefcourt
+25164,Writing,1.0,Writer,Linda Shayne
+25183,Writing,1.0,Writer,Charlyne Yi
+25195,Writing,1.0,Writer,Deborah Kaplan
+25259,Writing,1.0,Writer,Daniela Féjerman
+25312,Writing,1.0,Writer,Sally Potter
+25320,Writing,1.0,Writer,Carolyn Shelby
+25423,Writing,1.0,Writer,Jacqueline Feather
+25431,Writing,1.0,Screenplay,Ruth Gordon
+25500,Writing,1.0,Writer,Laurence Ferreira Barbosa
+25509,Writing,1.0,Writer,Marguerite Roberts
+25516,Writing,1.0,Screenplay,Honey Irani
+25518,Writing,1.0,Writer,Coline Serreau
+25520,Writing,1.0,Novel,Edith Wharton
+25527,Writing,1.0,Writer,Annie DeYoung
+25551,Writing,1.0,Story,Edna Anhalt
+25560,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+25568,Writing,1.0,Writer,Toni Myers
+25597,Writing,1.0,Writer,Kim Min-Sook
+25641,Writing,1.0,Writer,Jill Franklyn
+25656,Writing,1.0,Writer,Naoko Ogigami
+25657,Writing,1.0,Screenplay,Naoko Ogigami
+25670,Writing,1.0,Screenplay,Joan Harrison
+25695,Writing,1.0,Screenplay,So Yong Kim
+25698,Writing,1.0,Screenplay,Frances Goodrich
+25704,Writing,1.0,Writer,Kelly Fremon Craig
+25786,Writing,1.0,Teleplay,Marsha Norman
+25793,Writing,1.0,Novel,Sapphire
+25796,Writing,1.0,Writer,Leslie Dixon
+25896,Writing,1.0,Writer,Colette Burson
+25915,Writing,1.0,Writer,Helen Deutsch
+25950,Writing,1.0,Teleplay,Nora Kay Foster
+26016,Writing,1.0,Writer,Kathy Griffin
+26022,Writing,1.0,Dialogue,Shibani Bathija
+26111,Writing,1.0,Novel,Astrid Lindgren
+26111,Writing,1.0,Writer,Astrid Lindgren
+26149,Writing,1.0,Screenplay,Pamela Gray
+26174,Writing,1.0,Story,Virginia Kellogg
+26175,Writing,1.0,Screenplay,Marguerite Roberts
+26177,Writing,1.0,Teleplay,Irene Mecchi
+26191,Writing,1.0,Writer,Claire Denis
+26263,Writing,1.0,Writer,Gail Morgan Hickman
+26266,Writing,1.0,Story,Anna McRoberts
+26266,Writing,1.0,Writer,Anna McRoberts
+26290,Writing,1.0,Screenplay,Sandra Goldbacher
+26293,Writing,1.0,Screenplay,Barbara Stepansky
+26366,Writing,1.0,Writer,Ellen DeGeneres
+26441,Writing,1.0,Writer,Holly Goldberg Sloan
+26475,Writing,1.0,Writer,Jennifer Jason Leigh
+26518,Writing,1.0,Screenplay,Kelly Reichardt
+26533,Writing,1.0,Novel,Dorothy B. Hughes
+26561,Writing,1.0,Novel,Elizabeth von Arnim
+26579,Writing,1.0,Story,Laura Albert
+26579,Writing,1.0,Screenplay,Asia Argento
+26588,Writing,1.0,Screenplay,Christine Conradt
+26593,Writing,1.0,Screenplay,Leigh Brackett
+26617,Writing,1.0,Screenplay,Carole Eastman
+26617,Writing,1.0,Story,Carole Eastman
+26648,Writing,1.0,Screenplay,Liliana Cavani
+26702,Writing,1.0,Writer,Elinor Karpf
+26738,Writing,1.0,Writer,Sally Potter
+26776,Writing,1.0,Writer,George F. Slavin
+26864,Writing,1.0,Novel,Lucía Puenzo
+26864,Writing,1.0,Screenplay,Lucía Puenzo
+26890,Writing,1.0,Writer,Mary Harron
+26914,Writing,1.0,Screenplay,Rossella Drudi
+26942,Writing,1.0,Writer,Julie Davis
+26945,Writing,1.0,Writer,Nanase Ohkawa
+26949,Writing,1.0,Screenplay,Anna Hamilton Phelan
+26973,Writing,1.0,Screenplay,Polly Platt
+26973,Writing,1.0,Story,Polly Platt
+26976,Writing,1.0,Writer,Emma Thompson
+27016,Writing,1.0,Writer,Nancy Dowd
+27019,Writing,1.0,Writer,Marie-France Pisier
+27019,Writing,1.0,Writer,Juliet Berto
+27019,Writing,1.0,Writer,Bulle Ogier
+27029,Writing,1.0,Novel,Kathryn Hulme
+27040,Writing,1.0,Author,Maya Deren
+27095,Writing,1.0,Writer,Julie Peyr
+27115,Writing,1.0,Screenplay,Lillie Hayward
+27116,Writing,1.0,Writer,Maria Pia Fusco
+27130,Writing,1.0,Screenplay,Ardel Wray
+27176,Writing,1.0,Screenplay,Jane Anderson
+27332,Writing,1.0,Novel,S.E. Hinton
+27447,Writing,1.0,Writer,Anne Wheeler
+27452,Writing,1.0,Novel,Ethel Lina White
+27475,Writing,1.0,Writer,Amy Holden Jones
+27495,Writing,1.0,Screenplay,Ann Kindberg
+27507,Writing,1.0,Writer,Elizabeth Meehan
+27523,Writing,1.0,Writer,Suso Cecchi d'Amico
+27573,Writing,1.0,Writer,Sarah Maur Thorp
+27583,Writing,1.0,Story,Jennifer Jason Leigh
+27586,Writing,1.0,Author,Cherie Currie
+27598,Writing,1.0,Novel,Astrid Lindgren
+27598,Writing,1.0,Screenplay,Astrid Lindgren
+27598,Writing,1.0,Writer,Astrid Lindgren
+27599,Writing,1.0,Novel,Astrid Lindgren
+27600,Writing,1.0,Screenplay,Astrid Lindgren
+27600,Writing,1.0,Novel,Astrid Lindgren
+27621,Writing,1.0,Novel,Deborah Gregory
+27646,Writing,1.0,Writer,Jace Anderson
+27681,Writing,1.0,Writer,Jessica Barondes
+27712,Writing,1.0,Writer,Tammi Sutton
+27764,Writing,1.0,Writer,Deborah Brock
+27767,Writing,1.0,Writer,Catherine Cyran
+27864,Writing,1.0,Writer,Diane English
+27973,Writing,1.0,Screenplay,Lillian Hellman
+27978,Writing,1.0,Story,George F. Slavin
+27989,Writing,1.0,Writer,Adrienne Shelly
+28005,Writing,1.0,Writer,Mira Nair
+28029,Writing,1.0,Writer,Pamela Gray
+28031,Writing,1.0,Writer,Sylvia Sichel
+28031,Writing,1.0,Writer,Anne Heche
+28031,Writing,1.0,Writer,Jane Anderson
+28031,Writing,1.0,Story,Sylvia Sichel
+28187,Writing,1.0,Adaptation,Sonya Levien
+28211,Writing,1.0,Author,Anne Fontaine
+28211,Writing,1.0,Screenplay,Erin Cressida Wilson
+28258,Writing,1.0,Writer,Frances Marion
+28288,Writing,1.0,Screenplay,Dorothy Yost
+28296,Writing,1.0,Novel,Edna L. Lee
+28299,Writing,1.0,Writer,Helen Deutsch
+28313,Writing,1.0,Screenplay,Naomi Foner Gyllenhaal
+28325,Writing,1.0,Screenplay,Maria Pia Fusco
+28423,Writing,1.0,Screenplay,Gertrude Purcell
+28438,Writing,1.0,Screenplay,Ardel Wray
+28446,Writing,1.0,Screenplay,Dorothy Tristan
+28480,Writing,1.0,Adaptation,Thea von Harbou
+28480,Writing,1.0,Writer,Thea von Harbou
+28575,Writing,1.0,Screenplay,Helen Deutsch
+28644,Writing,1.0,Screenplay,Claudia Llosa
+28665,Writing,1.0,Screenplay,Allison Burnett
+28682,Writing,1.0,Writer,Maria Pia Fusco
+28810,Writing,1.0,Writer,Virginia Van Upp
+28855,Writing,1.0,Screenplay,Yvonne Wilder
+28859,Writing,1.0,Screenplay,Maria Lease
+28859,Writing,1.0,Story,Maria Lease
+28969,Writing,1.0,Screenplay,Cindy Kelley
+29069,Writing,1.0,Writer,Stephanie Rothman
+29080,Writing,1.0,Screenplay,Amy Fox
+29094,Writing,1.0,Novel,Marie Belloc Lowndes
+29117,Writing,1.0,Novel,Charlotte Armstrong
+29134,Writing,1.0,Writer,Cherien Dabis
+29263,Writing,1.0,Screenplay,Aída Bortnik
+29267,Writing,1.0,Writer,Thea von Harbou
+29275,Writing,1.0,Writer,Marcela Guerty
+29380,Writing,1.0,Story,Frances Goodrich
+29380,Writing,1.0,Screenplay,Frances Goodrich
+29381,Writing,1.0,Screenplay,Virginia Kellogg
+29381,Writing,1.0,Story,Virginia Kellogg
+29449,Writing,1.0,Novel,Susannah York
+29458,Writing,1.0,Writer,Monica Zapelli
+29483,Writing,1.0,Screenplay,Rachel Ward
+29572,Writing,1.0,Writer,Sally Potter
+29698,Writing,1.0,Writer,Lynne Ramsay
+29786,Writing,1.0,Writer,Nancy Dowd
+29912,Writing,1.0,Adaptation,Gina Kaus
+29946,Writing,1.0,Writer,Ruth Prawer Jhabvala
+29963,Writing,1.0,Writer,Jane Campion
+29966,Writing,1.0,Screenplay,Lillie Hayward
+29989,Writing,1.0,Screenplay,Helen Crawley
+30019,Writing,1.0,Writer,Sara Johnsen
+30072,Writing,1.0,Screenplay,Laura Jones
+30112,Writing,1.0,Writer,Li Yu
+30131,Writing,1.0,Story,Janet Alcoriza
+30139,Writing,1.0,Writer,Nnegest Likké
+30177,Writing,1.0,Novel,Betty Smith
+30250,Writing,1.0,Writer,Sophie Barthes
+30253,Writing,1.0,Story,Bettina Oberli
+30348,Writing,1.0,Screenplay,Ardel Wray
+30547,Writing,1.0,Screenstory,Frances Marion
+30576,Writing,1.0,Screenplay,Astrid Lindgren
+30576,Writing,1.0,Author,Astrid Lindgren
+30583,Writing,1.0,Novel,Astrid Lindgren
+30592,Writing,1.0,Screenplay,Joyce Eliason
+30643,Writing,1.0,Screenplay,Sandra Weintraub
+30666,Writing,1.0,Characters,Carolyn Lefcourt
+30667,Writing,1.0,Screenplay,Catherine Cyran
+30688,Writing,1.0,Writer,Albertina Carri
+30708,Writing,1.0,Writer,Rita M. Fink
+30719,Writing,1.0,Writer,Marion Parsonnet
+30875,Writing,1.0,Story,Elisa Briganti
+30875,Writing,1.0,Screenplay,Elisa Briganti
+30885,Writing,1.0,Writer,Diana Daubeney
+30959,Writing,1.0,Screenplay,Yoko Mizuki
+31013,Writing,1.0,Writer,Annie DeYoung
+31167,Writing,1.0,Writer,Lillie Hayward
+31189,Writing,1.0,Writer,Ruba Nadda
+31216,Writing,1.0,Screenplay,Shamim Sarif
+31246,Writing,1.0,Writer,Kim Fuller
+31300,Writing,1.0,Writer,Sylvie Pialat
+31329,Writing,1.0,Writer,Agatha Christie
+31332,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+31342,Writing,1.0,Writer,Maria Maggenti
+31345,Writing,1.0,Writer,Arlette Langmann
+31347,Writing,1.0,Writer,Nanase Ohkawa
+31353,Writing,1.0,Idea,Danièle Thompson
+31353,Writing,1.0,Writer,Danièle Thompson
+31404,Writing,1.0,Writer,Wanda Tuchock
+31416,Writing,1.0,Screenplay,Frances Marion
+31432,Writing,1.0,Screenplay,June Mathis
+31445,Writing,1.0,Story,Mildred Cram
+31462,Writing,1.0,Story,Sharon Boorstin
+31506,Writing,1.0,Writer,Thea von Harbou
+31510,Writing,1.0,Author,Katherine Hilliker
+31510,Writing,1.0,Adaptation,June Mathis
+31515,Writing,1.0,Writer,Sandy Wilson
+31548,Writing,1.0,Novel,Edna Ferber
+31602,Writing,1.0,Writer,Lillian Hellman
+31640,Writing,1.0,Screenplay,Alison Cross
+31641,Writing,1.0,Screenplay,Karen Janszen
+31656,Writing,1.0,Screenplay,Joan Tewkesbury
+31657,Writing,1.0,Story,Nancy Dowd
+31667,Writing,1.0,Screenplay,Alma Reville
+31685,Writing,1.0,Screenplay,Sonya Levien
+31773,Writing,1.0,Screenplay,Maurine Dallas Watkins
+31896,Writing,1.0,Writer,Julie Davis
+31899,Writing,1.0,Screenplay,Lillie Hayward
+31923,Writing,1.0,Writer,Karen Leigh Hopkins
+31930,Writing,1.0,Scenario Writer,Alma Reville
+31962,Writing,1.0,Novel,Susan Isaacs
+31984,Writing,1.0,Screenplay,Edith Dell
+31988,Writing,1.0,Writer,Dorothy Parker
+31995,Writing,1.0,Novel,Daphne Du Maurier
+31995,Writing,1.0,Screenplay,Joan Harrison
+31997,Writing,1.0,Screenplay,Dorothy Parker
+31997,Writing,1.0,Screenplay,Joan Harrison
+32066,Writing,1.0,Dialogue,Elizabeth Montagu
+32078,Writing,1.0,Story,Edna Anhalt
+32130,Writing,1.0,Screenplay,Virginia Van Upp
+32208,Writing,1.0,Writer,Aída Bortnik
+32293,Writing,1.0,Writer,Alison Taylor
+32293,Writing,1.0,Author,Deborah Gregory
+32298,Writing,1.0,Writer,Maya Forbes
+32325,Writing,1.0,Writer,Allison Anders
+32330,Writing,1.0,Writer,Sara Parriott
+32330,Writing,1.0,Writer,Josann McGibbon
+32559,Writing,1.0,Writer,Katarzyna Roslaniec
+32590,Writing,1.0,Writer,Miranda July
+32593,Writing,1.0,Teleplay,Caroline Thompson
+32593,Writing,1.0,Teleplay,Julie Hickson
+32610,Writing,1.0,Screenplay,Kay Van Riper
+32622,Writing,1.0,Writer,Rebecca Miller
+32625,Writing,1.0,Writer,Rebecca Miller
+32856,Writing,1.0,Screenplay,Katherine Fugate
+32856,Writing,1.0,Writer,Abby Kohn
+32872,Writing,1.0,Writer,Winnie Holzman
+32924,Writing,1.0,Screenplay,Ann Louise Bardach
+32924,Writing,1.0,Story,Rachel Kronstadt Mann
+32924,Writing,1.0,Screenplay,Rachel Kronstadt Mann
+33031,Writing,1.0,Story,Virginia Van Upp
+33055,Writing,1.0,Writer,Gail Morgan Hickman
+33107,Writing,1.0,Screenplay,Jennifer Derwingson
+33194,Writing,1.0,Writer,Joan Chen
+33217,Writing,1.0,Screenplay,Jackie Filgo
+33258,Writing,1.0,Characters,Gloria Katz
+33280,Writing,1.0,Novel,Karin Fossum
+33324,Writing,1.0,Screenplay,Barbara Kopple
+33340,Writing,1.0,Writer,Margreth Olin
+33345,Writing,1.0,Screenplay,Becky Johnston
+33389,Writing,1.0,Theatre Play,Gina Kaus
+33394,Writing,1.0,Writer,Frances Hyland
+33407,Writing,1.0,Screenplay,Birgitte Bratseth
+33407,Writing,1.0,Novel,Anne-Cath. Vestly
+33436,Writing,1.0,Writer,Danièle Thompson
+33504,Writing,1.0,Writer,Verónica Fernández
+33575,Writing,1.0,Screenplay,Ruth Gordon
+33582,Writing,1.0,Writer,Regina Crosby
+33701,Writing,1.0,Writer,Marie-Anne Chazel
+33701,Writing,1.0,Writer,Josiane Balasko
+33783,Writing,1.0,Characters,Julia Sweeney
+33799,Writing,1.0,Writer,Nicole Garcia
+33809,Writing,1.0,Writer,Maren Ade
+33997,Writing,1.0,Scenario Writer,Sherry Hormann
+34013,Writing,1.0,Writer,Florence Vignon
+34061,Writing,1.0,Screenplay,Yaba Holst
+34148,Writing,1.0,Screenplay,Eleanore Griffin
+34152,Writing,1.0,Writer,Joie Lee
+34202,Writing,1.0,Teleplay,Tracy Tormé
+34204,Writing,1.0,Teleplay,Annie DeYoung
+34557,Writing,1.0,Screenplay,Jessica Sharzer
+34604,Writing,1.0,Writer,Judy Toll
+34671,Writing,1.0,Writer,Rita Buzzar
+34672,Writing,1.0,Writer,Anna McRoberts
+34729,Writing,1.0,Writer,Elizabeth Kruger
+34760,Writing,1.0,Writer,Marsha Norman
+34760,Writing,1.0,Screenplay,Marsha Norman
+34806,Writing,1.0,Writer,Kate Angelo
+34838,Writing,1.0,Writer,Sally Potter
+34942,Writing,1.0,Writer,Elana Lesser
+34977,Writing,1.0,Writer,Frances Goodrich
+35019,Writing,1.0,Screenplay,Emma Thompson
+35026,Writing,1.0,Screenplay,Sonja Shillito
+35032,Writing,1.0,Screenplay,Frances Goodrich
+35052,Writing,1.0,Screenplay,Jordan Scott
+35052,Writing,1.0,Screenplay,Caroline Ip
+35176,Writing,1.0,Screenstory,Dana Lustig
+35199,Writing,1.0,Writer,Christine O'Malley
+35203,Writing,1.0,Story,Nancy Savoca
+35203,Writing,1.0,Writer,Nancy Savoca
+35203,Writing,1.0,Writer,Susan Nanus
+35337,Writing,1.0,Writer,Clare Peploe
+35558,Writing,1.0,Teleplay,Annie DeYoung
+35656,Writing,1.0,Screenplay,Eve Pomerance
+35680,Writing,1.0,Screenplay,Jennifer Flackett
+35694,Writing,1.0,Writer,Nicole Burdette
+35796,Writing,1.0,Writer,Naomi Wallace
+35831,Writing,1.0,Writer,Danièle Thompson
+35896,Writing,1.0,Writer,Lenore J. Coffee
+36049,Writing,1.0,Writer,Alma Reville
+36105,Writing,1.0,Writer,Léa Pool
+36123,Writing,1.0,Writer,Toni Myers
+36124,Writing,1.0,Writer,Audrey Ewell
+36196,Writing,1.0,Screenplay,Daisy von Scherler Mayer
+36196,Writing,1.0,Story,Daisy von Scherler Mayer
+36249,Writing,1.0,Writer,Robin Schiff
+36257,Writing,1.0,Writer,Sherri Stoner
+36269,Writing,1.0,Writer,Karol Ann Hoeffner
+36281,Writing,1.0,Writer,Naomi Kawase
+36329,Writing,1.0,Writer,Park Chan-ok
+36335,Writing,1.0,Screenplay,Muriel Box
+36373,Writing,1.0,Scenario Writer,Thea von Harbou
+36392,Writing,1.0,Writer,Ilona Lepkowska
+36419,Writing,1.0,Writer,Agnieszka Wojtowicz-Vosloo
+36457,Writing,1.0,Writer,Marguerite Duras
+36513,Writing,1.0,Screenplay,Maurine Dallas Watkins
+36522,Writing,1.0,Writer,Ida Lupino
+36555,Writing,1.0,Screenplay,Deborah Scott
+36568,Writing,1.0,Screenplay,Laurie Craig
+36758,Writing,1.0,Screenplay,Laura Jones
+36826,Writing,1.0,Writer,Kathryn Bigelow
+36850,Writing,1.0,Writer,Elaine May
+36895,Writing,1.0,Writer,Naomi Kawase
+36956,Writing,1.0,Story,Doriana Leondeff
+37021,Writing,1.0,Original Story,Rumiko Takahashi
+37144,Writing,1.0,Writer,Pat Verducci
+37196,Writing,1.0,Writer,Lauren Mackenzie
+37206,Writing,1.0,Writer,Catherine Spear
+37238,Writing,1.0,Story,Pat Fielder
+37238,Writing,1.0,Screenplay,Pat Fielder
+37257,Writing,1.0,Novel,Agatha Christie
+37404,Writing,1.0,Writer,Jule Selbo
+37413,Writing,1.0,Novel,Mildred Gordon
+37413,Writing,1.0,Screenplay,Mildred Gordon
+37453,Writing,1.0,Writer,Anna Sandor
+37570,Writing,1.0,Writer,Ilksen Basarir
+37609,Writing,1.0,Writer,Alison Taylor
+37609,Writing,1.0,Author,Deborah Gregory
+37636,Writing,1.0,Writer,Lisa Cholodenko
+37661,Writing,1.0,Writer,Nora Kay Foster
+37707,Writing,1.0,Screenplay,Antoinette Terry Bryant
+37920,Writing,1.0,Writer,Éva Gárdos
+37922,Writing,1.0,Writer,Jocelyn Moorhouse
+37938,Writing,1.0,Novel,Lois Duncan
+37969,Writing,1.0,Novel,Sheila Burnford
+38017,Writing,1.0,Screenplay,Shelley Miller
+38033,Writing,1.0,Writer,Diana Erwin
+38054,Writing,1.0,Screenplay,Pang Eun-jin
+38151,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+38167,Writing,1.0,Screenplay,Jennifer Salt
+38223,Writing,1.0,Screenplay,Theresa Rebeck
+38303,Writing,1.0,Writer,Moe Jelline
+38376,Writing,1.0,Writer,Anne Fontaine
+38399,Writing,1.0,Scenario Writer,Isabelle Vitari
+38408,Writing,1.0,Writer,Kristin Rusk Robinson
+38509,Writing,1.0,Writer,Theresa Connelly
+38517,Writing,1.0,Writer,Camille Thomasson
+38548,Writing,1.0,Writer,Margaret Cho
+38638,Writing,1.0,Writer,Maya Deren
+38684,Writing,1.0,Screenplay,Moira Buffini
+38684,Writing,1.0,Novel,Charlotte Brontë
+38782,Writing,1.0,Writer,Rosemary Anne Sisson
+38811,Writing,1.0,Adaptation,Janet Alcoriza
+38843,Writing,1.0,Screenplay,Laurie Craig
+38867,Writing,1.0,Novel,Anaïs Nin
+38879,Writing,1.0,Writer,Agnès Varda
+38880,Writing,1.0,Writer,Justine Shapiro
+38904,Writing,1.0,Writer,Eileen Atkins
+38916,Writing,1.0,Writer,Laurie Craig
+38922,Writing,1.0,Writer,Anne Bancroft
+38961,Writing,1.0,Screenplay,Moira Buffini
+38967,Writing,1.0,Writer,Annie Korzen
+38981,Writing,1.0,Writer,Jane Bernstein
+38981,Writing,1.0,Writer,Linda Feferman
+39013,Writing,1.0,Screenplay,Debra Granik
+39013,Writing,1.0,Screenplay,Anne Rosellini
+39042,Writing,1.0,Writer,Linda Morris
+39056,Writing,1.0,Story,Ayako Fujitani
+39125,Writing,1.0,Writer,Marie Noëlle
+39130,Writing,1.0,Theatre Play,Edna Ferber
+39130,Writing,1.0,Writer,Frances Marion
+39177,Writing,1.0,Screenplay,Christine Miller
+39177,Writing,1.0,Story,Christine Miller
+39197,Writing,1.0,Screenplay,Beth Henley
+39210,Writing,1.0,Writer,Sofia Coppola
+39225,Writing,1.0,Story,Gwen Bagni
+39225,Writing,1.0,Screenplay,Gwen Bagni
+39266,Writing,1.0,Screenplay,Leni Riefenstahl
+39285,Writing,1.0,Novel,Daniella Brodsky
+39334,Writing,1.0,Writer,Claudia Allen
+39391,Writing,1.0,Writer,Gypsy Rose Lee
+39415,Writing,1.0,Scenario Writer,Arlette Langmann
+39415,Writing,1.0,Adaptation,Arlette Langmann
+39437,Writing,1.0,Writer,Akosua Busia
+39472,Writing,1.0,Writer,Carole Eastman
+39503,Writing,1.0,Screenplay,Valerie Curtin
+39770,Writing,1.0,Writer,Catherine Breillat
+39780,Writing,1.0,Screenplay,Laura Jones
+39933,Writing,1.0,Writer,Emily Abt
+39938,Writing,1.0,Screenplay,Sarah Y. Mason
+39938,Writing,1.0,Novel,Louisa May Alcott
+39958,Writing,1.0,Writer,Naomi Wallace
+39965,Writing,1.0,Story,Maria Pia Fusco
+39965,Writing,1.0,Screenplay,Maria Pia Fusco
+39991,Writing,1.0,Writer,Elisa Briganti
+40039,Writing,1.0,Screenplay,Jace Anderson
+40080,Writing,1.0,Writer,Holly Brix
+40082,Writing,1.0,Writer,Cynthia Cidre
+40161,Writing,1.0,Writer,Sally Phillips
+40161,Writing,1.0,Story,Sally Phillips
+40205,Writing,1.0,Writer,Annie DeYoung
+40220,Writing,1.0,Screenplay,Suzanna Love
+40247,Writing,1.0,Writer,Nicole Holofcener
+40352,Writing,1.0,Screenplay,Elisa Briganti
+40352,Writing,1.0,Story,Elisa Briganti
+40394,Writing,1.0,Writer,Maria Pia Fusco
+40466,Writing,1.0,Screenplay,Jace Anderson
+40562,Writing,1.0,Screenplay,Lisa Krueger
+40594,Writing,1.0,Screenplay,Julia Sweeney
+40599,Writing,1.0,Writer,Laura Pratt
+40627,Writing,1.0,Screenplay,Agnès Jaoui
+40627,Writing,1.0,Writer,Agnès Jaoui
+40685,Writing,1.0,Screenplay,Gertrude Purcell
+40685,Writing,1.0,Screenplay,Frances Hyland
+40719,Writing,1.0,Screenplay,Eleanore Griffin
+40723,Writing,1.0,Writer,Claire Denis
+40760,Writing,1.0,Writer,Carol Frank
+40767,Writing,1.0,Writer,Sally Benson
+40771,Writing,1.0,Writer,Carol Watson
+40775,Writing,1.0,Screenplay,Ruth Prawer Jhabvala
+40876,Writing,1.0,Writer,Debra Granik
+41018,Writing,1.0,Novel,Marie Belloc Lowndes
+41025,Writing,1.0,Writer,Elinor Karpf
+41073,Writing,1.0,Novel,Magdalen King-Hall
+41116,Writing,1.0,Writer,Naomi Klein
+41123,Writing,1.0,Writer,Jessica Hausner
+41128,Writing,1.0,Writer,Terri Treas
+41180,Writing,1.0,Writer,Suzanne Martin
+41206,Writing,1.0,Writer,Ruth Gordon
+41228,Writing,1.0,Writer,Božena Němcová
+41233,Writing,1.0,Writer,Emily Meyer
+41233,Writing,1.0,Writer,Amy Andelson
+41248,Writing,1.0,Screenplay,Odile Barski
+41272,Writing,1.0,Writer,Natalia Smirnoff
+41281,Writing,1.0,Writer,Janeen Damian
+41291,Writing,1.0,Writer,Luana Anders
+41371,Writing,1.0,Writer,Naomi L. Selfman
+41462,Writing,1.0,Screenplay,Ida Lupino
+41499,Writing,1.0,Adaptation,Catherine Breillat
+41517,Writing,1.0,Writer,Kanika Dhillon
+41517,Writing,1.0,Screenplay,Kanika Dhillon
+41551,Writing,1.0,Writer,Lillie Hayward
+41556,Writing,1.0,Writer,Galt Niederhoffer
+41556,Writing,1.0,Novel,Galt Niederhoffer
+41592,Writing,1.0,Writer,Jane English
+41630,Writing,1.0,Story,Elizabeth Meriwether
+41630,Writing,1.0,Screenplay,Elizabeth Meriwether
+41689,Writing,1.0,Author,Magda Szabó
+41776,Writing,1.0,Writer,Delia Ephron
+41801,Writing,1.0,Writer,Julie Hébert
+41801,Writing,1.0,Writer,Susan Streitfeld
+41831,Writing,1.0,Screenplay,Catherine Cyran
+41843,Writing,1.0,Screenplay,Ruth Prawer Jhabvala
+41843,Writing,1.0,Book,Arianna Huffington
+41872,Writing,1.0,Writer,Christa Lang
+41930,Writing,1.0,Screenplay,Arlette Langmann
+41939,Writing,1.0,Novel,Yaeko Nogami
+41951,Writing,1.0,Writer,Claire Denis
+42053,Writing,1.0,Writer,Amy Krell
+42057,Writing,1.0,Screenplay,Gurinder Chadha
+42108,Writing,1.0,Writer,Diane Kurys
+42115,Writing,1.0,Writer,Euzhan Palcy
+42142,Writing,1.0,Writer,Margarethe von Trotta
+42173,Writing,1.0,Screenplay,Joan Micklin Silver
+42175,Writing,1.0,Screenplay,Ruth Prawer Jhabvala
+42176,Writing,1.0,Screenplay,Gail Parent
+42222,Writing,1.0,Book,Lillian Hellman
+42226,Writing,1.0,Writer,Margarethe von Trotta
+42257,Writing,1.0,Screenplay,Joan Micklin Silver
+42332,Writing,1.0,Teleplay,Debra Frank
+42390,Writing,1.0,Writer,Eleanore Griffin
+42468,Writing,1.0,Writer,Jennifer Jayne
+42512,Writing,1.0,Writer,Thea von Harbou
+42548,Writing,1.0,Writer,Jane English
+42553,Writing,1.0,Writer,Anita Loos
+42554,Writing,1.0,Writer,Christine Conradt
+42614,Writing,1.0,Story,Josephine Lovett
+42635,Writing,1.0,Writer,Margaret Laurence
+42701,Writing,1.0,Screenplay,Carole Eastman
+42732,Writing,1.0,Story,Doris Wishman
+42732,Writing,1.0,Screenplay,Doris Wishman
+42797,Writing,1.0,Screenplay,Helen Deutsch
+42812,Writing,1.0,Screenplay,Frances Marion
+42816,Writing,1.0,Writer,Frances Marion
+42819,Writing,1.0,Screenplay,Ruth Prawer Jhabvala
+42861,Writing,1.0,Novel,Edna Ferber
+42973,Writing,1.0,Screenplay,Caroline Bottaro
+42983,Writing,1.0,Writer,Agnieszka Holland
+42995,Writing,1.0,Screenplay,Mildred Gordon
+42995,Writing,1.0,Novel,Mildred Gordon
+43003,Writing,1.0,Writer,Oja Kodar
+43017,Writing,1.0,Screenplay,Eleanore Griffin
+43018,Writing,1.0,Writer,Ruth Brooks Flippen
+43030,Writing,1.0,Screenplay,Lenore J. Coffee
+43074,Writing,1.0,Screenplay,Katie Dippold
+43112,Writing,1.0,Screenplay,Shelley Smith
+43167,Writing,1.0,Screenplay,Agnes Christine Johnston
+43195,Writing,1.0,Story,Suso Cecchi d'Amico
+43195,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+43231,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+43256,Writing,1.0,Writer,Jean Rouverol
+43307,Writing,1.0,Story,Elizabeth von Arnim
+43316,Writing,1.0,Story,Edna L. Lee
+43318,Writing,1.0,Writer,Sonya Levien
+43340,Writing,1.0,Screenplay,Lenore J. Coffee
+43345,Writing,1.0,Screenplay,Aída Bortnik
+43350,Writing,1.0,Screenplay,Helen Deutsch
+43362,Writing,1.0,Screenplay,Ruth Brooks Flippen
+43372,Writing,1.0,Writer,Suso Cecchi d'Amico
+43379,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+43388,Writing,1.0,Screenplay,Helen Deutsch
+43394,Writing,1.0,Screenplay,Gina Kaus
+43436,Writing,1.0,Screenplay,Sarah Y. Mason
+43436,Writing,1.0,Novel,Louisa May Alcott
+43451,Writing,1.0,Screenplay,Frances Goodrich
+43455,Writing,1.0,Screenplay,Helen Deutsch
+43471,Writing,1.0,Screenplay,Sally Benson
+43491,Writing,1.0,Story,Sonya Levien
+43495,Writing,1.0,Writer,Muriel Box
+43529,Writing,1.0,Screenplay,Sarah Y. Mason
+43597,Writing,1.0,Screenplay,Lillie Hayward
+43610,Writing,1.0,Screenplay,Sonya Levien
+43612,Writing,1.0,Scenario Writer,Florence Quentin
+43619,Writing,1.0,Screenplay,Catherine Corsini
+43634,Writing,1.0,Writer,Stacy Cochran
+43664,Writing,1.0,Writer,Melissa Martin
+43705,Writing,1.0,Screenplay,Lenore J. Coffee
+43719,Writing,1.0,Screenplay,Sarah Williams
+43719,Writing,1.0,Screenplay,Paula Milne
+43739,Writing,1.0,Story,Mildred Cram
+43740,Writing,1.0,Writer,Lynn Roth
+43790,Writing,1.0,Screenplay,Elaine Ryan
+43792,Writing,1.0,Screenplay,Kay Van Riper
+43793,Writing,1.0,Writer,Agnes Christine Johnston
+43795,Writing,1.0,Story,Martha Cheavens
+43802,Writing,1.0,Screenplay,Lillian Hellman
+43802,Writing,1.0,Theatre Play,Lillian Hellman
+43808,Writing,1.0,Writer,Annalee Whitmore
+43818,Writing,1.0,Novel,Jane Austen
+43828,Writing,1.0,Screenplay,Gertrude Purcell
+43849,Writing,1.0,Screenplay,Dorothy Parker
+43865,Writing,1.0,Screenplay,Sarah Y. Mason
+43866,Writing,1.0,Screenplay,Frances Goodrich
+43874,Writing,1.0,Screenplay,Frances Marion
+43880,Writing,1.0,Screenplay,Frances Goodrich
+43881,Writing,1.0,Screenplay,Anita Loos
+43886,Writing,1.0,Screenplay,Dorothy Yost
+43894,Writing,1.0,Screenplay,Frances Goodrich
+43923,Writing,1.0,Screenplay,Anna Boden
+43959,Writing,1.0,Screenplay,Deborah Schwartz
+44001,Writing,1.0,Novel,Ethel Lina White
+44012,Writing,1.0,Writer,Chantal Akerman
+44018,Writing,1.0,Writer,Agnès Varda
+44047,Writing,1.0,Writer,Melissa Painter
+44049,Writing,1.0,Writer,Lynne Renew
+44081,Writing,1.0,Screenplay,Rakhshan Bani-Etemad
+44297,Writing,1.0,Writer,Clare Peploe
+44349,Writing,1.0,Story,Beth Polson
+44379,Writing,1.0,Writer,Agnès Varda
+44439,Writing,1.0,Scenario Writer,Frances Marion
+44445,Writing,1.0,Writer,Maya Deren
+44465,Writing,1.0,Writer,Amy Holden Jones
+44472,Writing,1.0,Writer,Andrea Arnold
+44661,Writing,1.0,Writer,Diane Fine
+44874,Writing,1.0,Writer,Elise Allen
+44900,Writing,1.0,Screenplay,Heather Conkie
+44900,Writing,1.0,Screenplay,Mary Walsh
+44902,Writing,1.0,Screenplay,Lenore J. Coffee
+44919,Writing,1.0,Novel,Edith Wharton
+44966,Writing,1.0,Screenplay,Katie Aselton
+44990,Writing,1.0,Screenplay,Zoe Lister-Jones
+44991,Writing,1.0,Writer,Marja Lewis Ryan
+44992,Writing,1.0,Writer,Toni Myers
+45019,Writing,1.0,Writer,Carol Doyle
+45094,Writing,1.0,Writer,Pamela Gray
+45094,Writing,1.0,Screenplay,Pamela Gray
+45129,Writing,1.0,Story,Mira Nair
+45136,Writing,1.0,Screenplay,Eleanore Griffin
+45153,Writing,1.0,Writer,Kasi Lemmons
+45156,Writing,1.0,Writer,Gren Wells
+45174,Writing,1.0,Writer,Jane Weinstock
+45515,Writing,1.0,Writer,Odile Barski
+45595,Writing,1.0,Screenplay,Rula Jebreal
+45693,Writing,1.0,Writer,Jessica Barondes
+45757,Writing,1.0,Screenplay,Cindy Kelley
+45800,Writing,1.0,Writer,Anita Loos
+45806,Writing,1.0,Screenplay,Urszula Antoniak
+45817,Writing,1.0,Writer,Gladys Hill
+45840,Writing,1.0,Writer,Valerie Curtin
+45862,Writing,1.0,Writer,Kathy Mackel
+45881,Writing,1.0,Writer,Mary McGuckian
+45935,Writing,1.0,Writer,Chu Tien-Wen
+45971,Writing,1.0,Screenplay,Virginia Van Upp
+45999,Writing,1.0,Writer,Chu Tien-Wen
+46195,Writing,1.0,Screenplay,Jennifer Ventimilia
+46203,Writing,1.0,Writer,Kay Mellor
+46203,Writing,1.0,Novel,Charlotte Brontë
+46207,Writing,1.0,Screenplay,Marie N'Diaye
+46207,Writing,1.0,Screenplay,Claire Denis
+46226,Writing,1.0,Writer,Clara Law
+46228,Writing,1.0,Screenplay,Jennifer Deyell
+46315,Writing,1.0,Screenplay,Ester Krumbachová
+46368,Writing,1.0,Screenplay,Marilee A. Benson
+46368,Writing,1.0,Screenplay,Lori Chavez
+46458,Writing,1.0,Writer,Isabel Coixet
+46466,Writing,1.0,Writer,Diane Kurys
+46492,Writing,1.0,Adaptation,Yoko Mizuki
+46492,Writing,1.0,Writer,Yoko Mizuki
+46529,Writing,1.0,Screenplay,Marti Noxon
+46541,Writing,1.0,Writer,Megan Brown
+46563,Writing,1.0,Novel,Edna Ferber
+46623,Writing,1.0,Novel,Edna Ferber
+46661,Writing,1.0,Writer,Margaret Nagle
+46665,Writing,1.0,Writer,Barbara Marshall
+46686,Writing,1.0,Writer,Suzanne Fenn
+46689,Writing,1.0,Screenplay,Lucy Walker
+46695,Writing,1.0,Writer,Jody Savin
+46702,Writing,1.0,Writer,Tina Andrews
+46820,Writing,1.0,Writer,Claudia Llosa
+46919,Writing,1.0,Screenplay,Ester Krumbachová
+46919,Writing,1.0,Story,Věra Chytilová
+46919,Writing,1.0,Screenplay,Věra Chytilová
+46930,Writing,1.0,Writer,Kadri Kõusaar
+46979,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+46989,Writing,1.0,Writer,Karen Moncrieff
+47007,Writing,1.0,Writer,Paz Alicia Garciadiego
+47065,Writing,1.0,Writer,Cynthia Curnan
+47119,Writing,1.0,Scenario Writer,Sylvie Pialat
+47140,Writing,1.0,Writer,Daniela Thomas
+47143,Writing,1.0,Writer,Claire Denis
+47250,Writing,1.0,Dialogue,Frances Marion
+47250,Writing,1.0,Story,Frances Marion
+47282,Writing,1.0,Adaptation,Christine Edzard
+47288,Writing,1.0,Screenplay,Jacqueline Feather
+47333,Writing,1.0,Novel,Charlotte Brontë
+47430,Writing,1.0,Writer,Agnieszka Holland
+47434,Writing,1.0,Writer,Chantal Akerman
+47493,Writing,1.0,Writer,Agnieszka Holland
+47525,Writing,1.0,Screenplay,Camille Thomasson
+47535,Writing,1.0,Writer,Gwyneth Hughes
+47536,Writing,1.0,Screenplay,Maria Pia Fusco
+47559,Writing,1.0,Writer,Ann Peacock
+47571,Writing,1.0,Writer,Sonya Levien
+47607,Writing,1.0,Writer,Lena Dunham
+47608,Writing,1.0,Writer,Paula Milne
+47626,Writing,1.0,Writer,Cressida Cowell
+47655,Writing,1.0,Writer,Jennifer Chambers Lynch
+47695,Writing,1.0,Writer,Alma Reville
+47736,Writing,1.0,Writer,Sotiria Leonardou
+47841,Writing,1.0,Writer,So Yong Kim
+47866,Writing,1.0,Screenplay,Allison Anders
+47874,Writing,1.0,Writer,Nancy Meyers
+47920,Writing,1.0,Screenplay,Sarah Y. Mason
+47939,Writing,1.0,Story,Ellen Greene
+47939,Writing,1.0,Screenplay,Elizabeth Anderson
+48127,Writing,1.0,Screenplay,Lillian Hellman
+48127,Writing,1.0,Story,Lillian Hellman
+48216,Writing,1.0,Writer,Danièle Thompson
+48259,Writing,1.0,Screenplay,Beth Henley
+48281,Writing,1.0,Writer,Elena Krupp
+48289,Writing,1.0,Screenplay,Jane Goldman
+48598,Writing,1.0,Writer,Barbara Albert
+48601,Writing,1.0,Writer,Emmanuelle Bercot
+48678,Writing,1.0,Novel,Barbara Gowdy
+48678,Writing,1.0,Writer,Esta Spalding
+48833,Writing,1.0,Writer,Tanya Hamilton
+48844,Writing,1.0,Writer,Anna McRoberts
+48862,Writing,1.0,Writer,Helen Caldwell
+48871,Writing,1.0,Original Story,Angela Mancuso
+48992,Writing,1.0,Writer,Darnell Martin
+48994,Writing,1.0,Story,Dorothy Parker
+49022,Writing,1.0,Writer,Jennie Snyder Urman
+49051,Writing,1.0,Screenplay,Fran Walsh
+49051,Writing,1.0,Screenplay,Philippa Boyens
+49060,Writing,1.0,Writer,Jennifer Salt
+49070,Writing,1.0,Writer,Belle Avery
+49167,Writing,1.0,Writer,Nathalie Saugeon
+49350,Writing,1.0,Screenplay,Alexandra Clarke
+49350,Writing,1.0,Screenplay,Heather Conkie
+49367,Writing,1.0,Screenplay,Patrícia Andrade
+49446,Writing,1.0,Writer,Stella Schnabel
+49517,Writing,1.0,Screenplay,Bridget O'Connor
+49522,Writing,1.0,Writer,Debbie Isitt
+49538,Writing,1.0,Writer,Jane Goldman
+49633,Writing,1.0,Story,Jeanie Macpherson
+49671,Writing,1.0,Writer,Sharon Wood
+49709,Writing,1.0,Writer,Marie-Jose Sanselme
+49721,Writing,1.0,Writer,Pip Karmel
+49722,Writing,1.0,Writer,Valérie Beaugrand-Champagne
+49733,Writing,1.0,Writer,Claire McCarthy
+49782,Writing,1.0,Writer,Mai Zetterling
+49803,Writing,1.0,Screenplay,Deena Goldstone
+49853,Writing,1.0,Screenplay,Ruth Toma
+49863,Writing,1.0,Writer,Sally Benson
+49920,Writing,1.0,Writer,Rosemary Rodriguez
+49963,Writing,1.0,Author,Nicole Holofcener
+49980,Writing,1.0,Writer,Rona Munro
+49982,Writing,1.0,Writer,Chu Tien-Wen
+50001,Writing,1.0,Novel,Gypsy Rose Lee
+50035,Writing,1.0,Writer,Nicole Holofcener
+50043,Writing,1.0,Screenplay,Lynn Siefert
+50183,Writing,1.0,Writer,Larisa Shepitko
+50217,Writing,1.0,Writer,Fina Torres
+50271,Writing,1.0,Adaptation,Anita Loos
+50299,Writing,1.0,Teleplay,Ann Peacock
+50435,Writing,1.0,Writer,Catherine Breillat
+50454,Writing,1.0,Screenplay,Brittany Wiscombe
+50463,Writing,1.0,Writer,Sara Parriott
+50463,Writing,1.0,Writer,Josann McGibbon
+50506,Writing,1.0,Novel,Debbie Macomber
+50573,Writing,1.0,Writer,Jessica Barondes
+50619,Writing,1.0,Screenplay,Melissa Rosenberg
+50620,Writing,1.0,Screenplay,Melissa Rosenberg
+50674,Writing,1.0,Teleplay,Diane Duane
+50674,Writing,1.0,Teleplay,Bev Doyle
+50700,Writing,1.0,Writer,Cathy Randall
+50725,Writing,1.0,Screenplay,Jackie Filgo
+50812,Writing,1.0,Screenplay,Valerie Curtin
+50977,Writing,1.0,Writer,Doris Wishman
+51167,Writing,1.0,Writer,Meredith Morton
+51167,Writing,1.0,Writer,Marissa Ribisi
+51394,Writing,1.0,Novel,Grace Perkins
+51413,Writing,1.0,Screenplay,Roxana Saberi
+51423,Writing,1.0,Writer,Pernilla August
+51481,Writing,1.0,Writer,Elana Lesser
+51481,Writing,1.0,Screenplay,Allison Schroeder
+51481,Writing,1.0,Screenplay,Elana Lesser
+51512,Writing,1.0,Screenplay,Kellie Madison
+51521,Writing,1.0,Writer,Leslie Ray
+51588,Writing,1.0,Writer,Katie Wech
+51800,Writing,1.0,Screenplay,Judy Kellem
+51876,Writing,1.0,Screenplay,Leslie Dixon
+51980,Writing,1.0,Screenplay,Arlette Langmann
+51996,Writing,1.0,Writer,Jill Sprecher
+52035,Writing,1.0,Writer,Anita Loos
+52036,Writing,1.0,Writer,Neve Campbell
+52060,Writing,1.0,Writer,Aury Wallington
+52077,Writing,1.0,Writer,Yaël Boon
+52116,Writing,1.0,Writer,Cornelia Funke
+52239,Writing,1.0,Writer,Lenore J. Coffee
+52251,Writing,1.0,Writer,Jessica Hausner
+52270,Writing,1.0,Screenplay,Elizabeth Reinhardt
+52286,Writing,1.0,Writer,Danièle Thompson
+52355,Writing,1.0,Writer,Josephine Lovett
+52358,Writing,1.0,Screenplay,Lenore J. Coffee
+52358,Writing,1.0,Screenplay,Dorothy Parker
+52415,Writing,1.0,Screenplay,Lee Kyoung-mi
+52429,Writing,1.0,Story,Mary McCarthy
+52454,Writing,1.0,Screenplay,Naomi L. Selfman
+52461,Writing,1.0,Writer,Carrie Fisher
+52517,Writing,1.0,Screenplay,Sonya Levien
+52520,Writing,1.0,Screenplay,Allison Burnett
+52748,Writing,1.0,Writer,Alma Reville
+52782,Writing,1.0,Screenplay,Constance Collier
+52805,Writing,1.0,Writer,Lee Rose
+52827,Writing,1.0,Screenplay,Dorothy Yost
+52912,Writing,1.0,Screenplay,Elisa Briganti
+52925,Writing,1.0,Writer,Susan Nanus
+52999,Writing,1.0,Screenplay,Nicole Garcia
+53021,Writing,1.0,Writer,Anna Bonacci
+53023,Writing,1.0,Writer,Agnès Varda
+53033,Writing,1.0,Writer,Sarah Williams
+53049,Writing,1.0,Writer,Nicole Conn
+53061,Writing,1.0,Story,Jill Gatsby
+53100,Writing,1.0,Screenplay,Famke Janssen
+53187,Writing,1.0,Screenplay,Pat Fielder
+53198,Writing,1.0,Writer,Suso Cecchi d'Amico
+53209,Writing,1.0,Adaptation,Agnes Christine Johnston
+53244,Writing,1.0,Writer,Catherine Breillat
+53387,Writing,1.0,Writer,Mabel Normand
+53445,Writing,1.0,Writer,Samantha Morton
+53503,Writing,1.0,Novel,Katariina Souri
+53522,Writing,1.0,Story,Agnes Christine Johnston
+53761,Writing,1.0,Writer,Jeanie Macpherson
+53772,Writing,1.0,Writer,Jeanie Macpherson
+53864,Writing,1.0,Screenplay,Lenore J. Coffee
+53914,Writing,1.0,Screenplay,Piera Degli Esposti
+53949,Writing,1.0,Screenplay,Pat Fielder
+54040,Writing,1.0,Writer,Shari Springer Berman
+54054,Writing,1.0,Novel,Janet Evanovich
+54054,Writing,1.0,Screenplay,Karen Ray
+54054,Writing,1.0,Screenplay,Liz Brixius
+54064,Writing,1.0,Novel,Anne Wiazemsky
+54186,Writing,1.0,Writer,Kanae Minato
+54380,Writing,1.0,Writer,Maria de Medeiros
+54436,Writing,1.0,Writer,Agnès Varda
+54505,Writing,1.0,Writer,Joan Huntington
+54507,Writing,1.0,Novel,J.K. Rowling
+54569,Writing,1.0,Story,Lillian Hellman
+54569,Writing,1.0,Screenplay,Lillian Hellman
+54635,Writing,1.0,Screenplay,Anita Loos
+54635,Writing,1.0,Theatre Play,Rachel Crothers
+54648,Writing,1.0,Screenplay,Rachel Koretsky
+54653,Writing,1.0,Screenplay,Krissann Shipley
+54655,Writing,1.0,Writer,Gina Wendkos
+54658,Writing,1.0,Writer,Barra Grant
+54662,Writing,1.0,Screenplay,Miranda July
+54933,Writing,1.0,Screenplay,Polly Platt
+54982,Writing,1.0,Teleplay,Shonda Rhimes
+55061,Writing,1.0,Screenplay,Cheryl Edwards
+55086,Writing,1.0,Screenplay,Lenore J. Coffee
+55107,Writing,1.0,Screenplay,Laurence Ferreira Barbosa
+55321,Writing,1.0,Screenplay,Frances Goodrich
+55321,Writing,1.0,Theatre Play,Frances Goodrich
+55420,Writing,1.0,Writer,Brit Marling
+55448,Writing,1.0,Screenplay,Carol Sobieski
+55536,Writing,1.0,Writer,Thea von Harbou
+55562,Writing,1.0,Writer,Margarethe von Trotta
+55587,Writing,1.0,Screenplay,Thea von Harbou
+55587,Writing,1.0,Adaptation,Thea von Harbou
+55721,Writing,1.0,Screenplay,Annie Mumolo
+55721,Writing,1.0,Screenplay,Kristen Wiig
+55730,Writing,1.0,Writer,Stacy Cochran
+55909,Writing,1.0,Writer,Tina Pine
+55931,Writing,1.0,Screenplay,Lana Wachowski
+55931,Writing,1.0,Screenplay,Lilly Wachowski
+56109,Writing,1.0,Teleplay,Ethlie Ann Vare
+56142,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+56195,Writing,1.0,Writer,Maria Jacquemetton
+56214,Writing,1.0,Writer,Margaret Cho
+56401,Writing,1.0,Screenplay,Gwyn Lurie
+56405,Writing,1.0,Writer,Ghalia Lacroix
+56491,Writing,1.0,Screenplay,Anna Lorenzo
+56491,Writing,1.0,Screenplay,Paula Goldberg
+56552,Writing,1.0,Writer,Camille Thomasson
+56653,Writing,1.0,Writer,Sophie Fillières
+56780,Writing,1.0,Novel,Ayn Rand
+56919,Writing,1.0,Writer,Nuran Evren Sit
+56968,Writing,1.0,Writer,Pam Davis
+57052,Writing,1.0,Writer,Doriana Leondeff
+57091,Writing,1.0,Writer,Kathleen O'Rourke
+57119,Writing,1.0,Screenplay,Elizabeth Hunter
+57119,Writing,1.0,Screenplay,Arlene Gibbs
+57157,Writing,1.0,Screenplay,Diablo Cody
+57158,Writing,1.0,Screenplay,Fran Walsh
+57158,Writing,1.0,Screenplay,Philippa Boyens
+57241,Writing,1.0,Writer,Sara Johnsen
+57412,Writing,1.0,Adaptation,Constance Collier
+57438,Writing,1.0,Writer,Liv Ullmann
+57489,Writing,1.0,Writer,Julia Solomonoff
+57500,Writing,1.0,Writer,Tove Jansson
+57684,Writing,1.0,Story,Maurine Dallas Watkins
+57725,Writing,1.0,Writer,Melissa Mathison
+57812,Writing,1.0,Writer,Lucy Mukerjee-Brown
+57825,Writing,1.0,Writer,Gurinder Chadha
+57825,Writing,1.0,Novel,Jane Austen
+57834,Writing,1.0,Screenplay,Rama Laurie Stagner
+57834,Writing,1.0,Story,Rama Laurie Stagner
+57834,Writing,1.0,Screenplay,Arlene Sarner
+57946,Writing,1.0,Writer,Margaret Cho
+58011,Writing,1.0,Writer,Suso Cecchi d'Amico
+58012,Writing,1.0,Screenplay,Jeanie Macpherson
+58151,Writing,1.0,Screenplay,Marti Noxon
+58431,Writing,1.0,Characters,Jane Austen
+58493,Writing,1.0,Writer,Jennifer Arnold
+58559,Writing,1.0,Screenplay,Sylvie Verheyde
+58669,Writing,1.0,Writer,Holly Goldberg Sloan
+58985,Writing,1.0,Writer,Allison Anders
+59017,Writing,1.0,Novel,J.K. Rowling
+59143,Writing,1.0,Writer,Elaine May
+59181,Writing,1.0,Screenplay,Cheri Caffaro
+59191,Writing,1.0,Writer,Elizabeth Chandler
+59314,Writing,1.0,Writer,Janet Peoples
+59390,Writing,1.0,Writer,Carole Eastman
+59435,Writing,1.0,Screenplay,Pamela Falk
+59484,Writing,1.0,Scenario Writer,Suzanne Schiffman
+59484,Writing,1.0,Writer,Suzanne Schiffman
+59484,Writing,1.0,Writer,Bulle Ogier
+59484,Writing,1.0,Scenario Writer,Bulle Ogier
+59585,Writing,1.0,Writer,Barbara Benedek
+59722,Writing,1.0,Writer,Victoria Dadi
+59835,Writing,1.0,Story,Ángela Nieto
+59860,Writing,1.0,Screenplay,April Blair
+59860,Writing,1.0,Screenplay,Maria Maggenti
+59861,Writing,1.0,Screenplay,Nia Vardalos
+59861,Writing,1.0,Writer,Nia Vardalos
+59883,Writing,1.0,Writer,Anne K. Black
+59968,Writing,1.0,Screenplay,Evgenia Peretz
+59968,Writing,1.0,Story,Evgenia Peretz
+60190,Writing,1.0,Writer,Rossella Drudi
+60194,Writing,1.0,Writer,Danièle Thompson
+60270,Writing,1.0,Screenplay,Felicity Price
+60421,Writing,1.0,Screenplay,Maryam Keshavarz
+60489,Writing,1.0,Writer,Pamela K. Long
+60539,Writing,1.0,Story,Kay Lenard
+60587,Writing,1.0,Writer,Marsha Norman
+60629,Writing,1.0,Story,Dolly Parton
+60662,Writing,1.0,Writer,Susan Cuscuna
+60695,Writing,1.0,Teleplay,Jennifer Heath
+60760,Writing,1.0,Screenplay,Odile Barski
+60825,Writing,1.0,Teleplay,Maryedith Burrell
+60994,Writing,1.0,Writer,Audrey Wells
+61222,Writing,1.0,Writer,Ursula Meier
+61294,Writing,1.0,Writer,Shawn Schepps
+61430,Writing,1.0,Story,Virginia Van Upp
+61546,Writing,1.0,Writer,Lenore J. Coffee
+61559,Writing,1.0,Writer,Ruba Nadda
+61560,Writing,1.0,Writer,Agnès Jaoui
+61580,Writing,1.0,Writer,Katarzyna Roslaniec
+61730,Writing,1.0,Writer,Sook-Yin Lee
+61755,Writing,1.0,Screenplay,Elisa Briganti
+61791,Writing,1.0,Screenplay,Amanda Silver
+61807,Writing,1.0,Novel,Edith Wharton
+61864,Writing,1.0,Writer,Danièle Thompson
+62177,Writing,1.0,Story,Brenda Chapman
+62177,Writing,1.0,Screenplay,Brenda Chapman
+62177,Writing,1.0,Screenplay,Irene Mecchi
+62214,Writing,1.0,Storyboard,Sharon Smith
+62729,Writing,1.0,Writer,Avdotya Smirnova
+62837,Writing,1.0,Writer,Karen Janszen
+62838,Writing,1.0,Writer,Katherine Fugate
+62843,Writing,1.0,Screenplay,Ester Krumbachová
+62956,Writing,1.0,Writer,Sara Sugarman
+63020,Writing,1.0,Screenplay,Robin Swicord
+63064,Writing,1.0,Writer,Li Yu
+63074,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+63115,Writing,1.0,Screenplay,Alison Maclean
+63115,Writing,1.0,Screenplay,Anne Kennedy
+63186,Writing,1.0,Screenplay,Liliana Cavani
+63186,Writing,1.0,Screenplay,Catherine Breillat
+63217,Writing,1.0,Writer,Ramona Barckert
+63281,Writing,1.0,Novel,Oksana Robski
+63281,Writing,1.0,Screenplay,Victoria Evseeva
+63287,Writing,1.0,Writer,Lori Petty
+63318,Writing,1.0,Writer,Agnès Varda
+63319,Writing,1.0,Screenplay,Rebecca Zlotowski
+63423,Writing,1.0,Writer,Jessica Yu
+63492,Writing,1.0,Screenplay,Gabrielle Allan
+63492,Writing,1.0,Screenplay,Jennifer Crittenden
+63555,Writing,1.0,Writer,Lucía Carreras
+63710,Writing,1.0,Screenplay,Alyson Fouse
+63749,Writing,1.0,Screenplay,Jennifer Iwen
+63849,Writing,1.0,Writer,Nesrin Samdereli
+63849,Writing,1.0,Writer,Yasemin Samdereli
+63858,Writing,1.0,Adaptation,Gina Kaus
+63963,Writing,1.0,Novel,Gong Ji-young
+64133,Writing,1.0,Writer,Marguerite Duras
+64183,Writing,1.0,Screenplay,Deborah Amelon
+64191,Writing,1.0,Writer,Nancey Silvers
+64225,Writing,1.0,Writer,Suzanne Schiffman
+64264,Writing,1.0,Writer,Avdotya Smirnova
+64318,Writing,1.0,Screenplay,Frances Goodrich
+64320,Writing,1.0,Novel,Chrystine Brouillet
+64584,Writing,1.0,Screenplay,Catherine Breillat
+64630,Writing,1.0,Writer,Lucia Drudi Demby
+64666,Writing,1.0,Screenplay,Mara Maryl
+64822,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+64882,Writing,1.0,Original Story,Chang You-jeong
+64900,Writing,1.0,Writer,Claire Denis
+64945,Writing,1.0,Author,S.E. Hinton
+65002,Writing,1.0,Writer,Margarethe von Trotta
+65015,Writing,1.0,Story,Jane Campion
+65015,Writing,1.0,Screenplay,Jane Campion
+65016,Writing,1.0,Screenplay,Catherine Breillat
+65040,Writing,1.0,Writer,Marianne Denicourt
+65040,Writing,1.0,Writer,Nathalie Richard
+65086,Writing,1.0,Screenplay,Jane Goldman
+65214,Writing,1.0,Writer,Sylvia Soska
+65214,Writing,1.0,Writer,Jen Soska
+65215,Writing,1.0,Writer,Alex Borstein
+65218,Writing,1.0,Writer,April Blair
+65229,Writing,1.0,Writer,Céline Sciamma
+65326,Writing,1.0,Writer,Beth Henley
+65481,Writing,1.0,Writer,Helma Sanders-Brahms
+65496,Writing,1.0,Screenplay,Emmanuelle Bercot
+65684,Writing,1.0,Writer,Anne Nelson
+65719,Writing,1.0,Writer,Marguerite Duras
+66135,Writing,1.0,Screenplay,Odile Barski
+66588,Writing,1.0,Screenplay,Laura Jones
+66608,Writing,1.0,Writer,Lindsay Hollister
+66894,Writing,1.0,Writer,Millicent Shelton
+67177,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+67216,Writing,1.0,Screenplay,Nancy Fichman
+67216,Writing,1.0,Screenplay,Jennifer Hoppe
+67219,Writing,1.0,Writer,Mara Maryl
+67221,Writing,1.0,Screenplay,Elisa Briganti
+67377,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+67509,Writing,1.0,Screenplay,Fabienne Berthaud
+67509,Writing,1.0,Novel,Fabienne Berthaud
+67595,Writing,1.0,Writer,Jane Anderson
+67636,Writing,1.0,Writer,Diana Ossana
+67794,Writing,1.0,Writer,Ruth Prawer Jhabvala
+67809,Writing,1.0,Teleplay,Jane Anderson
+67880,Writing,1.0,Screenplay,Lenore J. Coffee
+67952,Writing,1.0,Writer,Kathleen Madigan
+67962,Writing,1.0,Writer,Toni Kalem
+68063,Writing,1.0,Screenplay,Chiara Laudani
+68123,Writing,1.0,Novel,Laura Black
+68191,Writing,1.0,Screenplay,Sonya Levien
+68193,Writing,1.0,Writer,Christine Conradt
+68202,Writing,1.0,Adaptation,Gabriela Tagliavini
+68360,Writing,1.0,Writer,Fien Troch
+68440,Writing,1.0,Theatre Play,Lillian Hellman
+68732,Writing,1.0,Writer,Catherine Cyran
+68894,Writing,1.0,Writer,Ann Hu
+68987,Writing,1.0,Writer,Deepa Mehta
+69040,Writing,1.0,Writer,Marjorie David
+69324,Writing,1.0,Writer,Christine Jeffs
+69426,Writing,1.0,Novel,Jane Austen
+69717,Writing,1.0,Novel,Sally Nicholl
+69740,Writing,1.0,Writer,Hilde Van Mieghem
+69780,Writing,1.0,Story,Joan Gardner
+69780,Writing,1.0,Screenplay,Joan Gardner
+70057,Writing,1.0,Writer,Aubrey Lam Oi-Wah
+70259,Writing,1.0,Writer,Carole Eastman
+70264,Writing,1.0,Writer,Janet Grillo
+70368,Writing,1.0,Scenario Writer,Jeanie Macpherson
+70587,Writing,1.0,Writer,Anna McRoberts
+70687,Writing,1.0,Writer,Hilary Brougher
+70706,Writing,1.0,Writer,Naomi Foner Gyllenhaal
+70712,Writing,1.0,Writer,Martha Higareda
+70738,Writing,1.0,Story,Anita Loos
+70753,Writing,1.0,Writer,Frances Marion
+70758,Writing,1.0,Writer,Mary McDonagh Murphy
+70801,Writing,1.0,Adaptation,Agnes Christine Johnston
+70925,Writing,1.0,Screenplay,Rona Munro
+70955,Writing,1.0,Writer,Emmanuelle Bercot
+70989,Writing,1.0,Writer,Maïwenn
+71041,Writing,1.0,Novel,Thea von Harbou
+71067,Writing,1.0,Scenario Writer,Josephine Lovett
+71134,Writing,1.0,Novel,Agatha Christie
+71140,Writing,1.0,Writer,Kathleen Rowell
+71157,Writing,1.0,Screenplay,Emmanuelle Bercot
+71157,Writing,1.0,Screenplay,Maïwenn
+71184,Writing,1.0,Writer,Camille Thomasson
+71394,Writing,1.0,Writer,Suzi Yoonessi
+71524,Writing,1.0,Writer,Danièle Thompson
+71559,Writing,1.0,Writer,Katell Quillévéré
+71626,Writing,1.0,Writer,Kelly Smith
+71704,Writing,1.0,Screenplay,Jace Anderson
+71859,Writing,1.0,Screenplay,Lynne Ramsay
+71866,Writing,1.0,Writer,Tatiana von Furstenberg
+71866,Writing,1.0,Writer,Francesca Gregorini
+71982,Writing,1.0,Writer,Diana Ossana
+71995,Writing,1.0,Writer,Suso Cecchi d'Amico
+72113,Writing,1.0,Screenplay,Yasmina Reza
+72153,Writing,1.0,Writer,Beryl Vertue
+72197,Writing,1.0,Storyboard,Sharon Smith
+72203,Writing,1.0,Novel,Astrid Lindgren
+72391,Writing,1.0,Writer,Janeen Damian
+72432,Writing,1.0,Story,Ela Thier
+72479,Writing,1.0,Writer,Lenore J. Coffee
+72495,Writing,1.0,Story,Leni Riefenstahl
+72602,Writing,1.0,Story,Maurine Dallas Watkins
+72701,Writing,1.0,Writer,Melanie Dimantas
+72822,Writing,1.0,Writer,Florence Quentin
+72856,Writing,1.0,Scenario Writer,Wanda Tuchock
+72875,Writing,1.0,Writer,Cuca Canals
+72890,Writing,1.0,Writer,Michelle Morgan
+72987,Writing,1.0,Screenplay,Ruth Prawer Jhabvala
+73179,Writing,1.0,Screenplay,Adele Buffington
+73194,Writing,1.0,Screenplay,Sonya Levien
+73311,Writing,1.0,Novel,Mary Shelley
+73351,Writing,1.0,Writer,Bridget Terry
+73351,Writing,1.0,Writer,Susanna Styron
+73454,Writing,1.0,Writer,Belinda McClory
+73456,Writing,1.0,Screenplay,Elise Allen
+73492,Writing,1.0,Screenplay,Ida Lupino
+73563,Writing,1.0,Writer,Gail Gilchriest
+73600,Writing,1.0,Screenplay,Ruth Prawer Jhabvala
+73873,Writing,1.0,Screenplay,Glenn Close
+73889,Writing,1.0,Screenplay,Elena von Saucken
+73921,Writing,1.0,Screenplay,Juana Macías
+73935,Writing,1.0,Screenplay,Amy Heckerling
+73963,Writing,1.0,Writer,Tracy Morse
+73969,Writing,1.0,Adaptation,Hope Loring
+73976,Writing,1.0,Screenplay,Sílvia Lourenço
+74018,Writing,1.0,Writer,Jessica Scott
+74946,Writing,1.0,Novel,Anne Rice
+75258,Writing,1.0,Screenplay,Peggy Holmes
+75341,Writing,1.0,Writer,Julia Bacha
+75446,Writing,1.0,Writer,Karen Weigert
+75578,Writing,1.0,Writer,Willeke van Ammelrooy
+75578,Writing,1.0,Writer,Kim van Kooten
+75713,Writing,1.0,Screenplay,Bev Doyle
+75785,Writing,1.0,Idea,Andrea Blaugrund
+75804,Writing,1.0,Story,Frances Marion
+75804,Writing,1.0,Writer,Frances Marion
+75810,Writing,1.0,Writer,Christine Conradt
+75848,Writing,1.0,Writer,Xaviera Hollander
+75981,Writing,1.0,Screenplay,Axelle Ropert
+76117,Writing,1.0,Screenplay,Edna Anhalt
+76422,Writing,1.0,Teleplay,Anna Sandor
+76494,Writing,1.0,Screenplay,Shauna Cross
+76494,Writing,1.0,Screenplay,Heather Hach
+76532,Writing,1.0,Screenplay,Mélanie Laurent
+76757,Writing,1.0,Writer,Lilly Wachowski
+76757,Writing,1.0,Writer,Lana Wachowski
+76815,Writing,1.0,Screenplay,Naomi L. Selfman
+76964,Writing,1.0,Screenplay,Frances Hyland
+77172,Writing,1.0,Writer,Jane Austen
+77185,Writing,1.0,Writer,Avdotya Smirnova
+77235,Writing,1.0,Writer,Sally Meyer
+77285,Writing,1.0,Screenplay,Yoko Mizuki
+77304,Writing,1.0,Novel,Astrid Lindgren
+77434,Writing,1.0,Writer,Gurinder Chadha
+77461,Writing,1.0,Screenplay,Nadine Labaki
+77499,Writing,1.0,Writer,Elise Allen
+77673,Writing,1.0,Writer,Danièle Thompson
+77678,Writing,1.0,Story,Charlotte Armstrong
+77801,Writing,1.0,Writer,Claire Dietrich
+77801,Writing,1.0,Writer,Jessica Congdon
+77801,Writing,1.0,Writer,Jennifer Siebel Newsom
+77864,Writing,1.0,Writer,Kalki Koechlin
+77878,Writing,1.0,Screenplay,Rebecca Frayn
+77957,Writing,1.0,Screenplay,Catherine Trieschmann
+77966,Writing,1.0,Screenplay,Anita Loos
+78047,Writing,1.0,Writer,Anna McRoberts
+78096,Writing,1.0,Writer,Maria Nation
+78140,Writing,1.0,Writer,Delores Taylor
+78202,Writing,1.0,Writer,Leni Riefenstahl
+78206,Writing,1.0,Screenplay,Marjane Satrapi
+78256,Writing,1.0,Screenplay,Lenore J. Coffee
+78353,Writing,1.0,Author,Gloria Katz
+78362,Writing,1.0,Screenplay,Brittany Wiscombe
+78363,Writing,1.0,Writer,Eva Ionesco
+78401,Writing,1.0,Writer,Irene von Alberti
+78476,Writing,1.0,Screenstory,Anne Fontaine
+78507,Writing,1.0,Novel,Thea von Harbou
+78507,Writing,1.0,Screenplay,Thea von Harbou
+78734,Writing,1.0,Screenplay,Sonya Levien
+78789,Writing,1.0,Writer,Chantal Akerman
+79072,Writing,1.0,Writer,Barbara Albert
+79113,Writing,1.0,Writer,Janeen Damian
+79548,Writing,1.0,Writer,Allison Burnett
+79735,Writing,1.0,Screenplay,Marguerite Roberts
+79735,Writing,1.0,Novel,Marguerite Roberts
+79777,Writing,1.0,Writer,Angelina Jolie
+79995,Writing,1.0,Screenplay,Julie Gavras
+80015,Writing,1.0,Dialogue,Florence Foresti
+80015,Writing,1.0,Scenario Writer,Florence Foresti
+80038,Writing,1.0,Writer,Jennifer Westfeldt
+80080,Writing,1.0,Writer,Věra Chytilová
+80080,Writing,1.0,Writer,Ester Krumbachová
+80094,Writing,1.0,Writer,Věra Chytilová
+80220,Writing,1.0,Writer,Diane Kurys
+80271,Writing,1.0,Writer,Lisa Azuelos
+80271,Writing,1.0,Screenplay,Lisa Azuelos
+80387,Writing,1.0,Writer,Dori Berinstein
+80437,Writing,1.0,Writer,Carina Catelli
+80440,Writing,1.0,Screenplay,Caroline Deruas
+80560,Writing,1.0,Writer,Barbara Loden
+80591,Writing,1.0,Writer,Madonna
+80708,Writing,1.0,Author,Zelda Sears
+81022,Writing,1.0,Screenplay,Bernarda Pagés
+81220,Writing,1.0,Author,Catherine Lloyd Burns
+81244,Writing,1.0,Writer,Diane Frolov
+81416,Writing,1.0,Writer,Nina Weinman
+81481,Writing,1.0,Novel,Gong Ji-young
+81540,Writing,1.0,Screenplay,Lynn Hershman Leeson
+81622,Writing,1.0,Writer,Mila Turajlic
+81699,Writing,1.0,Screenplay,Sonya Levien
+81787,Writing,1.0,Writer,Piera Degli Esposti
+82077,Writing,1.0,Novel,Lynda La Plante
+82077,Writing,1.0,Teleplay,Lynda La Plante
+82178,Writing,1.0,Screenplay,Lenore J. Coffee
+82178,Writing,1.0,Story,Grace Perkins
+82283,Writing,1.0,Writer,Hope Loring
+82321,Writing,1.0,Writer,Julia Loktev
+82377,Writing,1.0,Story,Beth Polson
+82401,Writing,1.0,Teleplay,Kathy Mackel
+82409,Writing,1.0,Screenplay,Sandra Kogut
+82432,Writing,1.0,Writer,Vanessa Parise
+82650,Writing,1.0,Writer,Maya Forbes
+82690,Writing,1.0,Screenplay,Jennifer Lee
+82696,Writing,1.0,Writer,Vanessa Taylor
+82702,Writing,1.0,Novel,Cressida Cowell
+82792,Writing,1.0,Story,Sonya Levien
+82865,Writing,1.0,Writer,Julia Sweeney
+83079,Writing,1.0,Screenplay,Linda Shayne
+83185,Writing,1.0,Writer,Rosa Dias
+83388,Writing,1.0,Writer,Lucy Allwood
+83435,Writing,1.0,Writer,Rina Zelyonaya
+83495,Writing,1.0,Writer,Nadezhda Kozhushanaya
+83540,Writing,1.0,Writer,Carol Morley
+83542,Writing,1.0,Screenplay,Lana Wachowski
+83542,Writing,1.0,Screenplay,Lilly Wachowski
+83588,Writing,1.0,Writer,Ava DuVernay
+83670,Writing,1.0,Screenplay,Martha Wilkerson
+83817,Writing,1.0,Writer,Jeanie Macpherson
+84087,Writing,1.0,Writer,Anita Loos
+84087,Writing,1.0,Writer,Dorothy Yost
+84165,Writing,1.0,Screenplay,Alexia Landeau
+84165,Writing,1.0,Screenplay,Julie Delpy
+84175,Writing,1.0,Writer,Lucy Alibar
+84178,Writing,1.0,Story,Katie Aselton
+84184,Writing,1.0,Screenplay,Rashida Jones
+84200,Writing,1.0,Writer,Lauren Miller
+84201,Writing,1.0,Screenplay,So Yong Kim
+84278,Writing,1.0,Novel,Mary McCarthy
+84281,Writing,1.0,Writer,Sarah Koskoff
+84303,Writing,1.0,Theatre Play,Jane Cowl
+84317,Writing,1.0,Writer,Lena Dunham
+84327,Writing,1.0,Writer,Lauren Greenfield
+84338,Writing,1.0,Story,Mati Diop
+84355,Writing,1.0,Writer,Lynn Shelton
+84903,Writing,1.0,Writer,Ruth Gordon
+85317,Writing,1.0,Writer,Anna Matison
+85330,Writing,1.0,Writer,Paula Goldberg
+85373,Writing,1.0,Writer,Jane English
+85411,Writing,1.0,Writer,Janet Roach
+85446,Writing,1.0,Screenplay,Amanda Brody
+85449,Writing,1.0,Screenplay,Julie Delpy
+85505,Writing,1.0,Writer,Frances Marion
+85509,Writing,1.0,Screenplay,Kathleen Rowell
+85521,Writing,1.0,Writer,Shirley Clarke
+85574,Writing,1.0,Screenplay,Helen Deutsch
+85580,Writing,1.0,Writer,Linda Shayne
+85638,Writing,1.0,Adaptation,Frances Marion
+85685,Writing,1.0,Story,Jeanie Macpherson
+85689,Writing,1.0,Adaptation,Frances Marion
+85696,Writing,1.0,Writer,John McKay
+85827,Writing,1.0,Writer,Jane Klove
+85927,Writing,1.0,Writer,Marguerite Duras
+85942,Writing,1.0,Dialogue,Carole Eastman
+85971,Writing,1.0,Writer,Barbara Peeters
+86096,Writing,1.0,Writer,Marguerite Duras
+86131,Writing,1.0,Writer,Suzette Couture
+86467,Writing,1.0,Screenplay,Rachel Bennette
+86555,Writing,1.0,Writer,Sarah Polley
+86812,Writing,1.0,Writer,Brit Marling
+86814,Writing,1.0,Writer,Chantal Akerman
+86816,Writing,1.0,Screenplay,Jean Rouverol
+87098,Writing,1.0,Writer,Amanda Pope
+87101,Writing,1.0,Screenplay,Laeta Kalogridis
+87101,Writing,1.0,Characters,Gale Anne Hurd
+87115,Writing,1.0,Adaptation,Frances Marion
+87343,Writing,1.0,Writer,Nancey Silvers
+87415,Writing,1.0,Adaptation,Danièle Huillet
+87499,Writing,1.0,Writer,Brit Marling
+87531,Writing,1.0,Writer,Marguerite Roberts
+87729,Writing,1.0,Writer,Ruth Prawer Jhabvala
+87818,Writing,1.0,Writer,Elizabeth Wright Shapiro
+87881,Writing,1.0,Screenplay,Florence Ryerson
+87894,Writing,1.0,Writer,Frances Marion
+87943,Writing,1.0,Writer,Florence Ayisi
+88005,Writing,1.0,Screenplay,Lorene Scafaria
+88036,Writing,1.0,Writer,Mara Brock Akil
+88042,Writing,1.0,Screenstory,Melissa Carter
+88224,Writing,1.0,Writer,Lisa Krueger
+88395,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+88751,Writing,1.0,Screenplay,Jennifer Flackett
+88844,Writing,1.0,Screenplay,Urszula Antoniak
+89185,Writing,1.0,Writer,Jessica Scott
+89187,Writing,1.0,Screenplay,Elizabeth Barondes
+89287,Writing,1.0,Screenplay,Fiona Gordon
+89292,Writing,1.0,Writer,Jule Selbo
+89463,Writing,1.0,Teleplay,Anne Collins
+90148,Writing,1.0,Writer,Isabel Allende
+90171,Writing,1.0,Writer,Aída Bortnik
+90770,Writing,1.0,Writer,Suso Cecchi d'Amico
+90932,Writing,1.0,Screenplay,Elaine Ryan
+90957,Writing,1.0,Screenplay,Anita Loos
+90957,Writing,1.0,Story,Anita Loos
+90968,Writing,1.0,Screenplay,Helen Deutsch
+90992,Writing,1.0,Screenplay,Naoko Ogigami
+91063,Writing,1.0,Screenplay,Stephanie Rothman
+91070,Writing,1.0,Screenplay,Krysten Ritter
+91549,Writing,1.0,Screenplay,Mary Harron
+91618,Writing,1.0,Screenplay,Stephanie Rothman
+91628,Writing,1.0,Writer,Ipek Zübert
+91911,Writing,1.0,Writer,Leslie Zemeckis
+91930,Writing,1.0,Writer,Claire V. Riley
+91930,Writing,1.0,Writer,Paula Goldberg
+92182,Writing,1.0,Writer,Laura Lau
+92341,Writing,1.0,Screenplay,Wanda Tuchock
+92393,Writing,1.0,Story,Suzanne DeLaurentiis
+92432,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+92432,Writing,1.0,Story,Suso Cecchi d'Amico
+92657,Writing,1.0,Writer,Sofia Coppola
+92848,Writing,1.0,Screenplay,Agnes Christine Johnston
+92989,Writing,1.0,Writer,Chu Tien-Wen
+93230,Writing,1.0,Novel,Liza Marklund
+93313,Writing,1.0,Novel,Edna Ferber
+93562,Writing,1.0,Screenplay,Gwen Bagni
+93669,Writing,1.0,Writer,Chantal Akerman
+93775,Writing,1.0,Screenplay,Edna Anhalt
+93863,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+93934,Writing,1.0,Writer,Chantal Akerman
+94066,Writing,1.0,Story,Susan Seidelman
+94348,Writing,1.0,Screenplay,Kerry Williamson
+94529,Writing,1.0,Novel,Daphne Du Maurier
+94727,Writing,1.0,Screenplay,Frances H. Flaherty
+94771,Writing,1.0,Writer,Agnès Varda
+95010,Writing,1.0,Writer,Roberta Findlay
+95134,Writing,1.0,Writer,June Mathis
+95177,Writing,1.0,Writer,Amy Seimetz
+95242,Writing,1.0,Writer,Zoya Barantsevich
+95600,Writing,1.0,Writer,Danièle Huillet
+95610,Writing,1.0,Screenplay,Helen Fielding
+95610,Writing,1.0,Screenplay,Emma Thompson
+95730,Writing,1.0,Writer,Karen Clark
+95744,Writing,1.0,Screenplay,Daniela Féjerman
+95854,Writing,1.0,Screenplay,Frances Marion
+95866,Writing,1.0,Scenario Writer,Frances Marion
+95956,Writing,1.0,Scenario Writer,Dorothy Farnum
+96107,Writing,1.0,Screenplay,Elizabeth Hill
+96196,Writing,1.0,Writer,Sandra Goldbacher
+96243,Writing,1.0,Novel,Audrey Erskine-Lindop
+96252,Writing,1.0,Screenplay,Dorothy Cooper
+96333,Writing,1.0,Writer,Dorothy Tristan
+96395,Writing,1.0,Writer,Frances Marion
+96419,Writing,1.0,Writer,Fina Torres
+96599,Writing,1.0,Screenplay,Megan Griffiths
+96712,Writing,1.0,Writer,Chu Tien-Wen
+96769,Writing,1.0,Writer,Nina Conti
+96936,Writing,1.0,Screenplay,Sofia Coppola
+97024,Writing,1.0,Screenplay,Sarah Y. Mason
+97024,Writing,1.0,Adaptation,Sarah Y. Mason
+97035,Writing,1.0,Writer,Marceline Loridan-Ivens
+97082,Writing,1.0,Writer,Gabrielle Provaas
+97400,Writing,1.0,Writer,Trudie Styler
+97598,Writing,1.0,Story,Kay Van Riper
+97844,Writing,1.0,Writer,Danièle Thompson
+98125,Writing,1.0,Screenplay,Virginia Van Upp
+98136,Writing,1.0,Writer,Yvette Mimieux
+98303,Writing,1.0,Writer,Betty Goldberg
+98364,Writing,1.0,Writer,Ruth Gordon
+98514,Writing,1.0,Screenplay,Kelly Reichardt
+98536,Writing,1.0,Novel,Edna Ferber
+98548,Writing,1.0,Screenplay,Jody Lambert
+98932,Writing,1.0,Screenplay,Judy Morris
+99002,Writing,1.0,Writer,Claire Denis
+99318,Writing,1.0,Story,Dana Burnet
+99351,Writing,1.0,Screenplay,Sonya Levien
+99453,Writing,1.0,Writer,Tilda Swinton
+99534,Writing,1.0,Writer,Lynn Salt
+99599,Writing,1.0,Story,Angelika Wang
+99599,Writing,1.0,Writer,Chu Tien-Wen
+99600,Writing,1.0,Writer,Chu Tien-Wen
+99767,Writing,1.0,Screenplay,Frances Marion
+100241,Writing,1.0,Characters,Mary Shelley
+100529,Writing,1.0,Screenplay,Zoe Lister-Jones
+100973,Writing,1.0,Novel,Liza Marklund
+101449,Writing,1.0,Writer,Jeannie Gaffigan
+101520,Writing,1.0,Writer,Catherine Bainbridge
+101772,Writing,1.0,Writer,Elizabeth Montagu
+102000,Writing,1.0,Screenplay,Ursula Meier
+102272,Writing,1.0,Writer,Margarethe von Trotta
+102533,Writing,1.0,Writer,Sólveig Anspach
+102640,Writing,1.0,Screenplay,Mary Tobler
+102640,Writing,1.0,Screenplay,Nancy Savoca
+102651,Writing,1.0,Screenplay,Linda Woolverton
+102780,Writing,1.0,Screenplay,Moira Buffini
+102780,Writing,1.0,Teleplay,Moira Buffini
+102812,Writing,1.0,Writer,Nancy Dowd
+102812,Writing,1.0,Screenplay,Holly Near
+102841,Writing,1.0,Writer,Joan Rivers
+102855,Writing,1.0,Writer,Ramona S. Diaz
+102933,Writing,1.0,Writer,Allison Anders
+103205,Writing,1.0,Novel,Audrey Erskine-Lindop
+103332,Writing,1.0,Screenplay,Zoe Kazan
+103635,Writing,1.0,Writer,Christine Conradt
+103686,Writing,1.0,Screenplay,Veronika Franz
+103701,Writing,1.0,Screenplay,Júlia Buisel
+103934,Writing,1.0,Writer,Frances Goodrich
+104043,Writing,1.0,Writer,Marisa Silver
+104211,Writing,1.0,Writer,Sonya Levien
+104221,Writing,1.0,Story,Frances Marion
+104221,Writing,1.0,Dialogue,Zelda Sears
+104250,Writing,1.0,Screenplay,Nancy Buirski
+104485,Writing,1.0,Adaptation,Hope Loring
+104720,Writing,1.0,Novel,Kathleen Winsor
+104732,Writing,1.0,Writer,Ronna Gradus
+104732,Writing,1.0,Writer,Jill Bauer
+104739,Writing,1.0,Writer,Chantal Akerman
+104848,Writing,1.0,Writer,Deepa Mehta
+105045,Writing,1.0,Writer,Margarethe von Trotta
+105067,Writing,1.0,Writer,Evelyn Greenleaf Sutherland
+105348,Writing,1.0,Story,Ester Krumbachová
+105348,Writing,1.0,Screenplay,Ester Krumbachová
+105548,Writing,1.0,Adaptation,Frances Marion
+105551,Writing,1.0,Screenplay,Virginia Van Upp
+105703,Writing,1.0,Writer,Chu Tien-Wen
+105981,Writing,1.0,Writer,Sonya Levien
+106016,Writing,1.0,Screenplay,Marion Parsonnet
+106124,Writing,1.0,Screenplay,Věra Chytilová
+106129,Writing,1.0,Writer,Adrienne Shelly
+106131,Writing,1.0,Writer,Adrienne Shelly
+106263,Writing,1.0,Writer,Julie Brown
+106538,Writing,1.0,Writer,Sylvie Verheyde
+107203,Writing,1.0,Writer,Anna Muylaert
+107231,Writing,1.0,Screenplay,Ruth Brooks Flippen
+107250,Writing,1.0,Novel,Gail Bowen
+107257,Writing,1.0,Writer,Nicole Conn
+107852,Writing,1.0,Writer,Claire Simon
+108021,Writing,1.0,Writer,Naomi Foner Gyllenhaal
+108246,Writing,1.0,Screenplay,Dorothy Yost
+108251,Writing,1.0,Writer,Benita Garvin
+108346,Writing,1.0,Writer,Catherine Linstrum
+108391,Writing,1.0,Screenplay,Christine Berardo
+108391,Writing,1.0,Story,Christine Berardo
+108688,Writing,1.0,Adaptation,Sonya Levien
+108822,Writing,1.0,Writer,Chantal Akerman
+108869,Writing,1.0,Theatre Play,Lillian Hellman
+109008,Writing,1.0,Screenplay,Marguerite Roberts
+109380,Writing,1.0,Writer,Ester Krumbachová
+109417,Writing,1.0,Screenplay,Brin Hill
+109445,Writing,1.0,Story,Jennifer Lee
+109445,Writing,1.0,Screenplay,Jennifer Lee
+109600,Writing,1.0,Story,Ruth Prawer Jhabvala
+109797,Writing,1.0,Writer,Ami Canaan Mann
+109881,Writing,1.0,Screenplay,Ayn Rand
+109891,Writing,1.0,Writer,Josephine Lovett
+110282,Writing,1.0,Writer,Amma Asante
+110465,Writing,1.0,Screenplay,Helen Deutsch
+110513,Writing,1.0,Writer,Lili Taylor
+110513,Writing,1.0,Writer,Bruklin Harris
+110540,Writing,1.0,Novel,Edith Wharton
+110540,Writing,1.0,Screenplay,Sarah Y. Mason
+110909,Writing,1.0,Writer,Isabel Coixet
+111239,Writing,1.0,Writer,Carol Morley
+111310,Writing,1.0,Screenplay,Zelda Sears
+111479,Writing,1.0,Screenplay,Jody Savin
+111570,Writing,1.0,Screenplay,Alma Reville
+111605,Writing,1.0,Writer,Nancy Savoca
+111625,Writing,1.0,Writer,Dorothy Cooper
+111815,Writing,1.0,Screenplay,Ruth Prawer Jhabvala
+112130,Writing,1.0,Screenplay,Jenna Mattison
+112160,Writing,1.0,Writer,Lucy Allwood
+112674,Writing,1.0,Screenplay,Sonya Levien
+112705,Writing,1.0,Novel,Constance Jones
+113178,Writing,1.0,Writer,Jane Milmore
+113190,Writing,1.0,Writer,Aerlyn Weissman
+113823,Writing,1.0,Story,Ruth Brooks Flippen
+114150,Writing,1.0,Screenplay,Kay Cannon
+114155,Writing,1.0,Screenplay,Emma Thompson
+114172,Writing,1.0,Writer,Aku Louhimies
+114888,Writing,1.0,Writer,Gertrude Purcell
+115042,Writing,1.0,Writer,Elisa Briganti
+115260,Writing,1.0,Writer,Meissa Hampton
+115872,Writing,1.0,Screenplay,Cuca Canals
+116231,Writing,1.0,Writer,Sylvie Testud
+116232,Writing,1.0,Screenplay,Kay Van Riper
+116377,Writing,1.0,Writer,Anne Le Ny
+116609,Writing,1.0,Screenplay,Christine Conradt
+116780,Writing,1.0,Novel,Shirley Jackson
+116973,Writing,1.0,Screenplay,Sonya Levien
+116977,Writing,1.0,Writer,Rebecca Swanson
+116979,Writing,1.0,Writer,Jennifer Chambers Lynch
+117004,Writing,1.0,Writer,Lenore J. Coffee
+117179,Writing,1.0,Writer,Marti Noxon
+117401,Writing,1.0,Writer,Kathleen Rowell
+117422,Writing,1.0,Writer,Gertrude Purcell
+117478,Writing,1.0,Screenplay,Titina De Filippo
+117479,Writing,1.0,Adaptation,Danièle Huillet
+117751,Writing,1.0,Writer,Anjali Menon
+117904,Writing,1.0,Novel,Lois Duncan
+117923,Writing,1.0,Story,Elika Portnoy
+117923,Writing,1.0,Writer,Nancy L. Babine
+117942,Writing,1.0,Screenplay,Meghan Jones
+117974,Writing,1.0,Writer,Alice Lowe
+118098,Writing,1.0,Screenplay,Ruth Prawer Jhabvala
+118340,Writing,1.0,Screenplay,Nicole Perlman
+118513,Writing,1.0,Novel,Liza Marklund
+118915,Writing,1.0,Screenplay,Elaine May
+119372,Writing,1.0,Novel,Charlotte Brontë
+119450,Writing,1.0,Writer,Amanda Silver
+119893,Writing,1.0,Screenplay,Amy Rardin
+120055,Writing,1.0,Novel,Debbie Macomber
+120481,Writing,1.0,Screenplay,Sally Benson
+120831,Writing,1.0,Screenplay,Frances Marion
+120892,Writing,1.0,Screenplay,Frances Goodrich
+120977,Writing,1.0,Screenplay,Lillian Hellman
+121001,Writing,1.0,Screenplay,Lillie Hayward
+121003,Writing,1.0,Screenplay,Anita Loos
+121006,Writing,1.0,Story,Frances Marion
+121006,Writing,1.0,Screenplay,Frances Marion
+121006,Writing,1.0,Screenplay,Anita Loos
+121088,Writing,1.0,Writer,Issa López
+121197,Writing,1.0,Screenplay,Ida Lupino
+121230,Writing,1.0,Screenplay,Frances Goodrich
+121357,Writing,1.0,Screenplay,Helen Deutsch
+121598,Writing,1.0,Co-Writer,Deepa Mehta
+121676,Writing,1.0,Screenplay,Ruba Nadda
+121734,Writing,1.0,Screenplay,Verónica Fernández
+121831,Writing,1.0,Writer,Liz Garbus
+121835,Writing,1.0,Screenplay,Cate Shortland
+121872,Writing,1.0,Writer,Sally Potter
+121873,Writing,1.0,Screenplay,Margarethe von Trotta
+121975,Writing,1.0,Story,Seena Owen
+121986,Writing,1.0,Writer,Greta Gerwig
+122341,Writing,1.0,Writer,Sharon Lockhart
+122348,Writing,1.0,Writer,Sharon Lockhart
+122917,Writing,1.0,Writer,Fran Walsh
+122917,Writing,1.0,Writer,Philippa Boyens
+123279,Writing,1.0,Writer,Kathy Griffin
+123375,Writing,1.0,Writer,Francesca Comencini
+123553,Writing,1.0,Writer,Cassandra Clare
+123553,Writing,1.0,Novel,Cassandra Clare
+123777,Writing,1.0,Writer,Su Friedrich
+123949,Writing,1.0,Writer,Avdotya Smirnova
+124096,Writing,1.0,Writer,Agnieszka Holland
+124304,Writing,1.0,Screenplay,María Luisa Bemberg
+125233,Writing,1.0,Writer,Lee Rose
+125409,Writing,1.0,Screenplay,Heidi Thomas
+125548,Writing,1.0,Writer,Nancy Savoca
+125623,Writing,1.0,Writer,Nathalie Saugeon
+126083,Writing,1.0,Screenplay,Gertrude Purcell
+126136,Writing,1.0,Scenario Writer,Elizabeth Hill
+126250,Writing,1.0,Story,Susanne Bier
+126265,Writing,1.0,Screenplay,Ida Lupino
+126277,Writing,1.0,Writer,Sylvia Soska
+126277,Writing,1.0,Writer,Jen Soska
+126321,Writing,1.0,Writer,Catherine Corsini
+126415,Writing,1.0,Writer,Suso Cecchi d'Amico
+126783,Writing,1.0,Writer,Lillian Hellman
+126841,Writing,1.0,Writer,Fran Walsh
+126919,Writing,1.0,Novel,Daphne Du Maurier
+127372,Writing,1.0,Screenplay,Vera Blasi
+127374,Writing,1.0,Writer,Becky Johnston
+127497,Writing,1.0,Writer,Sarah Megan Thomas
+127585,Writing,1.0,Story,Jane Goldman
+127728,Writing,1.0,Writer,Jennifer Azano
+127803,Writing,1.0,Writer,Letia Miller
+127856,Writing,1.0,Writer,Alice Winocour
+128216,Writing,1.0,Writer,Sarah Polley
+128298,Writing,1.0,Screenplay,Lenore J. Coffee
+128298,Writing,1.0,Theatre Play,Maurine Dallas Watkins
+128639,Writing,1.0,Writer,Katherine Fugate
+128657,Writing,1.0,Writer,Doriana Leondeff
+128846,Writing,1.0,Screenplay,Danièle Huillet
+128899,Writing,1.0,Adaptation,Dorothy Farnum
+129311,Writing,1.0,Writer,Deborah Twiss
+129432,Writing,1.0,Writer,Sólveig Anspach
+129734,Writing,1.0,Screenplay,Veronika Franz
+129933,Writing,1.0,Writer,Paz Encina
+130150,Writing,1.0,Novel,Joyce Maynard
+130750,Writing,1.0,Writer,Nisha Pahuja
+130900,Writing,1.0,Story,Jane Hall
+131351,Writing,1.0,Writer,Elizabeth Chandler
+131455,Writing,1.0,Screenstory,Anita Loos
+131764,Writing,1.0,Novel,Daphne Du Maurier
+131781,Writing,1.0,Screenplay,Dorothy Cooper
+131836,Writing,1.0,Writer,Marguerite Duras
+131903,Writing,1.0,Writer,Laurie Craig
+132232,Writing,1.0,Writer,Barbara Muschietti
+132344,Writing,1.0,Writer,Julie Delpy
+132344,Writing,1.0,Characters,Kim Krizan
+132597,Writing,1.0,Novel,Helen Hunt Jackson
+132894,Writing,1.0,Writer,Kevin Commins
+132894,Writing,1.0,Writer,Angela Mancuso
+133082,Writing,1.0,Writer,Lola Mayo
+133115,Writing,1.0,Writer,Nicole Burdette
+133491,Writing,1.0,Writer,Laura Santullo
+133557,Writing,1.0,Writer,Gwyneth Hughes
+133764,Writing,1.0,Screenplay,Kristina Buozyte
+133964,Writing,1.0,Writer,Shin Su-won
+134371,Writing,1.0,Novel,Ayn Rand
+134415,Writing,1.0,Writer,Tracy McMenemy
+134427,Writing,1.0,Screenplay,Lenore J. Coffee
+134475,Writing,1.0,Scenario Writer,Frances Marion
+134475,Writing,1.0,Adaptation,Frances Marion
+134738,Writing,1.0,Writer,Ruth Prawer Jhabvala
+135275,Writing,1.0,Writer,Anita Loos
+135337,Writing,1.0,Writer,Mai Zetterling
+135397,Writing,1.0,Story,Amanda Silver
+135397,Writing,1.0,Screenplay,Amanda Silver
+135855,Writing,1.0,Writer,Ilene Chaiken
+136106,Writing,1.0,Writer,Gertrude Purcell
+136616,Writing,1.0,Writer,Sherry Hormann
+136795,Writing,1.0,Writer,Katie Dippold
+136842,Writing,1.0,Writer,Frances Marion
+136850,Writing,1.0,Writer,Guinevere Turner
+137217,Writing,1.0,Writer,Melodie Krieger
+137357,Writing,1.0,Novel,Daphne Du Maurier
+137504,Writing,1.0,Writer,Yoko Mizuki
+138038,Writing,1.0,Writer,Annie DeYoung
+138202,Writing,1.0,Writer,Jenny Deller
+138341,Writing,1.0,Screenplay,Lillie Hayward
+138827,Writing,1.0,Writer,Kanae Minato
+139075,Writing,1.0,Writer,Heather Rose
+139169,Writing,1.0,Writer,Larisa Shepitko
+139176,Writing,1.0,Writer,June Mathis
+139251,Writing,1.0,Writer,Nina Weinman
+139380,Writing,1.0,Writer,Debbie Isitt
+139463,Writing,1.0,Story,Daphne Du Maurier
+139799,Writing,1.0,Screenplay,Helen Deutsch
+139933,Writing,1.0,Writer,Xan Cassavetes
+140161,Writing,1.0,Writer,Renee Longstreet
+140161,Writing,1.0,Writer,Diane Frolov
+140172,Writing,1.0,Screenplay,Cynthia Curnan
+140281,Writing,1.0,Screenplay,Virginia Van Upp
+140595,Writing,1.0,Writer,Elaine Stritch
+140823,Writing,1.0,Writer,Sue Smith
+140823,Writing,1.0,Writer,Kelly Marcel
+140894,Writing,1.0,Writer,Kim van Kooten
+140934,Writing,1.0,Writer,Michelle Mower
+141145,Writing,1.0,Writer,Fien Troch
+141635,Writing,1.0,Writer,Jane Adams
+142132,Writing,1.0,Writer,Allison Anders
+142168,Writing,1.0,Writer,Rosanna Arquette
+142254,Writing,1.0,Screenplay,Sonya Levien
+142308,Writing,1.0,Writer,Anna McRoberts
+142635,Writing,1.0,Writer,Nancey Silvers
+143240,Writing,1.0,Screenplay,Ilona Lepkowska
+143240,Writing,1.0,Novel,Katarzyna Grochola
+143247,Writing,1.0,Writer,Katie Ford
+143881,Writing,1.0,Screenplay,Honey Irani
+144595,Writing,1.0,Writer,Kim van Kooten
+144613,Writing,1.0,Writer,Dorothy Farnum
+144784,Writing,1.0,Writer,Wanda Tuchock
+144792,Writing,1.0,Dialogue,Sonya Levien
+144792,Writing,1.0,Screenplay,Sonya Levien
+145132,Writing,1.0,Writer,Heather Conkie
+145995,Writing,1.0,Writer,Patricia Coleman
+146269,Writing,1.0,Screenplay,Catherine Jelski
+146405,Writing,1.0,Screenplay,Maria Nation
+146521,Writing,1.0,Screenplay,Larisa Shepitko
+146946,Writing,1.0,Writer,Lenore Andriel
+147129,Writing,1.0,Writer,Maria Bamford
+147367,Writing,1.0,Writer,Christie Will
+147843,Writing,1.0,Screenplay,Marguerite Roberts
+148652,Writing,1.0,Novel,Nancy Grace
+149871,Writing,1.0,Screenplay,Riko Sakaguchi
+149893,Writing,1.0,Screenplay,Judith Kaufmann
+149910,Writing,1.0,Writer,Anna McRoberts
+150897,Writing,1.0,Screenplay,Veronika Franz
+151043,Writing,1.0,Writer,Tina Pine
+151310,Writing,1.0,Writer,Marguerite Roberts
+151590,Writing,1.0,Dialogue,Zelda Sears
+151590,Writing,1.0,Writer,Wanda Tuchock
+152584,Writing,1.0,Screenplay,Ghalia Lacroix
+152618,Writing,1.0,Writer,Shelley Michelle
+152756,Writing,1.0,Screenplay,Diablo Cody
+153021,Writing,1.0,Screenplay,Sandi Toksvig
+153738,Writing,1.0,Characters,Mary Shelley
+153774,Writing,1.0,Writer,Alicia Scherson
+153854,Writing,1.0,Writer,Eliza Hittman
+153913,Writing,1.0,Writer,Caroline Doyle
+154282,Writing,1.0,Writer,Lynn Shelton
+154972,Writing,1.0,Creative Producer,Els Rientjes
+155055,Writing,1.0,Screenplay,Lizzie Mickery
+155217,Writing,1.0,Original Story,Rumiko Takahashi
+155308,Writing,1.0,Screenplay,Tanuja Chandra
+155751,Writing,1.0,Writer,Kay Van Riper
+155797,Writing,1.0,Screenplay,Polly Platt
+155890,Writing,1.0,Writer,Hélène Fillières
+156015,Writing,1.0,Writer,Suzanne Schiffman
+156135,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+156135,Writing,1.0,Story,Suso Cecchi d'Amico
+156708,Writing,1.0,Writer,Jill Soloway
+157016,Writing,1.0,Screenplay,Penny Lane
+157283,Writing,1.0,Writer,Muriel Box
+157350,Writing,1.0,Screenplay,Vanessa Taylor
+157351,Writing,1.0,Screenplay,Francesca Gregorini
+157351,Writing,1.0,Screenstory,Sarah Maur Thorp
+157351,Writing,1.0,Screenstory,Francesca Gregorini
+157360,Writing,1.0,Writer,Lake Bell
+157375,Writing,1.0,Writer,Liz W. Garcia
+157380,Writing,1.0,Writer,Cherien Dabis
+157422,Writing,1.0,Screenplay,Shawna Waldron
+157422,Writing,1.0,Story,Shawna Waldron
+157447,Writing,1.0,Screenplay,Alison Cross
+157690,Writing,1.0,Writer,Emmanuelle Bercot
+157823,Writing,1.0,Writer,Kelly Reichardt
+158999,Writing,1.0,Writer,Gabriela Cowperthwaite
+159024,Writing,1.0,Writer,Casey Wilson
+159138,Writing,1.0,Writer,Lucy Walker
+160564,Writing,1.0,Screenplay,Agnès Jaoui
+161024,Writing,1.0,Writer,Victoria Galardi
+161244,Writing,1.0,Writer,Anna Muylaert
+161297,Writing,1.0,Dialogue,Lenore J. Coffee
+161908,Writing,1.0,Writer,Ingrid Guimarães
+162059,Writing,1.0,Screenplay,Lillie Hayward
+162435,Writing,1.0,Writer,Naomi Kawase
+162458,Writing,1.0,Writer,Axelle Ropert
+162928,Writing,1.0,Writer,Frances Marion
+162928,Writing,1.0,Theatre Play,Rachel Crothers
+162928,Writing,1.0,Dialogue,Frances Marion
+163814,Writing,1.0,Teleplay,Aury Wallington
+163814,Writing,1.0,Novel,Beth Kendrick
+164278,Writing,1.0,Theatre Play,Mary Chase
+164652,Writing,1.0,Teleplay,Nancey Silvers
+165569,Writing,1.0,Teleplay,Annie DeYoung
+166007,Writing,1.0,Adaptation,Sarah Y. Mason
+166472,Writing,1.0,Screenplay,Jeanie Macpherson
+167424,Writing,1.0,Screenplay,Barbara Albert
+167449,Writing,1.0,Writer,Aubrey Lam Oi-Wah
+167673,Writing,1.0,Writer,Hallie Todd
+168217,Writing,1.0,Adaptation,Frances Marion
+168426,Writing,1.0,Writer,Joan Carr-Wiggin
+168693,Writing,1.0,Writer,Andrea Arnold
+168705,Writing,1.0,Writer,Guinevere Turner
+169009,Writing,1.0,Novel,Katherine Paterson
+169020,Writing,1.0,Screenplay,Dominique Gauriaud
+169066,Writing,1.0,Novel,Lucille Fletcher
+169068,Writing,1.0,Writer,Wendy Kout
+169343,Writing,1.0,Writer,Neus Ballús
+169343,Writing,1.0,Story,Neus Ballús
+169379,Writing,1.0,Writer,Sandy Wilson
+169832,Writing,1.0,Story,Gail Morgan Hickman
+169832,Writing,1.0,Screenplay,Gail Morgan Hickman
+170178,Writing,1.0,Screenplay,Jules Stewart
+170234,Writing,1.0,Novel,Mildred Cram
+170455,Writing,1.0,Writer,Katherine Fugate
+171213,Writing,1.0,Screenplay,Diane Kurys
+172198,Writing,1.0,Writer,Ildikó Enyedi
+172214,Writing,1.0,Adaptation,Dorothy Farnum
+172385,Writing,1.0,Screenplay,Jenny Bicks
+172386,Writing,1.0,Writer,Cathy Randall
+172443,Writing,1.0,Writer,Anita Loos
+172445,Writing,1.0,Screenplay,Anita Loos
+172475,Writing,1.0,Screenplay,Rosalind Russell
+172577,Writing,1.0,Novel,Martina Cole
+173580,Writing,1.0,Dialogue,Jeanie Macpherson
+174346,Writing,1.0,Writer,Tanya Meillier
+174348,Writing,1.0,Writer,Meera Menon
+174671,Writing,1.0,Writer,Marina de Van
+174759,Writing,1.0,Story,Dorothy Yost
+174925,Writing,1.0,Writer,Jeanie Macpherson
+175035,Writing,1.0,Theatre Play,Rachel Crothers
+175112,Writing,1.0,Story,Peggy Holmes
+175112,Writing,1.0,Story,Lorna Cook
+175334,Writing,1.0,Writer,Frances Marion
+175541,Writing,1.0,Screenplay,Kasi Lemmons
+175774,Writing,1.0,Screenplay,Katharina Schöde
+175774,Writing,1.0,Novel,Kerstin Gier
+175822,Writing,1.0,Novel,Marie Belloc Lowndes
+175983,Writing,1.0,Screenplay,Wanda Tuchock
+176069,Writing,1.0,Writer,Ela Thier
+176403,Writing,1.0,Screenplay,Nana Ekvtimishvili
+176568,Writing,1.0,Writer,Regina Linnanheimo
+176627,Writing,1.0,Story,Virginia Kellogg
+176841,Writing,1.0,Writer,Florence Ryerson
+177335,Writing,1.0,Writer,Alice Arlen
+178146,Writing,1.0,Novel,Ethel Lina White
+178337,Writing,1.0,Screenplay,Florence Ryerson
+179109,Writing,1.0,Screenplay,Claire Denis
+179641,Writing,1.0,Writer,Christine Miller
+180152,Writing,1.0,Writer,Shirley MacLaine
+180836,Writing,1.0,Novel,Agatha Christie
+180836,Writing,1.0,Screenplay,Julia Jones
+181135,Writing,1.0,Writer,Joyce Gittlin
+181135,Writing,1.0,Writer,Janet Fattal
+182981,Writing,1.0,Writer,Urszula Antoniak
+183836,Writing,1.0,Co-Writer,Mona Achache
+183894,Writing,1.0,Writer,Jane Austen
+184020,Writing,1.0,Writer,Danièle Thompson
+184267,Writing,1.0,Writer,June Mathis
+185153,Writing,1.0,Writer,Ruth Prawer Jhabvala
+185154,Writing,1.0,Writer,Ruth Prawer Jhabvala
+185156,Writing,1.0,Writer,Ruth Prawer Jhabvala
+185744,Writing,1.0,Writer,Amy Schumer
+186227,Writing,1.0,Screenplay,Lenore J. Coffee
+186227,Writing,1.0,Adaptation,Lenore J. Coffee
+186976,Writing,1.0,Screenplay,Lucía Carreras
+186988,Writing,1.0,Screenplay,Valeria Golino
+186991,Writing,1.0,Writer,Rebecca Zlotowski
+187276,Writing,1.0,Writer,Amanda Gusack
+187541,Writing,1.0,Writer,Erin Cressida Wilson
+188761,Writing,1.0,Writer,Lucía Puenzo
+188858,Writing,1.0,Screenplay,Lola Mayo
+189682,Writing,1.0,Screenplay,Josephine Lovett
+190853,Writing,1.0,Screenplay,Katell Quillévéré
+190870,Writing,1.0,Screenplay,Odile Barski
+190870,Writing,1.0,Screenplay,Axelle Ropert
+191185,Writing,1.0,Writer,Melanie Dimantas
+191566,Writing,1.0,Screenplay,Karen McCullah Lutz
+193726,Writing,1.0,Writer,Jen Soska
+193726,Writing,1.0,Writer,Sylvia Soska
+194509,Writing,1.0,Screenplay,Virginia Van Upp
+194548,Writing,1.0,Writer,Olga Malea
+195405,Writing,1.0,Screenplay,Frances Hyland
+195405,Writing,1.0,Original Story,Frances Hyland
+195752,Writing,1.0,Writer,Anna Sandor
+195834,Writing,1.0,Writer,Lisa Eichhorn
+196254,Writing,1.0,Writer,Elise Allen
+196325,Writing,1.0,Writer,Aubrey Lam Oi-Wah
+196789,Writing,1.0,Novel,Elizabeth von Arnim
+197089,Writing,1.0,Writer,Noémie Lvovsky
+197772,Writing,1.0,Writer,Nathalie Saugeon
+197936,Writing,1.0,Writer,Marion Vernoux
+198143,Writing,1.0,Screenplay,Frances Goodrich
+198184,Writing,1.0,Writer,Terri Tatchell
+198661,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+199661,Writing,1.0,Screenplay,Agnès Obadia
+199933,Writing,1.0,Novel,Ayn Rand
+199934,Writing,1.0,Writer,Lone Scherfig
+199977,Writing,1.0,Writer,Diane Kurys
+200324,Writing,1.0,Writer,Anita Loos
+200325,Writing,1.0,Writer,Juliane Lorenz
+200548,Writing,1.0,Screenplay,Janine Eser
+201643,Writing,1.0,Writer,Marianna Kaat
+201749,Writing,1.0,Screenplay,Sandra Nettelbeck
+202043,Writing,1.0,Writer,Lynda La Plante
+202140,Writing,1.0,Screenplay,Márta Mészáros
+202238,Writing,1.0,Writer,María Renée Prudencio
+202637,Writing,1.0,Teleplay,Elinor Karpf
+203912,Writing,1.0,Original Story,Mary Shelley
+204128,Writing,1.0,Writer,Mai Zetterling
+204435,Writing,1.0,Screenplay,Honey Irani
+204668,Writing,1.0,Writer,Juliette Sales
+204690,Writing,1.0,Writer,Natalya Merkulova
+204762,Writing,1.0,Writer,Axelle Ropert
+204800,Writing,1.0,Writer,Lillie Hayward
+204839,Writing,1.0,Story,Cyndi Pass
+205481,Writing,1.0,Writer,Janet McTeer
+205608,Writing,1.0,Writer,Bridget Terry
+205775,Writing,1.0,Story,Amanda Silver
+205939,Writing,1.0,Writer,Anne K. Black
+206480,Writing,1.0,Writer,Dorothy Parker
+207703,Writing,1.0,Writer,Jane Goldman
+207871,Writing,1.0,Writer,Annette Haywood-Carter
+208436,Writing,1.0,Story,Božena Němcová
+208478,Writing,1.0,Writer,Sam Taylor-Johnson
+209232,Writing,1.0,Novel,Rita Falk
+209263,Writing,1.0,Writer,Nicole Holofcener
+209266,Writing,1.0,Writer,Caroline Link
+209414,Writing,1.0,Writer,Hilde Van Mieghem
+210234,Writing,1.0,Writer,Veronica Velasco
+210609,Writing,1.0,Writer,Suzanne Clauser
+210777,Writing,1.0,Screenplay,Joyce Eliason
+210938,Writing,1.0,Screenplay,Victoria Tennant
+211088,Writing,1.0,Screenstory,Leanne Pooley
+211088,Writing,1.0,Screenplay,Leanne Pooley
+212927,Writing,1.0,Writer,Wendy Jo Carlton
+213917,Writing,1.0,Writer,Nicole Garcia
+214096,Writing,1.0,Writer,Emily Wachtel
+214181,Writing,1.0,Screenplay,Eleanor Bergstein
+214857,Writing,1.0,Writer,Felicia Day
+215031,Writing,1.0,Writer,Valérie Beaugrand-Champagne
+215032,Writing,1.0,Writer,Jennifer Baichwal
+215628,Writing,1.0,Screenplay,Doriana Leondeff
+215875,Writing,1.0,Writer,Naomi Foner Gyllenhaal
+215881,Writing,1.0,Writer,Catherine Hardwicke
+215993,Writing,1.0,Writer,Lynda La Plante
+216015,Writing,1.0,Screenplay,Kelly Marcel
+216457,Writing,1.0,Screenplay,Arlette Langmann
+216457,Writing,1.0,Screenplay,Caroline Deruas
+216672,Writing,1.0,Writer,Diane Doniol-Valcroze
+218329,Writing,1.0,Writer,Deborah Wakeham
+218369,Writing,1.0,Screenplay,Dorothy Yost
+219553,Writing,1.0,Screenplay,Issa López
+220436,Writing,1.0,Writer,Inge Hegeler
+220488,Writing,1.0,Story,Dennie Gordon
+220493,Writing,1.0,Story,Stacey Miller
+220493,Writing,1.0,Screenplay,Stacey Miller
+220976,Writing,1.0,Screenplay,Anne De Salvo
+221112,Writing,1.0,Screenplay,Barbara Wong Chun-Chun
+221395,Writing,1.0,Writer,Wanda Tuchock
+221510,Writing,1.0,Writer,Kristin Hanggi
+221717,Writing,1.0,Screenplay,Suso Cecchi d'Amico
+221981,Writing,1.0,Writer,Karen Krenis
+222772,Writing,1.0,Idea,Betiana Blum
+223497,Writing,1.0,Screenplay,Maurine Dallas Watkins
+223632,Writing,1.0,Screenplay,Dayna Goldfine
+223946,Writing,1.0,Dialogue,Mona Achache
+223946,Writing,1.0,Writer,Mona Achache
+223946,Writing,1.0,Writer,Camille Chamoux
+224040,Writing,1.0,Screenplay,Patricia Harper
+224251,Writing,1.0,Writer,Deborah Amelon
+224414,Writing,1.0,Screenplay,Leslie Zemeckis
+224951,Writing,1.0,Screenplay,Jana Mitsoula
+224972,Writing,1.0,Writer,Jennifer Siebel Newsom
+225564,Writing,1.0,Writer,Valérie Lemercier
+225886,Writing,1.0,Screenplay,Kate Angelo
+226486,Writing,1.0,Writer,Melissa McCarthy
+226968,Writing,1.0,Story,Anne Archer
+227306,Writing,1.0,Novel,Laura Hillenbrand
+227402,Writing,1.0,Writer,Agnes Christine Johnston
+227735,Writing,1.0,Characters,Karen Janszen
+227964,Writing,1.0,Writer,Patrícia Andrade
+228066,Writing,1.0,Novel,Mary Shelley
+228108,Writing,1.0,Writer,Gren Wells
+228109,Writing,1.0,Writer,Clara Mamet
+228647,Writing,1.0,Screenplay,Marion Parsonnet
+228915,Writing,1.0,Writer,Sarah Daly
+229559,Writing,1.0,Screenplay,Elvira Lindo
+230170,Writing,1.0,Writer,Sarah Silverman
+230266,Writing,1.0,Screenplay,Liv Ullmann
+230864,Writing,1.0,Writer,Dori Berinstein
+230867,Writing,1.0,Writer,Andrea Luka Zimmerman
+231617,Writing,1.0,Writer,Martha Williamson
+232100,Writing,1.0,Writer,Anna Akana
+235271,Writing,1.0,Screenplay,Christina Welsh
+236873,Writing,1.0,Screenplay,Sólveig Anspach
+237709,Writing,1.0,Writer,Kevin Commins
+237983,Writing,1.0,Writer,Deborah Serra
+238952,Writing,1.0,Writer,Agnès Varda
+239056,Writing,1.0,Story,Sarah Bird
+239498,Writing,1.0,Writer,Nancey Silvers
+240154,Writing,1.0,Writer,Jennifer Jostyn
+240154,Writing,1.0,Writer,Leila Leigh
+241071,Writing,1.0,Screenplay,Maggie Kiley
+241259,Writing,1.0,Screenplay,Linda Woolverton
+241287,Writing,1.0,Writer,Lana Del Rey
+241742,Writing,1.0,Story,Naomi L. Selfman
+241771,Writing,1.0,Writer,Gina Prince-Bythewood
+242203,Writing,1.0,Writer,Jane Cusumano
+242262,Writing,1.0,Screenplay,Doriana Leondeff
+242458,Writing,1.0,Writer,Pang Eun-jin
+242621,Writing,1.0,Writer,Wanda Tuchock
+243565,Writing,1.0,Screenplay,Gertrude Purcell
+243684,Writing,1.0,Screenplay,Erin Cressida Wilson
+243987,Writing,1.0,Novel,Jane Austen
+244182,Writing,1.0,Novel,Jane Austen
+244539,Writing,1.0,Writer,Maya Forbes
+244776,Writing,1.0,Writer,Mona Lerche
+245473,Writing,1.0,Writer,Katie Wech
+245685,Writing,1.0,Screenplay,Kim Fuller
+245685,Writing,1.0,Writer,Nicole Dubuc
+245842,Writing,1.0,Writer,Laura Harrington
+247645,Writing,1.0,Dialogue,Kangana Ranaut
+248774,Writing,1.0,Story,Gillian Robespierre
+248774,Writing,1.0,Screenplay,Gillian Robespierre
+249164,Writing,1.0,Screenplay,Shauna Cross
+249916,Writing,1.0,Screenplay,Desiree Akhavan
+250124,Writing,1.0,Screenplay,Marielle Heller
+250538,Writing,1.0,Screenplay,Margaret Nagle
+251028,Writing,1.0,Writer,Morgan Murphy
+251321,Writing,1.0,Writer,Claudia Llosa
+251630,Writing,1.0,Writer,Anna Sandor
+252171,Writing,1.0,Writer,Ana Lily Amirpour
+252407,Writing,1.0,Writer,Doris Dörrie
+252476,Writing,1.0,Writer,Marina Razbezhkina
+252511,Writing,1.0,Writer,Mami Sunada
+252529,Writing,1.0,Screenplay,Isabel Coixet
+252622,Writing,1.0,Writer,Louella MacFarlane
+252724,Writing,1.0,Writer,Katie Ford
+253112,Writing,1.0,Screenplay,Gail Parent
+253112,Writing,1.0,Novel,Gail Parent
+253161,Writing,1.0,Writer,Sophie Barthes
+253279,Writing,1.0,Writer,Karen Moncrieff
+253312,Writing,1.0,Writer,Kali Rocha
+253312,Writing,1.0,Writer,Jennifer Elise Cox
+253406,Writing,1.0,Screenplay,Shari Springer Berman
+253450,Writing,1.0,Screenplay,Chu Tien-Wen
+253454,Writing,1.0,Novel,Kanae Minato
+253639,Writing,1.0,Writer,Sharon Wood
+253686,Writing,1.0,Screenplay,Catherine Castel
+253944,Writing,1.0,Screenplay,Sophie Fillières
+254065,Writing,1.0,Writer,Maria Nation
+254191,Writing,1.0,Writer,Leigh Janiak
+254375,Writing,1.0,Screenplay,Maria von Heland
+254470,Writing,1.0,Writer,Kay Cannon
+254936,Writing,1.0,Writer,Angela Robinson
+255343,Writing,1.0,Screenplay,Andrea Di Stefano
+255709,Writing,1.0,Writer,Kim Ji-Hye
+255948,Writing,1.0,Screenplay,Naomi Kawase
+256108,Writing,1.0,Screenplay,Judith Kaufmann
+256735,Writing,1.0,Writer,Christine Conradt
+256913,Writing,1.0,Writer,Lisa Azuelos
+257211,Writing,1.0,Writer,Nancy Meyers
+258070,Writing,1.0,Screenplay,Thea von Harbou
+258284,Writing,1.0,Screenplay,Nicole Holofcener
+258509,Writing,1.0,Screenplay,Randi Mayem Singer
+259316,Writing,1.0,Screenplay,J.K. Rowling
+259316,Writing,1.0,Novel,J.K. Rowling
+259694,Writing,1.0,Screenplay,Dana Fox
+259694,Writing,1.0,Screenplay,Abby Kohn
+259694,Writing,1.0,Screenstory,Abby Kohn
+260312,Writing,1.0,Novel,Katherine Pancol
+261037,Writing,1.0,Writer,Karen Leigh Hopkins
+261684,Writing,1.0,Adaptation,Zelda Sears
+261684,Writing,1.0,Screenplay,Florence Ryerson
+261825,Writing,1.0,Writer,Talya Lavie
+261985,Writing,1.0,Screenplay,Agatha Dominik
+262176,Writing,1.0,Scenario Writer,Elizabeth Meehan
+262176,Writing,1.0,Adaptation,Elizabeth Meehan
+263032,Writing,1.0,Writer,Anna Sandor
+263627,Writing,1.0,Writer,Nina Weinman
+263855,Writing,1.0,Writer,Claudia Myers
+264530,Writing,1.0,Theatre Play,Marie N'Diaye
+264760,Writing,1.0,Writer,Jenna Mattison
+265193,Writing,1.0,Screenplay,Naomi Kawase
+265741,Writing,1.0,Writer,Anna Sandor
+265966,Writing,1.0,Writer,Brenda Newman
+266034,Writing,1.0,Screenplay,Stéphanie Cléau
+266040,Writing,1.0,Writer,Pascale Ferran
+266044,Writing,1.0,Screenplay,Jessica Hausner
+266082,Writing,1.0,Writer,Céline Sciamma
+266353,Writing,1.0,Screenplay,Suzette Couture
+267935,Writing,1.0,Screenplay,Melissa Mathison
+268174,Writing,1.0,Writer,Tara Karsian
+268652,Writing,1.0,Story,Geraldine Chaplin
+268660,Writing,1.0,Writer,Anjali Menon
+269149,Writing,1.0,Story,Jennifer Lee
+270400,Writing,1.0,Screenplay,Mélanie Laurent
+270403,Writing,1.0,Writer,Ronit Elkabetz
+270616,Writing,1.0,Writer,Jacqueline Feather
+270696,Writing,1.0,Writer,Shauna MacDonald
+271185,Writing,1.0,Writer,Allison Burnett
+271718,Writing,1.0,Writer,Amy Schumer
+272095,Writing,1.0,Screenplay,Carla Ortiz
+272435,Writing,1.0,Screenplay,Anne Fontaine
+272543,Writing,1.0,Writer,Nicole Walter-Lingen
+272693,Writing,1.0,Book,Kody Keplinger
+273153,Writing,1.0,Screenplay,Catherine Corsini
+273169,Writing,1.0,Writer,Audrey Dana
+273510,Writing,1.0,Screenplay,Heidi Thomas
+273632,Writing,1.0,Writer,Sophie Lorain
+274007,Writing,1.0,Screenplay,Nancey Silvers
+274479,Writing,1.0,Story,Annie Mumolo
+274868,Writing,1.0,Writer,Polly Draper
+274990,Writing,1.0,Writer,Liv Ullmann
+275601,Writing,1.0,Writer,Diablo Cody
+276833,Writing,1.0,Writer,Regina Russell Banali
+276906,Writing,1.0,Writer,Jess Weixler
+276906,Writing,1.0,Writer,Jennifer Prediger
+277217,Writing,1.0,Writer,Josann McGibbon
+277217,Writing,1.0,Writer,Sara Parriott
+277435,Writing,1.0,Writer,Debra Granik
+278334,Writing,1.0,Writer,Evelyn Purcell
+278738,Writing,1.0,Writer,Bruce Bundy
+279229,Writing,1.0,Novel,Kerstin Gier
+279229,Writing,1.0,Screenplay,Katharina Schöde
+279641,Writing,1.0,Book,Kim Barker
+279828,Writing,1.0,Novel,Lauren Oliver
+279973,Writing,1.0,Writer,Brittany Wiscombe
+280723,Writing,1.0,Screenplay,Saskia Diesing
+281230,Writing,1.0,Writer,Kate Connor
+281506,Writing,1.0,Writer,Amy Rardin
+282035,Writing,1.0,Screenstory,Jenny Lumet
+283146,Writing,1.0,Writer,Nina Paley
+283366,Writing,1.0,Screenplay,Jane Goldman
+283378,Writing,1.0,Screenplay,Kathryn Price
+284053,Writing,1.0,Story,Stephany Folsom
+284286,Writing,1.0,Writer,Sarah Kernochan
+284303,Writing,1.0,Writer,Veronika Franz
+285024,Writing,1.0,Novel,Arielle Holmes
+285843,Writing,1.0,Writer,Ruba Nadda
+285844,Writing,1.0,Writer,Sonja Bennett
+285946,Writing,1.0,Screenplay,Gina Kaus
+286437,Writing,1.0,Screenplay,Marion Fairfax
+286971,Writing,1.0,Screenplay,Hilary Brougher
+286971,Writing,1.0,Screenplay,Tristine Skyler
+288173,Writing,1.0,Screenplay,Catherine Cyran
+288708,Writing,1.0,Idea,Veronika Franz
+288778,Writing,1.0,Writer,Kimberly Levin
+288977,Writing,1.0,Writer,Ann Peacock
+289153,Writing,1.0,Writer,Tonie Marshall
+289339,Writing,1.0,Writer,Chelsea Peretti
+289891,Writing,1.0,Writer,Ami Canaan Mann
+290098,Writing,1.0,Writer,Jeong Seo-gyeong
+290188,Writing,1.0,Writer,Cynthia Riddle
+290762,Writing,1.0,Screenplay,Morwenna Banks
+291869,Writing,1.0,Writer,Stacey Miller
+292396,Writing,1.0,Writer,Melissa Carter
+293271,Writing,1.0,Original Story,Tove Jansson
+293310,Writing,1.0,Screenplay,Laura Poitras
+294544,Writing,1.0,Screenplay,Dana Brown
+294741,Writing,1.0,Writer,Carol Morley
+296360,Writing,1.0,Story,Jane Austen
+296865,Writing,1.0,Screenplay,Laura Santullo
+297098,Writing,1.0,Writer,Chelsea Handler
+297160,Writing,1.0,Writer,St. Vincent
+297160,Writing,1.0,Writer,Jovanka Vuckovic
+297160,Writing,1.0,Writer,Karyn Kusama
+297160,Writing,1.0,Writer,Roxanne Benjamin
+297186,Writing,1.0,Writer,Mari Asato
+297239,Writing,1.0,Novel,Mirjam Mous
+298158,Writing,1.0,Writer,Jacqueline Feather
+298382,Writing,1.0,Screenplay,Jocelyn Moorhouse
+298729,Writing,1.0,Screenplay,Paola Cortellesi
+299513,Writing,1.0,Writer,Regina Y. Hicks
+299513,Writing,1.0,Writer,Karin Gist
+299576,Writing,1.0,Writer,Nancey Silvers
+299582,Writing,1.0,Writer,Janeen Damian
+299585,Writing,1.0,Novel,Debbie Macomber
+299588,Writing,1.0,Writer,Margaret Oberman
+299687,Writing,1.0,Screenplay,Susannah Grant
+300179,Writing,1.0,Writer,Marianna Palka
+300187,Writing,1.0,Screenplay,Holly Goldberg Sloan
+300667,Writing,1.0,Story,Gaby Dellal
+301325,Writing,1.0,Screenplay,Tara Subkoff
+301730,Writing,1.0,Writer,Belinda McClory
+302429,Writing,1.0,Screenplay,Irene Mecchi
+302688,Writing,1.0,Writer,Nia Vardalos
+304410,Writing,1.0,Writer,Victoria Bedos
+306197,Writing,1.0,Writer,Kris Swanberg
+306464,Writing,1.0,Writer,Alex Borstein
+306952,Writing,1.0,Screenplay,Amy Andelson
+306952,Writing,1.0,Screenplay,Emily Meyer
+307479,Writing,1.0,Story,April Mullen
+308453,Writing,1.0,Writer,Melissa Rauch
+308457,Writing,1.0,Writer,Jennifer Phang
+308457,Writing,1.0,Writer,Jacqueline Kim
+308686,Writing,1.0,Teleplay,Martha Williamson
+309242,Writing,1.0,Writer,Anna Boden
+309245,Writing,1.0,Screenplay,Greta Gerwig
+309924,Writing,1.0,Writer,Kate Miles Melville
+310569,Writing,1.0,Screenplay,Anna Muylaert
+312167,Writing,1.0,Writer,Alexandra Julson
+312669,Writing,1.0,Writer,Rebecca Miller
+313556,Writing,1.0,Writer,Anna Matison
+314385,Writing,1.0,Screenplay,Angelina Jolie
+315010,Writing,1.0,Novel,Jane Austen
+315575,Writing,1.0,Screenplay,Julie Peyr
+315865,Writing,1.0,Writer,Caroline Deruas
+315865,Writing,1.0,Writer,Arlette Langmann
+316015,Writing,1.0,Writer,Christine Conradt
+316154,Writing,1.0,Writer,Ana Lily Amirpour
+316268,Writing,1.0,Writer,Meredith Majors
+317925,Writing,1.0,Screenplay,Issa López
+318044,Writing,1.0,Screenplay,Liz Garbus
+318256,Writing,1.0,Writer,Brittany Huckabee
+318850,Writing,1.0,Novel,Anne Rice
+319373,Writing,1.0,Screenplay,Naomi Kawase
+319924,Writing,1.0,Writer,Anna McRoberts
+320003,Writing,1.0,Writer,Hélène Zimmer
+320028,Writing,1.0,Screenplay,Francesca Archibugi
+320586,Writing,1.0,Writer,Ondi Timoner
+320703,Writing,1.0,Screenplay,Kat Foster
+320996,Writing,1.0,Writer,Iliza Shlesinger
+321068,Writing,1.0,Writer,Anne K. Black
+321612,Writing,1.0,Screenstory,Linda Woolverton
+321666,Writing,1.0,Writer,Issa López
+322240,Writing,1.0,Writer,Gwyn Lurie
+322378,Writing,1.0,Writer,Karin af Klintberg
+322922,Writing,1.0,Story,Natalie Burn
+323552,Writing,1.0,Writer,Nikki Cox
+323676,Writing,1.0,Screenplay,Melissa McCarthy
+323677,Writing,1.0,Screenplay,Anna Waterhouse
+324173,Writing,1.0,Writer,Whitney Cummings
+324251,Writing,1.0,Writer,Hailey Gates
+324572,Writing,1.0,Novel,Heleen van Royen
+325113,Writing,1.0,Writer,Amy S. Weber
+326256,Writing,1.0,Writer,Meera Simhan
+326723,Writing,1.0,Writer,Christine Wiegand
+327040,Writing,1.0,Screenplay,Eva Husson
+328252,Writing,1.0,Writer,Teresa de Rosendo
+328387,Writing,1.0,Writer,Jessica Sharzer
+328448,Writing,1.0,Writer,Maggie Kiley
+329805,Writing,1.0,Screenplay,Maïwenn
+329815,Writing,1.0,Screenplay,Alice Winocour
+329819,Writing,1.0,Screenplay,Emmanuelle Bercot
+330115,Writing,1.0,Screenplay,Helen Hunt
+330294,Writing,1.0,Writer,Valérie Donzelli
+330430,Writing,1.0,Writer,Inés de Oliveira Cézar
+330982,Writing,1.0,Writer,Mona Lerche
+331354,Writing,1.0,Screenplay,Leticia Dolera
+331588,Writing,1.0,Novel,Katherine Paterson
+332340,Writing,1.0,Writer,Tess Morris
+332665,Writing,1.0,Writer,Kate Lyn Sheil
+333091,Writing,1.0,Writer,Natalia Leite
+333367,Writing,1.0,Writer,Fabienne Berthaud
+333665,Writing,1.0,Writer,Zoe Lister-Jones
+334304,Writing,1.0,Writer,Juliette Sales
+334312,Writing,1.0,Writer,Elodie Namer
+334538,Writing,1.0,Writer,Patricia Rozema
+335145,Writing,1.0,Writer,Eleanor Bergstein
+336029,Writing,1.0,Screenplay,Natalie Portman
+336033,Writing,1.0,Writer,Ruby Rose
+336455,Writing,1.0,Writer,Barbara Marshall
+336804,Writing,1.0,Writer,Alice Winocour
+336884,Writing,1.0,Writer,Kjersti Helen Rasmussen
+337101,Writing,1.0,Writer,Alicia Scherson
+337154,Writing,1.0,Writer,Lorene Scafaria
+337703,Writing,1.0,Writer,Pascale Ferran
+338485,Writing,1.0,Teleplay,Martha Williamson
+338485,Writing,1.0,Story,Martha Williamson
+338964,Writing,1.0,Writer,Shauna Cross
+339079,Writing,1.0,Writer,Anna Axster
+339526,Writing,1.0,Writer,Elana Lesser
+340101,Writing,1.0,Screenplay,Gaby Chiappe
+340485,Writing,1.0,Writer,Andrea Arnold
+340487,Writing,1.0,Screenplay,Kelly Reichardt
+341392,Writing,1.0,Writer,Julie Delpy
+342878,Writing,1.0,Writer,Lisa Azuelos
+343140,Writing,1.0,Screenplay,Sylvia Chang
+343371,Writing,1.0,Writer,Sarah Kate Levy
+345438,Writing,1.0,Scenario Writer,Elle van Rijn
+345924,Writing,1.0,Writer,Megan Griffiths
+346225,Writing,1.0,Screenplay,Paz Alicia Garciadiego
+346347,Writing,1.0,Writer,Christina Ray
+346489,Writing,1.0,Writer,Nancey Silvers
+346494,Writing,1.0,Writer,Elena von Saucken
+346685,Writing,1.0,Adaptation,Erin Cressida Wilson
+347026,Writing,1.0,Book,Susan Williams
+347033,Writing,1.0,Story,Amy Fox
+347033,Writing,1.0,Story,Alysia Reiner
+347033,Writing,1.0,Story,Sarah Megan Thomas
+347033,Writing,1.0,Writer,Amy Fox
+347035,Writing,1.0,Screenplay,Andrea Gibb
+347096,Writing,1.0,Writer,Anne K. Black
+347106,Writing,1.0,Writer,Martina Haag
+347702,Writing,1.0,Co-Writer,Jane Anderson
+347764,Writing,1.0,Writer,Alexis Kendra
+348390,Writing,1.0,Writer,Susannah Grant
+350931,Writing,1.0,Writer,Christine Conradt
+351242,Writing,1.0,Writer,Clea DuVall
+352197,Writing,1.0,Writer,Laurie Anderson
+353069,Writing,1.0,Writer,Anya Kochoff
+353616,Writing,1.0,Writer,Kay Cannon
+354251,Writing,1.0,Writer,Roxanne Benjamin
+354388,Writing,1.0,Writer,Chantal Akerman
+354859,Writing,1.0,Writer,Robin Swicord
+355178,Writing,1.0,Writer,Amy Schumer
+355335,Writing,1.0,Writer,Natasha Leggero
+355389,Writing,1.0,Writer,Naomi Klein
+356200,Writing,1.0,Screenplay,Ipek Zübert
+356294,Writing,1.0,Co-Writer,Leanne Pooley
+356294,Writing,1.0,Writer,Leanne Pooley
+356366,Writing,1.0,Writer,Katherine Brooks
+356381,Writing,1.0,Screenplay,Leyla Bouzid
+356752,Writing,1.0,Writer,Deb Shoval
+357424,Writing,1.0,Writer,Adrianna DiLonardo
+357706,Writing,1.0,Screenplay,Sudha Kongara Prasad
+357706,Writing,1.0,Story,Sudha Kongara Prasad
+358807,Writing,1.0,Writer,Anna Rose Holmer
+359413,Writing,1.0,Writer,India Desjardins
+359413,Writing,1.0,Novel,India Desjardins
+359784,Writing,1.0,Writer,Sherry White
+360389,Writing,1.0,Writer,Cynthia Mort
+360605,Writing,1.0,Writer,Amy Rardin
+360606,Writing,1.0,Writer,Tiffany Paulsen
+361069,Writing,1.0,Writer,Michal Vinik
+361261,Writing,1.0,Writer,Martha Williamson
+361751,Writing,1.0,Writer,Nancey Silvers
+362876,Writing,1.0,Writer,Marina Person
+362886,Writing,1.0,Writer,Nina Weinman
+363103,Writing,1.0,Screenplay,Patrícia Andrade
+363476,Writing,1.0,Writer,Karen McClellan
+363889,Writing,1.0,Story,Renee Dorian
+364051,Writing,1.0,Dialogue,Anne Fontaine
+364051,Writing,1.0,Adaptation,Anne Fontaine
+364051,Writing,1.0,Screenplay,Alice Vial
+364067,Writing,1.0,Writer,Sofia Coppola
+364781,Writing,1.0,Writer,Giedrė Žickytė
+365997,Writing,1.0,Writer,Toni Myers
+366017,Writing,1.0,Writer,Rachel Stuhler
+366104,Writing,1.0,Screenplay,Julie Peyr
+366901,Writing,1.0,Writer,Shamim Sarif
+367999,Writing,1.0,Screenplay,Paola Cortellesi
+369894,Writing,1.0,Writer,Robin Swicord
+371447,Writing,1.0,Writer,So Yong Kim
+371459,Writing,1.0,Writer,Mirjana Karanović
+371464,Writing,1.0,Screenplay,Nicolette Krebitz
+372411,Writing,1.0,Screenplay,Jennifer Saunders
+372754,Writing,1.0,Comic Book,Asumiko Nakamura
+373480,Writing,1.0,Screenplay,Sara Jordenö
+373569,Writing,1.0,Screenplay,Amy Schumer
+373569,Writing,1.0,Screenplay,Kim Caramele
+373569,Writing,1.0,Writer,Katie Dippold
+374052,Writing,1.0,Writer,Anna Biller
+374461,Writing,1.0,Writer,Susan McMartin
+374464,Writing,1.0,Screenplay,Rebecca Zlotowski
+374475,Writing,1.0,Screenplay,Maren Ade
+375356,Writing,1.0,Scenario Writer,Josiane Balasko
+376166,Writing,1.0,Screenplay,Nicole Garcia
+376570,Writing,1.0,Writer,Kate Siegel
+376581,Writing,1.0,Writer,Lisa Addario
+376660,Writing,1.0,Writer,Kelly Fremon Craig
+377154,Writing,1.0,Writer,Céline Sciamma
+377290,Writing,1.0,Writer,Lone Scherfig
+377492,Writing,1.0,Writer,Molly Prather
+377852,Writing,1.0,Writer,Doris Dörrie
+378446,Writing,1.0,Writer,Brigitte Sy
+379008,Writing,1.0,Writer,Whitney Cummings
+379019,Writing,1.0,Screenplay,Ruth Toma
+379297,Writing,1.0,Writer,Susan McMartin
+379300,Writing,1.0,Screenplay,Noriko Gotô
+379992,Writing,1.0,Teleplay,Martha Williamson
+380225,Writing,1.0,Screenplay,Francesca Archibugi
+381008,Writing,1.0,Writer,Annie J. Howell
+381008,Writing,1.0,Writer,Lisa Robinson
+381015,Writing,1.0,Story Editor,Karen Walton
+381028,Writing,1.0,Writer,Sarah Wilson
+381064,Writing,1.0,Writer,Anne Hamilton
+381073,Writing,1.0,Writer,Logan Kibens
+381284,Writing,1.0,Screenplay,Allison Schroeder
+381289,Writing,1.0,Screenplay,Audrey Wells
+381289,Writing,1.0,Screenplay,Maya Forbes
+381356,Writing,1.0,Writer,Alice Vial
+382399,Writing,1.0,Writer,Janeen Damian
+382455,Writing,1.0,Screenplay,Anna Muylaert
+382509,Writing,1.0,Writer,Danièle Thompson
+382906,Writing,1.0,Writer,Alicia Scherson
+383807,Writing,1.0,Screenplay,Katell Quillévéré
+385372,Writing,1.0,Writer,Maddy Curley
+389044,Writing,1.0,Writer,Sólveig Anspach
+391663,Writing,1.0,Writer,Maria Schrader
+391934,Writing,1.0,Writer,Jane Austen
+392091,Writing,1.0,Writer,Christine Triano
+392832,Writing,1.0,Screenplay,Doriana Leondeff
+392882,Writing,1.0,Novel,Kanae Minato
+393519,Writing,1.0,Story,Julia Ducournau
+393519,Writing,1.0,Dialogue,Julia Ducournau
+393519,Writing,1.0,Screenplay,Julia Ducournau
+393559,Writing,1.0,Screenplay,Céline Sciamma
+393659,Writing,1.0,Writer,Monica Parker
+393945,Writing,1.0,Screenplay,Emmanuelle Bercot
+394269,Writing,1.0,Writer,Beyoncé Knowles
+394385,Writing,1.0,Writer,Juliane Lorenz
+394415,Writing,1.0,Writer,Rachel Feinstein
+394689,Writing,1.0,Writer,Riki Lindhome
+394689,Writing,1.0,Writer,Kate Micucci
+395982,Writing,1.0,Writer,Alice Lowe
+396292,Writing,1.0,Writer,Ali Wong
+397520,Writing,1.0,Writer,Susan Coyne
+397837,Writing,1.0,Screenplay,Maria Maggenti
+397837,Writing,1.0,Novel,Lauren Oliver
+399019,Writing,1.0,Screenplay,Sofia Coppola
+399747,Writing,1.0,Writer,Amber Coney
+401104,Writing,1.0,Screenplay,Marti Noxon
+401164,Writing,1.0,Writer,Alexi Pappas
+401743,Writing,1.0,Screenplay,Irene Turner
+404378,Writing,1.0,Writer,Maria Nation
+404459,Writing,1.0,Story,Genevieve Nnaji
+405473,Writing,1.0,Original Story,Yasmine Akram
+406990,Writing,1.0,Writer,Kerry Williamson
+406992,Writing,1.0,Writer,Claudia Myers
+407171,Writing,1.0,Teleplay,Martha Williamson
+407171,Writing,1.0,Story,Martha Williamson
+407806,Writing,1.0,Writer,Ava DuVernay
+408435,Writing,1.0,Screenplay,Amanda Kernell
+408543,Writing,1.0,Screenplay,Florence Vignon
+408624,Writing,1.0,Screenplay,Konkona Sen Sharma
+410126,Writing,1.0,Writer,Aidee Walker
+410537,Writing,1.0,Writer,Amanda Barton
+412204,Writing,1.0,Writer,Andrea Stoll
+412214,Writing,1.0,Writer,Tiina Lymi
+412519,Writing,1.0,Writer,Catherine Cyran
+412974,Writing,1.0,Writer,Jessica Scott
+413440,Writing,1.0,Writer,Nina Weinman
+413441,Writing,1.0,Writer,Suzette Couture
+413778,Writing,1.0,Screenplay,Fiona Gordon
+413998,Writing,1.0,Novel,Daphne Du Maurier
+415021,Writing,1.0,Writer,Jeanie Macpherson
+416477,Writing,1.0,Writer,Emily V. Gordon
+416691,Writing,1.0,Writer,Minhal Baig
+417320,Writing,1.0,Writer,Sara Parriott
+417320,Writing,1.0,Writer,Josann McGibbon
+417870,Writing,1.0,Writer,Karen McCullah Lutz
+418693,Writing,1.0,Writer,Ricki Stern
+419459,Writing,1.0,Writer,Gillian Robespierre
+419459,Writing,1.0,Story,Gillian Robespierre
+420511,Writing,1.0,Writer,Lara Daans
+421552,Writing,1.0,Writer,Janeane Garofalo
+421758,Writing,1.0,Writer,Maria Nation
+422550,Writing,1.0,Writer,Sarah Colonna
+424145,Writing,1.0,Writer,Avdotya Smirnova
+424488,Writing,1.0,Writer,Annie Mumolo
+424488,Writing,1.0,Writer,Pamela Gray
+426230,Writing,1.0,Writer,Zoe Lister-Jones
+426830,Writing,1.0,Writer,Juliette Sales
+427673,Writing,1.0,Writer,Lauren Collins
+429070,Writing,1.0,Writer,Léa Mysius
+429070,Writing,1.0,Writer,Julie Peyr
+429662,Writing,1.0,Writer,Gurinder Chadha
+429662,Writing,1.0,Writer,Moira Buffini
+430161,Writing,1.0,Writer,Lucía Puenzo
+431937,Writing,1.0,Writer,Doria Tillier
+432799,Writing,1.0,Writer,Agnieszka Holland
+432959,Writing,1.0,Writer,Jeannie Gaffigan
+436343,Writing,1.0,Writer,Ildikó Enyedi
+437941,Writing,1.0,Screenplay,Anastasiya Palchikova
+439107,Writing,1.0,Writer,Katherine Ryan
+440597,Writing,1.0,Writer,Barbara Marshall
+440708,Writing,1.0,Screenplay,Paola Cortellesi
+444513,Writing,1.0,Writer,Amy Schumer
+444902,Writing,1.0,Writer,Jessica Sharzer
+453354,Writing,1.0,Writer,Léa Mysius
+455601,Writing,1.0,Writer,Maria Bamford
+457470,Writing,1.0,Writer,Suzette Couture
+459295,Writing,1.0,Writer,Sarah Silverman
+459950,Writing,1.0,Writer,Troian Bellisario
+464111,Writing,1.0,Screenplay,Terri Tatchell
