@@ -15,3 +15,7 @@ Has there been an increase in the percentage of females (vs. all other genders) 
 originally scraped from [TMDB](https://www.themoviesdb.org)
 
 * Technology: [Python](https://www.python.org/), [Jupyter](https://jupyter.org/), [Amazon RDS](https://aws.amazon.com/rds/?did=ap_card&trk=ap_card), [PostgreSQL](https://www.postgresql.org/), [pgAgmin](https://www.pgadmin.org/), [Pandas](https://pandas.pydata.org/), [scikit-learn](https://scikit-learn.org/stable/), [matplotlib](https://matplotlib.org/), [tableau](https://www.tableau.com/), [Excel](https://www.microsoft.com/en-us/?ql=3)
+
+---
+### Other Female Representation In The Film Industry Projects
+* [Has there been an increase in the percentage of females (vs. males) employed in the film industry since 1950?](https://github.com/Kenner82/FRITFI-Female_vs_Male_Since_1950)
